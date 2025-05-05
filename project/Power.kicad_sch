@@ -5,9 +5,9 @@
 	(uuid "9ea1b61d-5f7f-45f0-81ad-cc1dad603cf2")
 	(paper "A4")
 	(title_block
-		(title "ZSWatch v2")
-		(date "2024-07-23")
-		(rev "6")
+		(title "ZSWatch v3")
+		(date "2025-05-05")
+		(rev "1")
 		(company "github.com/jakkra/ZSWatch-HW")
 	)
 	(lib_symbols
