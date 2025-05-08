@@ -350,45 +350,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 301.498 205.148 0)
+		(property "manf" "KYOCERA AVX"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "75c44fdc-db70-47c9-af88-d1410ad47a21")
+			(uuid "51e827af-2432-42d0-bff6-77d13e0f23f9")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "06036D225KAT2A"
-			(at 301.498 205.148 0)
+		(property "manf#" "06036D225KAT2A"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bc08e5a3-a1f9-4fb3-a022-c754afa99228")
+			(uuid "1a9cd1c3-aff7-4725-9f4a-89ef963be6c6")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "581-06036D225KAT2A"
-			(at 301.498 205.148 0)
+		(property "mouser#" "581-06036D225KAT2A"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "45a529ca-357d-487b-a93c-277672333d5a")
+			(uuid "222ca67d-c337-45ad-95e6-47c206229066")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/cee9a3a2-28cd-4e6c-b23d-337f115f39e8/93546abb-c4af-464d-9ec2-5521f5e20bca")
-		(sheetname "Power Management")
+		(sheetname "/Power Management/")
 		(sheetfile "Power.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -609,45 +612,48 @@
 				)
 			)
 		)
-		(property "Mfr." "Knowles"
-			(at 290.965 -34.089 0)
+		(property "manf" "Knowles"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "71f0ee46-689a-42b1-b369-f23f6f0e6c19")
+			(uuid "0125ad35-7cec-442e-87e1-e7c6479ea192")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "SPK0641HT4H-1"
-			(at 290.965 -34.089 0)
+		(property "manf#" "SPK0641HT4H-1"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9b31feb5-e8c1-4be8-a22d-ac1f8ea72be7")
+			(uuid "9f2d04af-e9f7-4a86-8543-acb76da63ea5")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "721-SPK0641HT4H-1"
-			(at 290.965 -34.089 0)
+		(property "mouser#" "721-SPK0641HT4H-1"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c273076c-547b-4b50-a606-00148525273f")
+			(uuid "d8f92f0c-6450-415c-aa83-fd50a6e92adf")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "Knowles*LGA*3.5x2.65mm*")
 		(path "/82af773f-8c39-43b9-baa2-3658da6c8bb2/bf9ce5f3-a078-4f6f-9475-0e21201387ab")
-		(sheetname "Sensors")
+		(sheetname "/Sensors/")
 		(sheetfile "Sensors.kicad_sch")
 		(attr smd)
 		(fp_poly
@@ -1137,45 +1143,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 23.1265 275.0695 0)
+		(property "manf" "KYOCERA AVX"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1e6d4eca-16f2-46d6-a5cc-859e733aecc4")
+			(uuid "8033be82-6034-41a3-ab9a-4334129850f1")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "06035C104KAT2A"
-			(at 23.1265 275.0695 0)
+		(property "manf#" "06035C104KAT2A"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f8c17bef-1b2b-4fe9-ac8c-4f8814bef0cf")
+			(uuid "73ada720-2e0a-49cf-97e1-220ae5bb000a")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "581-06035C104KAT2A"
-			(at 23.1265 275.0695 0)
+		(property "mouser#" "581-06035C104KAT2A"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "96a35718-5ab2-4ffe-8044-cd7998adc7bb")
+			(uuid "c52dd915-b48b-4cf6-a687-e6602ea31783")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/82af773f-8c39-43b9-baa2-3658da6c8bb2/798cf1c8-d1ff-475e-915e-4f4d768a9bd2")
-		(sheetname "Sensors")
+		(sheetname "/Sensors/")
 		(sheetfile "Sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1398,45 +1407,48 @@
 				)
 			)
 		)
-		(property "Mfr." "Molex"
-			(at 303.22962 198.748 0)
+		(property "manf" "Molex"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f7c02c3f-7a2e-492d-98fc-6e659f2a775b")
+			(uuid "8b16ee27-0d11-4a8c-bf75-6c7d4bb627f5")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "78171-0002"
-			(at 303.22962 198.748 0)
+		(property "manf#" "78171-0002"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b9ca5a6a-e097-4dca-b5f8-73088588d5e5")
+			(uuid "7105a5e6-cc89-457f-9571-97fb28fc9600")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "538-78171-0002"
-			(at 303.22962 198.748 0)
+		(property "mouser#" "538-78171-0002"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8b889772-e503-4f9d-9a8a-d21d3cebb459")
+			(uuid "7d04b484-3a06-4be1-89a1-00e56afc9cdc")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/cee9a3a2-28cd-4e6c-b23d-337f115f39e8/78e6b67a-c9a8-47f8-a05d-6dc74c691477")
-		(sheetname "Power Management")
+		(sheetname "/Power Management/")
 		(sheetfile "Power.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1693,51 +1705,12 @@
 				)
 			)
 		)
-		(property "Mfr." "YAGEO"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f987a1e8-d929-452d-826f-ffa554e7d2fb")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.12)
-				)
-			)
-		)
-		(property "Mfr. No." "RC0603FR-074K7L"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f81c5159-81ff-42ef-85b5-8bea4d291376")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.12)
-				)
-			)
-		)
 		(property "Distributor" "Mouser"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9fb9ff9e-975f-4398-ac84-790a56ad83f2")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.12)
-				)
-			)
-		)
-		(property "Order Number" "603-RC0603FR-074K7L"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "14699b9a-976f-4bd2-a6e4-fba50479a8a7")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -1758,9 +1731,48 @@
 				)
 			)
 		)
+		(property "manf" "YAGEO"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "78ec2b8f-8cc8-4d6c-bc67-cb21cac873bd")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+			)
+		)
+		(property "manf#" "RC0603FR-074K7L"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e598f56b-6b75-468f-ba36-bca81db16691")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+			)
+		)
+		(property "mouser#" "603-RC0603FR-074K7L"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c310b029-85a3-4562-b19d-71cd53c5e1cb")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/ce989391-ba0b-4ef9-adaa-5b1007630693")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1983,44 +1995,47 @@
 				)
 			)
 		)
-		(property "Mfr." "NXP Semiconductors"
-			(at 285.3198 -41.9338 0)
+		(property "manf" "NXP Semiconductors"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bbcbf95c-da91-4edb-98ba-b5ed44ed85c7")
+			(uuid "f18c15eb-d27b-41e2-8444-8664f871f522")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "NTS0104GU12,115"
-			(at 285.3198 -41.9338 0)
+		(property "manf#" "NTS0104GU12,115"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "08b0a930-da1d-4c7c-8bea-15cf522ff6a7")
+			(uuid "7d7989fd-efc0-4bd8-8bc6-4b3738124a49")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "771-NTS0104GU12115"
-			(at 285.3198 -41.9338 0)
+		(property "mouser#" "771-NTS0104GU12115"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8ac4771d-e95a-4c76-a5d6-c07421ed881b")
+			(uuid "e5444e89-85f3-40c7-bc9c-b7ba0ecf0a5f")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/3e71532f-4630-43cd-ad21-3dc7f1ef5e83")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(solder_paste_margin -0.025)
 		(attr smd)
@@ -2396,44 +2411,47 @@
 				)
 			)
 		)
-		(property "Mfr." "Nordic Semiconductor"
+		(property "manf" "Nordic Semiconductor"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1d5da318-45c6-455d-ae75-1e37c69e56ff")
+			(uuid "ca383c66-3305-40c6-8ee4-2a0358cb926a")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "nPM1300-QEAA-R7"
+		(property "manf#" "nPM1300-QEAA-R7"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3a63d22d-388a-401a-8e6a-6e1be1458e30")
+			(uuid "7aea766d-0d39-4253-811d-4e6f9015ee98")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "949-NPM1300-QEAA-R7"
+		(property "mouser#" "949-NPM1300-QEAA-R7"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3b23b634-8cfc-4732-9efc-9ce13d96c1e1")
+			(uuid "740c5551-a9d5-4013-bca1-d6ad20ca8cd6")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(path "/cee9a3a2-28cd-4e6c-b23d-337f115f39e8/3a814bb8-dec5-4449-9e7b-7701173fed68")
-		(sheetname "Power Management")
+		(sheetname "/Power Management/")
 		(sheetfile "Power.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3416,45 +3434,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 288.544 220.853 0)
+		(property "manf" "KYOCERA AVX"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ec878f0f-24d1-4d54-b987-30600de09da3")
+			(uuid "e0a8c989-b45b-4577-b6b6-4d30305bd093")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "06035C104KAT2A"
-			(at 288.544 220.853 0)
+		(property "manf#" "06035C104KAT2A"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ad79ceac-1896-412d-9f7d-4b9ca3f9e4d7")
+			(uuid "3fb5f1b3-999e-48f7-a75c-4751be3fc0ec")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "581-06035C104KAT2A"
-			(at 288.544 220.853 0)
+		(property "mouser#" "581-06035C104KAT2A"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "855476ed-fdb6-454b-a078-72dae5fe0e2a")
+			(uuid "b31496fb-cad4-40a7-b388-c238f38b6082")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/82af773f-8c39-43b9-baa2-3658da6c8bb2/66c0e0bc-8194-404e-85c0-e2bf8fe1793e")
-		(sheetname "Sensors")
+		(sheetname "/Sensors/")
 		(sheetfile "Sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3678,45 +3699,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
+		(property "manf" "KYOCERA AVX"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d61d842c-5ad4-4d0b-9dc4-3d6a04870551")
+			(uuid "4fdc1d75-bfd4-40a7-bec6-9dd4d85e7b4b")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "0603YC105JAT2A"
+		(property "manf#" "0603YC105JAT2A"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "85ecee48-ff34-410e-97a6-1b813b7da73f")
+			(uuid "e40ee185-fba9-4df6-a053-f5a79960b348")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "581-0603YC105JAT2A"
+		(property "mouser#" "581-0603YC105JAT2A"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e6c5bb3d-72f1-4511-9044-158aa417af0f")
+			(uuid "e4964cda-f785-46a8-9651-492d7305902b")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/e5188f64-72b3-4fd0-861f-2676bf210a4a")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3938,44 +3962,47 @@
 				)
 			)
 		)
-		(property "Mfr." "E-Switch"
-			(at 144.487429 280.979965 0)
+		(property "manf" "E-Switch"
+			(at 0 0 235)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c8b02d47-e038-45e4-9bb6-d6402071fbd1")
+			(uuid "b150411d-c2eb-4e5b-a059-6093178ded90")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "TL6340AF160Q"
-			(at 144.487429 280.979965 0)
+		(property "manf#" "TL6340AF160Q"
+			(at 0 0 235)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b9f043a3-c61e-4182-a831-550f7db4e29d")
+			(uuid "fccef584-76f3-417b-96a4-3505f903fd3e")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "612-TL6340AF160Q"
-			(at 144.487429 280.979965 0)
+		(property "mouser#" "612-TL6340AF160Q"
+			(at 0 0 235)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "17c4eade-5de6-4e4a-8b37-c870ef7adc89")
+			(uuid "b5f232d6-2348-4866-babd-6477484249e1")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/01f557f5-32fe-4f36-ac1b-7c33d9bc0ef5")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_poly
@@ -4218,45 +4245,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 286.258 231.394 0)
+		(property "manf" "KYOCERA AVX"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "81b2d114-a63f-4523-895a-2c39e3c4f666")
+			(uuid "ca932095-e9cc-4f6d-8e64-5b754dbc5b43")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "06035C104KAT2A"
-			(at 286.258 231.394 0)
+		(property "manf#" "06035C104KAT2A"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "385de06d-c1b4-4edd-96d5-46209b200367")
+			(uuid "83cfe253-63ab-48ec-914a-5e5f206499a9")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "581-06035C104KAT2A"
-			(at 286.258 231.394 0)
+		(property "mouser#" "581-06035C104KAT2A"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "24220069-64ef-43f9-b966-99ade658ee11")
+			(uuid "7b2b8505-5701-4b4f-a0b8-ad48e5895735")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/82af773f-8c39-43b9-baa2-3658da6c8bb2/4c5e640f-fe5b-4fb4-9d9d-09c2c6117a3b")
-		(sheetname "Sensors")
+		(sheetname "/Sensors/")
 		(sheetfile "Sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4480,45 +4510,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 322.043 245.11 0)
+		(property "manf" "KYOCERA AVX"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "588da21e-7d0c-4b9e-8c46-4b66d35f6628")
+			(uuid "4bc6301c-e33b-4301-9c24-d2e92b508079")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "06035C104KAT2A"
-			(at 322.043 245.11 0)
+		(property "manf#" "06035C104KAT2A"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8cf63a1d-0819-40f0-b3e0-c0f78added2f")
+			(uuid "92ec5e58-04a5-4f9a-aa04-475a5ac530af")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "581-06035C104KAT2A"
-			(at 322.043 245.11 0)
+		(property "mouser#" "581-06035C104KAT2A"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "00e32a6d-964a-4ed2-9956-44baadac1a32")
+			(uuid "8f9df963-a35c-4577-849e-a4488caa323d")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/d3db60f8-1b99-4300-9a61-fdf3170b0fc6")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4741,45 +4774,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 47.325 270.875 0)
+		(property "manf" "KYOCERA AVX"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4fbc2900-b7f6-4ded-8507-83614b224180")
+			(uuid "9cf758a7-bcf8-42ff-9b79-074437dec0b7")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "06035C104KAT2A"
-			(at 47.325 270.875 0)
+		(property "manf#" "06035C104KAT2A"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "366c8aee-50c6-4003-87be-31a3ab67486a")
+			(uuid "e7c8e321-95bd-4743-a16e-53a1642bd01c")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "581-06035C104KAT2A"
-			(at 47.325 270.875 0)
+		(property "mouser#" "581-06035C104KAT2A"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9ad79db7-6e26-4284-a280-0db2592b4c5f")
+			(uuid "6fdbe802-104c-496d-8beb-3e8c7070ed0e")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/f7f8716e-3e65-46e0-9180-593b52f144c4")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5000,44 +5036,47 @@
 				)
 			)
 		)
-		(property "Mfr." "Bosch"
-			(at 289.306 225.477 0)
+		(property "manf" "Bosch"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b4bb8ade-a360-4a8c-ac23-72e58d6f1d51")
+			(uuid "e3939893-f731-41f1-9c22-fad22a787f3c")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "BMI270"
-			(at 289.306 225.477 0)
+		(property "manf#" "BMI270"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "37c7205a-4f15-4690-889a-c5664fd3f77e")
+			(uuid "d3bc1373-5f09-4cd9-80bc-c0268b349ad5")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "262-BMI270"
-			(at 289.306 225.477 0)
+		(property "mouser#" "262-BMI270"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2c098924-2df7-4a44-aa93-35587044bf81")
+			(uuid "d099df10-fa38-4d5e-bec2-fe04e4931e97")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(path "/82af773f-8c39-43b9-baa2-3658da6c8bb2/48bfe2c5-d8d7-4c92-a75e-738d779cd208")
-		(sheetname "Sensors")
+		(sheetname "/Sensors/")
 		(sheetfile "Sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5438,45 +5477,48 @@
 				)
 			)
 		)
-		(property "Mfr." "Bourns"
+		(property "manf" "Bourns"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "06246126-21c0-49de-a038-7be0e65c966b")
+			(uuid "eafc68f4-5be8-49ac-9ad1-7a08b962ae8b")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "CR0402-J/-000GLF"
+		(property "manf#" "CR0402-J/-000GLF"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ba38c153-cdbc-44af-ad27-c0de48c4f837")
+			(uuid "1399b7f7-fc1b-43ef-85b9-fe9e1a6be0fe")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "652-CR0603-J/-000ELF"
+		(property "mouser#" "652-CR0603-J/-000ELF"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6ddd4ccf-fc0a-42d0-a315-75689c780b6f")
+			(uuid "1f62ea68-ac52-465f-a7ca-40ab1738749c")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/cee9a3a2-28cd-4e6c-b23d-337f115f39e8/7dafb1bd-06e9-4e3c-ae6c-27ccc0edce63")
-		(sheetname "Power Management")
+		(sheetname "/Power Management/")
 		(sheetfile "Power.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5699,45 +5741,48 @@
 				)
 			)
 		)
-		(property "Mfr." "YAGEO"
-			(at 41.525 276.875 0)
+		(property "manf" "YAGEO"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f81103d6-07ca-4a92-b2fd-1860312d24e2")
+			(uuid "aa9037cd-4d62-4244-aab0-df0a979a0e57")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "RC0603FR-07100KL"
-			(at 41.525 276.875 0)
+		(property "manf#" "RC0603FR-07100KL"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ba4052b4-3f32-4b63-ae5c-c056de2ecfb0")
+			(uuid "a6da916c-55dc-432d-b154-719b5554e1c9")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "603-RC0603FR-07100KL"
-			(at 41.525 276.875 0)
+		(property "mouser#" "603-RC0603FR-07100KL"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0740329b-8a9b-4bc4-8b9e-dc566a13e127")
+			(uuid "e8cf1141-c498-4296-b2c7-ea57f6e4fe37")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/3381be32-e853-4783-aa10-90ead6179a20")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5959,44 +6004,47 @@
 				)
 			)
 		)
-		(property "Mfr." "E-Switch"
-			(at 357.053514 19.869706 0)
+		(property "manf" "E-Switch"
+			(at 0 0 125)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4e32dcba-0cc2-4226-9be6-cff26e517a48")
+			(uuid "b20d0607-3c57-47df-944a-5e7b5f4ceffa")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "TL6340AF160Q"
-			(at 357.053514 19.869706 0)
+		(property "manf#" "TL6340AF160Q"
+			(at 0 0 125)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3fcf36ca-7eb8-4a55-a1d6-bbec56bae57c")
+			(uuid "432249bc-118e-4b10-83cb-0a4506595c68")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "612-TL6340AF160Q"
-			(at 357.053514 19.869706 0)
+		(property "mouser#" "612-TL6340AF160Q"
+			(at 0 0 125)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f274f03a-7bb1-4e97-a8e1-ece73068c8f7")
+			(uuid "134fcaac-6390-47a6-b1e1-b7bbcba2b9fb")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/ba1c354e-03dd-4626-9341-528413c6dc4c")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_poly
@@ -6238,45 +6286,48 @@
 				)
 			)
 		)
-		(property "Mfr." "YAGEO"
-			(at 336.4 245 0)
+		(property "manf" "YAGEO"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8dacd72a-ebdd-46ea-a852-9701e1877eef")
+			(uuid "f58feb76-261d-4b3e-9928-774242d5b56a")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "RC0603FR-07150KL"
-			(at 336.4 245 0)
+		(property "manf#" "RC0603FR-07150KL"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3cda4768-fbf2-46df-8d92-e6b105435da8")
+			(uuid "a84f755c-f5ec-4264-ba8d-54254c7b8090")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "603-RC0603FR-07150KL"
-			(at 336.4 245 0)
+		(property "mouser#" "603-RC0603FR-07150KL"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4d25a918-f173-4713-9644-f23b784d71a5")
+			(uuid "c0611585-1f49-43d5-9df5-1bdaf3a3da2d")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/82af773f-8c39-43b9-baa2-3658da6c8bb2/92ab6aee-4f2f-4f88-9666-2baf0c081741")
-		(sheetname "Sensors")
+		(sheetname "/Sensors/")
 		(sheetfile "Sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6498,44 +6549,47 @@
 				)
 			)
 		)
-		(property "Mfr." "Micro Crystal"
-			(at 273.383 -63.325 90)
+		(property "manf" "Micro Crystal"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "41337251-b6ef-4577-907f-d2d54dce0767")
+			(uuid "43d79d4c-8b80-492e-b03b-bd286a4152b8")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "RV-8263-C8 32.768kHz-20PPM-TA-QA"
-			(at 273.383 -63.325 90)
+		(property "manf#" "RV-8263-C8 32.768kHz-20PPM-TA-QA"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "92f89503-dd45-442d-8ad7-4124e62c5107")
+			(uuid "1a561909-d2e6-4738-8cc3-759291ccc83d")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "428-204291-MC01"
-			(at 273.383 -63.325 90)
+		(property "mouser#" "428-204291-MC01"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b8771b48-36e5-454b-b8e5-259787fc347f")
+			(uuid "89cdc05c-4757-4421-b979-fbc83e1d4247")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/22ce91fb-60a0-4882-9711-ed0b94fc3598")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6805,45 +6859,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
+		(property "manf" "KYOCERA AVX"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ae680013-1ab3-4799-9a66-6a12e4e69f8b")
+			(uuid "ba089b8c-faa8-4f63-a32e-72e702326aa0")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "06035C104KAT2A"
+		(property "manf#" "06035C104KAT2A"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "861f4760-512f-4b82-8388-db33afdb8231")
+			(uuid "4a0106ea-788c-458c-8a08-2d3b3d6be7b7")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "581-06035C104KAT2A"
+		(property "mouser#" "581-06035C104KAT2A"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "34ffc869-7df4-4836-a1b0-7c74b8502171")
+			(uuid "3e0e5529-a253-4dd9-b6d0-b282584ccf60")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/a20be320-fbe5-4e92-965d-6c98c914f29e")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -7044,51 +7101,12 @@
 				)
 			)
 		)
-		(property "Mfr." "YAGEO"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "87ade3d1-2ff1-4104-acd9-70f4ea366b03")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.12)
-				)
-			)
-		)
-		(property "Mfr. No." "RC0603FR-074K7L"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5b8741fd-a661-4da3-9612-93b0953364c8")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.12)
-				)
-			)
-		)
 		(property "Distributor" "Mouser"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bbc872eb-f6dc-42f3-9d53-11a103727501")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.12)
-				)
-			)
-		)
-		(property "Order Number" "603-RC0603FR-074K7L"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3766d79f-9e26-4274-8e27-a6ea7613122c")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -7109,9 +7127,48 @@
 				)
 			)
 		)
+		(property "manf" "YAGEO"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "328dfe8d-0e9d-457b-9077-7ee29e15dd6b")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+			)
+		)
+		(property "manf#" "RC0603FR-074K7L"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "62b461a1-0479-493d-ad80-7ab4b710127c")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+			)
+		)
+		(property "mouser#" "603-RC0603FR-074K7L"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dc7d90cb-bdc5-4d30-b275-2ce6715c58c9")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/ea53d477-ba4d-4b58-bcae-39bd3a477996")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -7312,51 +7369,12 @@
 				)
 			)
 		)
-		(property "Mfr." "Nexperia"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e24c8f27-2693-4f0a-9c79-4f4d3a9d2f05")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.12)
-				)
-			)
-		)
-		(property "Mfr. No." "PMZ550UNEYL"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6ad6d15e-f690-4169-a652-140e8807bcf5")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.12)
-				)
-			)
-		)
 		(property "Distributor" "Mouser"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2e08babb-18eb-4f57-901b-b4ab7cece25b")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.12)
-				)
-			)
-		)
-		(property "Order Number" "771-PMZ550UNEYL"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "cfb76473-1090-4a07-b8ef-acadb35415e3")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -7377,12 +7395,38 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "manf" "Nexperia"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d1efa776-5701-4a6a-9823-e1bdc1c5821e")
+			(uuid "5745c5e2-df27-4162-81f0-da07a0983846")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+			)
+		)
+		(property "manf#" "PMZ550UNEYL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "32e9d7cf-e4ad-4a14-b598-bded7523963a")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+			)
+		)
+		(property "mouser#" "771-PMZ550UNEYL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f80a3990-4977-475d-9ad0-21407bdd2ac9")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -7392,7 +7436,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/1334f5d0-6e10-43b6-ab31-958abe62154d")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -7657,44 +7701,47 @@
 				)
 			)
 		)
-		(property "Mfr." "Bosch"
+		(property "manf" "Bosch"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "330f53ec-89e9-457b-b574-8b9b1f7aebef")
+			(uuid "7c88dc59-34fd-45fa-bf2f-395cbafac023")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "BMP581"
+		(property "manf#" "BMP581"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e5fb0e80-225c-429b-92d2-8d9525a774dc")
+			(uuid "37ab0472-71cd-483e-9d8e-aeb4094b2fd7")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "262-BMP581"
+		(property "mouser#" "262-BMP581"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "38d74731-f5b2-476a-be6a-7bc95e58e0d3")
+			(uuid "7f65f6e9-e244-418f-b718-3fd000e9c77d")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(path "/82af773f-8c39-43b9-baa2-3658da6c8bb2/ee60d560-c4ce-4b4a-b08f-2f6863782e81")
-		(sheetname "Sensors")
+		(sheetname "/Sensors/")
 		(sheetfile "Sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8059,44 +8106,47 @@
 				)
 			)
 		)
-		(property "Mfr." "STMicroelectronics"
-			(at 29.0715 284.8485 0)
+		(property "manf" "STMicroelectronics"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1b4a4341-4488-4030-902e-7642d5a9b48e")
+			(uuid "d429fa09-de69-4c8b-b1aa-02b6196f0e6b")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "LIS2MDLTR"
-			(at 29.0715 284.8485 0)
+		(property "manf#" "LIS2MDLTR"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2a147281-db4a-4ce8-b607-69951b5a6ed0")
+			(uuid "a5d7bcb2-33f6-4694-ae4a-bc8a8b124867")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "511-LIS2MDLTR"
-			(at 29.0715 284.8485 0)
+		(property "mouser#" "511-LIS2MDLTR"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d522e1c5-6de8-4174-831f-f69c71611c94")
+			(uuid "eb333db9-8d84-47c0-b8d0-90eb9b6da29f")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(path "/82af773f-8c39-43b9-baa2-3658da6c8bb2/7fb098cd-233f-44ab-a92a-299057a912f0")
-		(sheetname "Sensors")
+		(sheetname "/Sensors/")
 		(sheetfile "Sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8480,45 +8530,48 @@
 				)
 			)
 		)
-		(property "Mfr." "YAGEO"
-			(at 333.44562 205.74 0)
+		(property "manf" "YAGEO"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f9e60952-449d-4567-918f-73c89ac8bd18")
+			(uuid "e5216312-cadb-4c7d-b752-6e7fdc1eddaf")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "RC0603FR-07150KL"
-			(at 333.44562 205.74 0)
+		(property "manf#" "RC0603FR-07150KL"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6a89bffa-3899-4ac6-943f-72436bb5ad63")
+			(uuid "a47e9796-2446-4552-bf2f-44c4d1005094")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "603-RC0603FR-07150KL"
-			(at 333.44562 205.74 0)
+		(property "mouser#" "603-RC0603FR-07150KL"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cab86345-089d-406a-914f-4f53eefd741f")
+			(uuid "b3dc76aa-d1fc-43df-bbf0-7ed4fb97a01a")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/cee9a3a2-28cd-4e6c-b23d-337f115f39e8/18743cfe-9c1d-44ae-87b8-60eea41e377f")
-		(sheetname "Power Management")
+		(sheetname "/Power Management/")
 		(sheetfile "Power.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8741,45 +8794,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
+		(property "manf" "KYOCERA AVX"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "85d1799d-836e-457e-b5a2-1c23b93f641c")
+			(uuid "aa44130b-3522-4e9a-99d5-61f4a3071ade")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "0603YC105JAT2A"
+		(property "manf#" "0603YC105JAT2A"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "53f4ff68-2b5e-45e5-a3cf-527f12741bb6")
+			(uuid "c5c94651-aa63-48fb-87c3-c375472ff021")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "581-0603YC105JAT2A"
+		(property "mouser#" "581-0603YC105JAT2A"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d469a899-8f7e-4467-b392-e0675ae8df9c")
+			(uuid "c7894bd4-6b25-47bc-b590-ea875fc0018e")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/cee9a3a2-28cd-4e6c-b23d-337f115f39e8/03cfecf6-c11a-4c4d-b5da-a534c194ec1f")
-		(sheetname "Power Management")
+		(sheetname "/Power Management/")
 		(sheetfile "Power.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9002,44 +9058,34 @@
 				)
 			)
 		)
-		(property "Mfr." "EastRising"
-			(at 263.584056 -38.146056 0)
+		(property "manf" "EastRising"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "467ada64-0e27-4e23-b23d-e8ad3a4bfb53")
+			(uuid "24ab56e7-9925-4eef-a8bb-4bca709fdf26")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "OK-24F024-04"
-			(at 263.584056 -38.146056 0)
+		(property "manf#" "OK-24F024-04"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "06343ac1-e2da-4653-bac6-26fe52549d8b")
+			(uuid "bad05fd8-82da-49c1-8970-a7ad5138379b")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Order Number" ""
-			(at 263.584056 -38.146056 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "423d0810-c130-4b8d-9b98-b434e86b94d2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/c61b3f8f-efae-4329-9503-bc2f0355ecb4")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_circle
@@ -9459,44 +9505,47 @@
 				)
 			)
 		)
-		(property "Mfr." "Texas Instruments"
-			(at 298.536 213.638 0)
+		(property "manf" "Texas Instruments"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ba84404c-f7e7-4739-b3d5-7f3cfc15d573")
+			(uuid "23a3ac60-3d38-4e44-8a31-4cda5c90bc17")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "DRV2603RUNT"
-			(at 298.536 213.638 0)
+		(property "manf#" "DRV2603RUNT"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dab560ec-4883-491c-bcca-03692a05bf1d")
+			(uuid "28b35216-0070-42b9-b04e-646eff586b2e")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "595-DRV2603RUNT"
-			(at 298.536 213.638 0)
+		(property "mouser#" "595-DRV2603RUNT"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e3282a81-59e8-40d4-a384-e3112d54200b")
+			(uuid "4de971ec-5650-45b0-9b8b-6124cf59e115")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/3acf795d-f67f-45a0-8bda-e0ec71562660")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9861,44 +9910,47 @@
 				)
 			)
 		)
-		(property "Mfr." "Macronix"
-			(at 277.95 -48.45 0)
+		(property "manf" "Macronix"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3484c927-d115-4ab8-bd28-3e979ceb8f3a")
+			(uuid "383c20ad-fc46-4bca-a072-8d02f46c269c")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "MX25U51245GZ4I00"
-			(at 277.95 -48.45 0)
+		(property "manf#" "MX25U51245GZ4I00"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "eabc4708-942a-434f-94b3-b7d2d1ce1d16")
+			(uuid "459c81bb-9795-48f0-851f-6f8792290222")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "95-25U51245GZ4I00T"
-			(at 277.95 -48.45 0)
+		(property "mouser#" "95-25U51245GZ4I00T"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "758fdb05-23f8-48bd-85cd-0c670df21c7e")
+			(uuid "7558d8c8-40c2-48ea-8fd9-b72dc5ed3e3b")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/fbf847b0-94f2-42ad-aaf2-4af69fe90b16")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10230,45 +10282,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 56.60181 259.07381 0)
+		(property "manf" "KYOCERA AVX"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0dc44b0f-25e4-45d8-8627-5d86ef55c32c")
+			(uuid "d01d5c08-a7b4-4420-9304-f75272266ab2")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "CM105X5R106M25AT"
-			(at 56.60181 259.07381 0)
+		(property "manf#" "CM105X5R106M25AT"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2a021bef-df66-4fb1-b962-1ff339866e59")
+			(uuid "1ea31794-915a-44dd-9ef0-84574effe565")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "346-CM105X5R106M25AT"
-			(at 56.60181 259.07381 0)
+		(property "mouser#" "346-CM105X5R106M25AT"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "55ec3b2e-51af-40b8-8505-d68312814f33")
+			(uuid "10781f31-d052-4cf9-b0cd-df3d6aef5689")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/cee9a3a2-28cd-4e6c-b23d-337f115f39e8/4e8391d9-dcc1-4cf1-b9be-affad3ad3a4d")
-		(sheetname "Power Management")
+		(sheetname "/Power Management/")
 		(sheetfile "Power.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10489,45 +10544,48 @@
 				)
 			)
 		)
-		(property "Mfr." "Samsung Electro-Mechanics"
+		(property "manf" "Samsung Electro-Mechanics"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "88373588-dc00-4049-9779-ca4bef0c84f1")
+			(uuid "71538423-3ab5-41c6-8ce6-435d40a9ddd6")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "CIGT201610EH2R2MNE"
+		(property "manf#" "CIGT201610EH2R2MNE"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "67eebba3-a04f-4c62-9fa5-4ab7f0b42c09")
+			(uuid "de089c93-c800-49c7-bfd1-71244647f2f0")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "187-CIGT201610EH2R2M"
+		(property "mouser#" "187-CIGT201610EH2R2M"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6480e210-8640-4e1e-bb5b-d40ef267dd83")
+			(uuid "0a5cc371-9fa0-4479-b01d-755e8a70b8ee")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/cee9a3a2-28cd-4e6c-b23d-337f115f39e8/08e7a198-02b2-4f4c-bbb1-361fc894d09c")
-		(sheetname "Power Management")
+		(sheetname "/Power Management/")
 		(sheetfile "Power.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10730,45 +10788,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 256.03881 -59.63681 0)
+		(property "manf" "KYOCERA AVX"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9e01cbc1-da68-4421-84a5-8b7c3bbcea1c")
+			(uuid "a6af7ec0-4f2d-4064-a9a9-c4988b195cfa")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "CM105X5R106M25AT"
-			(at 256.03881 -59.63681 0)
+		(property "manf#" "CM105X5R106M25AT"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4705103c-9626-46dc-a9a8-f8523f9047b1")
+			(uuid "a34680bc-4f5d-4614-8dae-c813c4be9f20")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "346-CM105X5R106M25AT"
-			(at 256.03881 -59.63681 0)
+		(property "mouser#" "346-CM105X5R106M25AT"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f6008aef-b7f0-4024-a69f-5b4f08a902bf")
+			(uuid "6d018cf0-4c47-4802-9f21-9c8fdad3779f")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/cee9a3a2-28cd-4e6c-b23d-337f115f39e8/87837e07-75c0-477c-8f09-a572e9459c52")
-		(sheetname "Power Management")
+		(sheetname "/Power Management/")
 		(sheetfile "Power.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10993,45 +11054,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 65.13 275.738 90)
+		(property "manf" "KYOCERA AVX"
+			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "72dafe84-6668-460c-9537-8809509fa1de")
+			(uuid "e8150f76-a3d3-4701-85fc-2e242eb5b6f4")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "04025C104KAT2A"
-			(at 65.13 275.738 90)
+		(property "manf#" "04025C104KAT2A"
+			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2b42ab30-8af5-40fb-9af4-d9110549e30d")
+			(uuid "6d5a02c3-4d0b-47e5-8508-1e5b8e7d202b")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "581-04025C104KAT2A"
-			(at 65.13 275.738 90)
+		(property "mouser#" "581-04025C104KAT2A"
+			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7c8e2589-fd49-4db1-9a44-1a934ee8d5ec")
+			(uuid "be04d894-1348-4836-a8df-3fcff9aa061a")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/24538a51-baaf-4c93-a719-64df0fb57da5")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11253,44 +11317,47 @@
 				)
 			)
 		)
-		(property "Mfr." "E-Switch"
-			(at -38.382796 171.377334 0)
+		(property "manf" "E-Switch"
+			(at 0 0 305)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b98f4451-ba3d-4549-bb13-d6b47b495db8")
+			(uuid "473f0c6e-a7e7-4e4d-a5a3-94ff5aa2a347")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "TL6340AF160Q"
-			(at -38.382796 171.377334 0)
+		(property "manf#" "TL6340AF160Q"
+			(at 0 0 305)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "51150f55-e749-49ab-a18c-af37976fabcd")
+			(uuid "d081a6f6-81e4-4b75-a60b-242118412647")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "612-TL6340AF160Q"
-			(at -38.382796 171.377334 0)
+		(property "mouser#" "612-TL6340AF160Q"
+			(at 0 0 305)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d91cd26e-1a4a-4700-9436-cf1384c4cabb")
+			(uuid "805ea557-ac30-44fc-9e61-f93d59c1dec9")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/a4a8868f-d5e8-46f6-a3fb-15655b890134")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_poly
@@ -11532,69 +11599,48 @@
 				)
 			)
 		)
-		(property "Mfr." "Taiwan Semiconductor"
+		(property "manf" "Taiwan Semiconductor"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7caf15a9-a661-4a4f-aca8-610044ff72ff")
+			(uuid "5698ad36-ffa1-4222-a885-2986c5d11b48")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "BAS316 RRG"
+		(property "manf#" "BAS316 RRG"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a68b464e-4fab-4cb1-bae6-6dd2986f4bdb")
+			(uuid "8c14d67a-e70f-4026-8390-974bcce6a033")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "821-BAS316RRG"
+		(property "mouser#" "821-BAS316RRG"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6a5ddb8c-ccc7-4517-acc4-e33d1fa2b5da")
+			(uuid "28d0ac8d-41c8-4634-a656-4ec50bfa2102")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "70b4dbf7-7f2e-4c94-824c-432272b78bf0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3a8d9b16-9066-442a-a087-474ac59556d4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "D*SOD?323*")
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/ac0039ea-8602-4b2e-ab40-78c744add441")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11889,45 +11935,48 @@
 				)
 			)
 		)
-		(property "Mfr." "Nexperia"
-			(at 306.292 236.982 0)
+		(property "manf" "Nexperia"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "94ca83c6-c3ec-414c-90d2-542e034c7efb")
+			(uuid "907a9f21-20d8-4f38-9841-c1d9a834ebf5")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "BC817W,115"
-			(at 306.292 236.982 0)
+		(property "manf#" "BC817W,115"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5bece3f1-284f-43ba-8e35-8dac42f872f0")
+			(uuid "50d989e8-6e6b-47fe-808f-d5d860cf2fdb")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "771-BC817W115"
-			(at 306.292 236.982 0)
+		(property "mouser#" "771-BC817W115"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "121482dd-f465-428c-9d18-19c81ce95ab8")
+			(uuid "29baaa67-3cb8-4d29-9e0e-421376b3618f")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "SOT?323*")
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/986540f4-c046-43b1-8397-da9e7fbd8686")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12189,45 +12238,48 @@
 				)
 			)
 		)
-		(property "Mfr." "YAGEO"
-			(at 308.23 232.918 0)
+		(property "manf" "YAGEO"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9b060f47-a157-45eb-9c72-a15d34623f43")
+			(uuid "f98c93ad-6f4e-4949-97f7-a20af0ce37be")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "RC0603FR-07150KL"
-			(at 308.23 232.918 0)
+		(property "manf#" "RC0603FR-07150KL"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4080d879-d89f-4f89-8a15-4266f00dbd96")
+			(uuid "ead47acc-0e80-4827-a0f1-5d8f6eca912b")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "603-RC0603FR-07150KL"
-			(at 308.23 232.918 0)
+		(property "mouser#" "603-RC0603FR-07150KL"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "132f064a-d92f-4143-9d39-5e65763919e9")
+			(uuid "a07b4e3c-f55f-4355-bfa1-23ff211c0568")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/71c33890-37d3-4ace-aac0-9aa48ab4f583")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12450,45 +12502,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 316.992 191.516 0)
+		(property "manf" "KYOCERA AVX"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d647aef7-d2b5-4ff3-8187-96c27b132535")
+			(uuid "164bbc95-6794-40ae-ac18-c1f02f961574")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "CM105X5R106M25AT"
-			(at 316.992 191.516 0)
+		(property "manf#" "CM105X5R106M25AT"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1ab340bd-8fcb-46dd-be4c-272a387fe435")
+			(uuid "9692a7f7-b489-45c3-a6fa-b328c48e375c")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "346-CM105X5R106M25AT"
-			(at 316.992 191.516 0)
+		(property "mouser#" "346-CM105X5R106M25AT"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c927fe8a-bbd3-49f2-a0b8-1b9c70c8e705")
+			(uuid "5464ad3c-7c57-4dc9-a739-4e69d2e4adbe")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/cee9a3a2-28cd-4e6c-b23d-337f115f39e8/26acfb06-5cc5-4b56-bd13-6fada4843d06")
-		(sheetname "Power Management")
+		(sheetname "/Power Management/")
 		(sheetfile "Power.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12711,45 +12766,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
+		(property "manf" "KYOCERA AVX"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6f471f4e-028f-4ba5-b70e-39e479da1506")
+			(uuid "c3b675b6-1c19-4c61-8b72-2b4b57651c8c")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "CM105X5R106M25AT"
+		(property "manf#" "CM105X5R106M25AT"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "475fb300-d46d-4583-a918-73117421ac8a")
+			(uuid "8ebf84ac-84fe-4436-bbee-e2c4950a9614")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "346-CM105X5R106M25AT"
+		(property "mouser#" "346-CM105X5R106M25AT"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ede070af-267e-4af8-a826-517007aaf90b")
+			(uuid "eb2dfdcd-ffcb-4c62-af73-18440d129d70")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/cee9a3a2-28cd-4e6c-b23d-337f115f39e8/10141337-eb0c-40a3-90f0-5efac755f045")
-		(sheetname "Power Management")
+		(sheetname "/Power Management/")
 		(sheetfile "Power.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12972,45 +13030,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
+		(property "manf" "KYOCERA AVX"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "83d15d14-08a7-4057-9672-6aa26f0070b2")
+			(uuid "8ccfb810-ff0f-414e-b6fb-2fccfbd27346")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "CM105X5R106M25AT"
+		(property "manf#" "CM105X5R106M25AT"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2f93725a-38b8-4b48-8c15-06a90a95b3b4")
+			(uuid "8d758d97-75c3-4d4c-80d9-83824dc165c2")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "346-CM105X5R106M25AT"
+		(property "mouser#" "346-CM105X5R106M25AT"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "85ee9e19-1b9d-4b38-8ec4-7cc607af1e41")
+			(uuid "6e9248a8-d9ab-4426-8127-1d2f9167d807")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/cee9a3a2-28cd-4e6c-b23d-337f115f39e8/a79e7036-2ff7-4787-994a-4c3d6639b364")
-		(sheetname "Power Management")
+		(sheetname "/Power Management/")
 		(sheetfile "Power.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -13233,44 +13294,47 @@
 				)
 			)
 		)
-		(property "Mfr." "onsemi / Fairchild"
-			(at 264.887 -44.949 0)
+		(property "manf" "onsemi / Fairchild"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "593f3f8f-21da-4c7a-a181-cb3fd2b09082")
+			(uuid "0a40f300-9a67-4270-9a4d-67cedded7469")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "FAN5622SX"
-			(at 264.887 -44.949 0)
+		(property "manf#" "FAN5622SX"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "01f55786-d969-4cea-9fc1-734665a4fb38")
+			(uuid "82ad11f9-88c4-445d-bb54-ff1ccf525aa8")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "512-FAN5622SX"
-			(at 264.887 -44.949 0)
+		(property "mouser#" "512-FAN5622SX"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8812b8ca-f58f-4afd-b811-c41e8277a411")
+			(uuid "8810a818-a85a-487f-8c55-f7af7c8286d5")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/7926bc05-4cc8-4e97-a9bb-b5eded3d1cc2")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -13564,44 +13628,47 @@
 				)
 			)
 		)
-		(property "Mfr." "E-Switch"
-			(at 174.313835 -89.743762 0)
+		(property "manf" "E-Switch"
+			(at 0 0 55)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "09626c2c-782f-4899-9ea5-6fe917ba3c12")
+			(uuid "d9102094-5fc3-4388-9689-cdf4c03a4ff5")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "TL6340AF160Q"
-			(at 174.313835 -89.743762 0)
+		(property "manf#" "TL6340AF160Q"
+			(at 0 0 55)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6bfa4030-c662-4b30-a057-654097e7aa1a")
+			(uuid "c90eb4ab-5ee8-42f6-8620-49be6230c9b4")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "612-TL6340AF160Q"
-			(at 174.313835 -89.743762 0)
+		(property "mouser#" "612-TL6340AF160Q"
+			(at 0 0 55)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2df29f02-8e3f-458c-8855-b05783c36d90")
+			(uuid "0204e1ff-9e93-4052-8b86-b5ebcd5a0e23")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/5c120521-4b84-424f-ad7a-b73888a3fd98")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_poly
@@ -13821,51 +13888,12 @@
 				)
 			)
 		)
-		(property "Mfr." "Nexperia"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "edc6184a-9540-44ac-8d0c-6365aa4c111e")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.12)
-				)
-			)
-		)
-		(property "Mfr. No." "PMZ550UNEYL"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4d31340d-bd2a-42c0-819d-0575afa2ac5c")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.12)
-				)
-			)
-		)
 		(property "Distributor" "Mouser"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3e4dddec-1dae-4230-a439-512bd35a77fc")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.12)
-				)
-			)
-		)
-		(property "Order Number" "771-PMZ550UNEYL"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a54b2402-13e9-49d5-9fd2-eb2c17aab3f9")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -13886,12 +13914,38 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "manf" "Nexperia"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2e143efc-a8a1-42fb-8f4c-8a65e0ade3fc")
+			(uuid "3c8824a0-ba2d-4c59-9290-5da14265f00a")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+			)
+		)
+		(property "manf#" "PMZ550UNEYL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e074a2b6-aa64-4929-8035-b7ee24f53aab")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+			)
+		)
+		(property "mouser#" "771-PMZ550UNEYL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5ff32acf-7015-470d-983d-008e1efea2e4")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -13901,7 +13955,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/f74c22c8-0c0c-4f65-85a6-6ad7736e6f5f")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14167,45 +14221,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 322.043 242.062 0)
+		(property "manf" "KYOCERA AVX"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f1ddde79-d79a-4115-86fa-fda8d10625ef")
+			(uuid "259b478d-0816-4d0c-a8bb-c1f8f34365c6")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "06035C104KAT2A"
-			(at 322.043 242.062 0)
+		(property "manf#" "06035C104KAT2A"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a480e6eb-38d4-4a9f-ae0d-8f1ace4f4797")
+			(uuid "550adc92-42e9-4d5e-a954-0023347b0e07")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "581-06035C104KAT2A"
-			(at 322.043 242.062 0)
+		(property "mouser#" "581-06035C104KAT2A"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f1ba140e-e4ee-4551-afc6-8536d4172351")
+			(uuid "96ae6e7c-4bc2-42f2-aa9c-59426f2d6e9b")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/578a4e63-5933-4527-906b-bd6ada2b4997")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14426,45 +14483,48 @@
 				)
 			)
 		)
-		(property "Mfr." "Samsung Electro-Mechanics"
-			(at 57.98581 253.87981 0)
+		(property "manf" "Samsung Electro-Mechanics"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9f031e2d-796a-4bc5-a30f-cae3f02fc6be")
+			(uuid "8582b391-c6c1-4168-b158-3fc0cba9521e")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "CIGT201610EH2R2MNE"
-			(at 57.98581 253.87981 0)
+		(property "manf#" "CIGT201610EH2R2MNE"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "75bcd766-821e-4c15-8862-2f71824bc0b3")
+			(uuid "3b4d0c7d-2d48-4c9a-8865-698cf6758985")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "187-CIGT201610EH2R2M"
-			(at 57.98581 253.87981 0)
+		(property "mouser#" "187-CIGT201610EH2R2M"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f52623a2-0b08-4880-8cf1-6a81195a7f1c")
+			(uuid "da4bd1d5-0841-4a4f-b913-9ec68f3c7c7b")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/cee9a3a2-28cd-4e6c-b23d-337f115f39e8/75f3a760-522b-437c-aae9-d902aa26e953")
-		(sheetname "Power Management")
+		(sheetname "/Power Management/")
 		(sheetfile "Power.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14667,45 +14727,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 286.4866 -31.2166 0)
+		(property "manf" "KYOCERA AVX"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d7161cd0-2c70-47d2-af74-29191a5fa429")
+			(uuid "96645279-db04-49a5-a446-5b547e77ae24")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "CM105X5R106M25AT"
-			(at 286.4866 -31.2166 0)
+		(property "manf#" "CM105X5R106M25AT"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9c4be1e7-8188-4cc1-ba5f-4c1f8344e181")
+			(uuid "49739e0c-b7a8-4da6-b304-4eeefa923216")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "346-CM105X5R106M25AT"
-			(at 286.4866 -31.2166 0)
+		(property "mouser#" "346-CM105X5R106M25AT"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "483ff1b6-c863-404a-abc7-09e0e6c5ab5a")
+			(uuid "bdc62628-0280-44f5-98c3-58825f6f12cb")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/82af773f-8c39-43b9-baa2-3658da6c8bb2/f509dc1e-03c6-4a55-af70-0a604f74c42e")
-		(sheetname "Sensors")
+		(sheetname "/Sensors/")
 		(sheetfile "Sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14965,7 +15028,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/19b09cbe-b051-467d-b655-c52fd9d03735")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
@@ -15137,45 +15200,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 265.05581 -66.87581 0)
+		(property "manf" "KYOCERA AVX"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cfb1d8b7-f129-4461-8bb6-29f506bcee07")
+			(uuid "6148e2e7-0792-41e5-96a9-7fc7e9164e93")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "CM105X5R106M25AT"
-			(at 265.05581 -66.87581 0)
+		(property "manf#" "CM105X5R106M25AT"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "230a333f-b5c2-4250-a955-42c9abd6d969")
+			(uuid "2ae4c523-7858-451a-b148-94558daaa8c1")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "346-CM105X5R106M25AT"
-			(at 265.05581 -66.87581 0)
+		(property "mouser#" "346-CM105X5R106M25AT"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "da19b8f7-39f5-4131-944e-756422421c4c")
+			(uuid "d3d54624-26c9-40b1-8471-95d148ec9aea")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/cee9a3a2-28cd-4e6c-b23d-337f115f39e8/e4648c30-036c-40cd-a72a-b1f637c1d4bf")
-		(sheetname "Power Management")
+		(sheetname "/Power Management/")
 		(sheetfile "Power.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15398,45 +15464,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 314.452 259.842 0)
+		(property "manf" "KYOCERA AVX"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b0893c71-28c1-4488-9835-337fa57d8bdf")
+			(uuid "59e077b6-7580-409e-ba8f-9eddb6e873aa")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "06035C104KAT2A"
-			(at 314.452 259.842 0)
+		(property "manf#" "06035C104KAT2A"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "95112818-7aa6-4419-ba1b-5d8e1f1766ad")
+			(uuid "4d5727e5-6eeb-44e1-aeb8-2b0dbb935aa2")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "581-06035C104KAT2A"
-			(at 314.452 259.842 0)
+		(property "mouser#" "581-06035C104KAT2A"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f7db62c7-e639-48c7-83a1-c21e110a6fb6")
+			(uuid "dfa1b693-e469-4c7a-94df-95a2a4264612")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/82af773f-8c39-43b9-baa2-3658da6c8bb2/1718f657-b263-4aa8-a007-c6c1ebb55c58")
-		(sheetname "Sensors")
+		(sheetname "/Sensors/")
 		(sheetfile "Sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15659,45 +15728,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 26.8085 283.0715 0)
+		(property "manf" "KYOCERA AVX"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bdc6959b-27b1-4ddc-a20b-16d05ad2112c")
+			(uuid "afdb1646-bdf6-465c-99df-49ebbcaf9647")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "06033C224KAT2A"
-			(at 26.8085 283.0715 0)
+		(property "manf#" "06033C224KAT2A"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f5ad3706-525d-42ca-b16d-6328c5dab753")
+			(uuid "518bd92d-c63f-4fe8-ab94-8ffefe1b98f9")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "581-06033C224KAT2A"
-			(at 26.8085 283.0715 0)
+		(property "mouser#" "581-06033C224KAT2A"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e14f1d7e-1484-4d63-8f9b-0be1683068ee")
+			(uuid "f984effe-4237-4f03-a723-cf31946eee01")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/82af773f-8c39-43b9-baa2-3658da6c8bb2/441246d9-bd74-4288-ab2b-02b040e72e0c")
-		(sheetname "Sensors")
+		(sheetname "/Sensors/")
 		(sheetfile "Sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15920,44 +15992,47 @@
 				)
 			)
 		)
-		(property "Mfr." "ROHM Semiconductor"
-			(at 43.1 293.1 0)
+		(property "manf" "ROHM Semiconductor"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ae1e9e8e-e20b-42e9-8ae3-d1b67da78851")
+			(uuid "a6ddf42c-3f54-43cb-9cc2-7756fb703487")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "DMG1013UW-7"
-			(at 43.1 293.1 0)
+		(property "manf#" "DMG1013UW-7"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9ed3bd16-8a19-48ef-a933-39b56f7269b8")
+			(uuid "88194d40-f2c1-4ef0-8950-85e80110eee4")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "621-DMG1013UW-7"
-			(at 43.1 293.1 0)
+		(property "mouser#" "621-DMG1013UW-7"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8c35f71a-e642-4629-a58e-fb40dd7a088e")
+			(uuid "d7415fc9-4315-4483-aec9-8e3055ec0ee5")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(path "/82af773f-8c39-43b9-baa2-3658da6c8bb2/5208aa61-29fb-4073-8c53-69e09733f627")
-		(sheetname "Sensors")
+		(sheetname "/Sensors/")
 		(sheetfile "Sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -16197,51 +16272,12 @@
 				)
 			)
 		)
-		(property "Mfr." "YAGEO"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a56fb6cb-d018-4490-933c-95b1239c7ac7")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.12)
-				)
-			)
-		)
-		(property "Mfr. No." "RC0402FR-074K7L"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "45e42e24-ead1-4048-9a87-50ae55c3ab47")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.12)
-				)
-			)
-		)
 		(property "Distributor" "Mouser"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cfe3e78e-1de2-4f41-9e1c-4f1e36b8a2ee")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.12)
-				)
-			)
-		)
-		(property "Order Number" "603-RC0402FR-074K7L"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "774c50f2-496f-4cf7-a64f-472b847e42f3")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -16262,9 +16298,48 @@
 				)
 			)
 		)
+		(property "manf" "YAGEO"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d34c4ac1-e902-4b80-b2d1-be2bb450783e")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+			)
+		)
+		(property "manf#" "RC0402FR-074K7L"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "96887818-aedc-4b6b-b9c4-5af04aa8acc8")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+			)
+		)
+		(property "mouser#" "603-RC0402FR-074K7L"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5869e534-70ed-47fd-9d89-e1815924fb1a")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/d7809af9-ebb1-488c-83bf-0683dc9c203f")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -16487,44 +16562,47 @@
 				)
 			)
 		)
-		(property "Mfr." "u-blox"
+		(property "manf" "u-blox"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b28bb9b3-3379-4a5c-b3c7-c36eaa81a42d")
+			(uuid "bb732660-9cff-4568-b277-55a0c5f7aa24")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "NORA-B106-00B"
+		(property "manf#" "NORA-B106-00B"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d85838f1-9e08-44b2-a55d-aca4d2838509")
+			(uuid "c76e0238-4373-478e-8bf0-2031b51698c7")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "377-NORA-B106-00B"
+		(property "mouser#" "377-NORA-B106-00B"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ef3e846d-80e7-4adf-9e40-88995748ab90")
+			(uuid "16b74cf4-3b98-479a-8917-949e0de56f5c")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/6b4b5775-802d-4f65-8ea3-f1ad7a56059c")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17573,45 +17651,48 @@
 				)
 			)
 		)
-		(property "Mfr." "CUI Devices"
-			(at 269.113 -29.845 0)
+		(property "manf" "CUI Devices"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9e2932fc-879a-41cf-be0a-68befe109a2f")
+			(uuid "8b55e93a-a006-4c2a-a27f-9b6ffd748efb")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "CMT-322-65-SMT-TR"
-			(at 269.113 -29.845 0)
+		(property "manf#" "CMT-322-65-SMT-TR"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "988e0a2b-6aa7-4b58-b5cb-77f044652df7")
+			(uuid "f38f78b1-773f-4ee4-86f0-320ed79decf4")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "490-CMT-322-65-SMTTR"
-			(at 269.113 -29.845 0)
+		(property "mouser#" "490-CMT-322-65-SMTTR"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "554384af-e01d-49d5-bd31-ddf425b937ce")
+			(uuid "e1927d78-4d09-4f39-a69e-55a04715c938")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "*Buzzer*")
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/269ca0a2-6042-4136-8809-a1067a955488")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17827,45 +17908,48 @@
 				)
 			)
 		)
-		(property "Mfr." "Broadcom / Avago"
-			(at 25.146 277.114 0)
+		(property "manf" "Broadcom / Avago"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "77d2ce64-21e0-4f34-a382-a9e700a64f22")
+			(uuid "87ff26d4-0984-4533-9210-5cb71c5b8576")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "APDS-9306-065"
-			(at 25.146 277.114 0)
+		(property "manf#" "APDS-9306-065"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "90000839-7b0f-4712-a9ea-9e0305397d11")
+			(uuid "23f2e1c1-2d91-48b6-86cc-3085b4ff23f0")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "630-APDS-9306-065"
-			(at 25.146 277.114 0)
+		(property "mouser#" "630-APDS-9306-065"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b748a25e-5eca-4143-a551-fd90b9f35b21")
+			(uuid "cc2b9a61-4a56-4652-86cb-7f7d3e6a7db8")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "Broadcom*DFN*2x2mm*P0.65mm*")
 		(path "/82af773f-8c39-43b9-baa2-3658da6c8bb2/599b6d90-9858-4791-a8b8-094e62b5eaf4")
-		(sheetname "Sensors")
+		(sheetname "/Sensors/")
 		(sheetfile "Sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -18140,45 +18224,48 @@
 				)
 			)
 		)
-		(property "Mfr." "YAGEO"
-			(at 308.23 229.87 0)
+		(property "manf" "YAGEO"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4c7e8c72-7f55-4e8b-bb3c-0f1e40facfe5")
+			(uuid "25bec2b9-4b5c-4031-98fb-f4adf22e6a39")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "RC0603FR-07180RL"
-			(at 308.23 229.87 0)
+		(property "manf#" "RC0603FR-07180RL"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fe6e8876-e3ea-49fa-841c-8ddcdb0ca041")
+			(uuid "b71015ff-cb13-4785-bb91-b984361d183f")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "603-RC0603FR-07180RL"
-			(at 308.23 229.87 0)
+		(property "mouser#" "603-RC0603FR-07180RL"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0dfc8609-dd75-49ba-b116-e66929a28563")
+			(uuid "0214ea8c-48f0-4ff3-9964-6dcfc519e678")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/db5a1026-b9b3-41c8-a622-ca1e89bee37e")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -18401,45 +18488,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 266.603 -68.423 0)
+		(property "manf" "KYOCERA AVX"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "787942f6-6e5b-48d0-a345-8a9dab8d7b3a")
+			(uuid "70754f64-09f8-4ec1-9e96-7f4848de0f63")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "0603YC105JAT2A"
-			(at 266.603 -68.423 0)
+		(property "manf#" "0603YC105JAT2A"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "59142146-c419-4506-9fb8-d1d395a24dc6")
+			(uuid "9dad6235-7585-4550-938e-ad8647010eb7")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "581-0603YC105JAT2A"
-			(at 266.603 -68.423 0)
+		(property "mouser#" "581-0603YC105JAT2A"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "13265d6b-61f6-4e58-81bc-f8ba6b854449")
+			(uuid "497ef476-1c6d-49a6-a3aa-d62c215c69f3")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/cee9a3a2-28cd-4e6c-b23d-337f115f39e8/0f86fcbe-c89a-4b08-baed-2057f2cdec85")
-		(sheetname "Power Management")
+		(sheetname "/Power Management/")
 		(sheetfile "Power.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -18662,45 +18752,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 322.09838 207.518 0)
+		(property "manf" "KYOCERA AVX"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2e61d2ed-18c7-464d-a592-69d37e1de2a5")
+			(uuid "5c317ef6-9eca-4a65-b58e-4342cfedbec1")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "06035C104KAT2A"
-			(at 322.09838 207.518 0)
+		(property "manf#" "06035C104KAT2A"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f5fd2629-9a46-4eac-b084-9bd4de85cbde")
+			(uuid "73bd2621-9d93-4523-972b-df5c9acfe2ec")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "581-06035C104KAT2A"
-			(at 322.09838 207.518 0)
+		(property "mouser#" "581-06035C104KAT2A"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2d2ffa67-80e7-4479-9338-b2a84dbbd0af")
+			(uuid "39257652-dcad-4ff0-8d75-e0d5cca182c6")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/cee9a3a2-28cd-4e6c-b23d-337f115f39e8/e262cf8a-52fa-4671-926b-aa4f0fc5e293")
-		(sheetname "Power Management")
+		(sheetname "/Power Management/")
 		(sheetfile "Power.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -18924,45 +19017,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 30.7725 253.1995 0)
+		(property "manf" "KYOCERA AVX"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5fda6d55-b30a-4a72-a92f-2a166db0cdb5")
+			(uuid "f297bf96-17e7-483e-9061-75e779b74942")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "06035C104KAT2A"
-			(at 30.7725 253.1995 0)
+		(property "manf#" "06035C104KAT2A"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a4e67fa8-2ddb-41c2-8b1a-2c4b5c609035")
+			(uuid "370c4eb3-1307-4b7d-b161-6d351330f6f2")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "581-06035C104KAT2A"
-			(at 30.7725 253.1995 0)
+		(property "mouser#" "581-06035C104KAT2A"
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4c086c15-e696-4001-88a5-3564ec43b5c6")
+			(uuid "5f5621fd-1712-44e2-9f45-57231af71513")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/82af773f-8c39-43b9-baa2-3658da6c8bb2/f1f9f893-158e-4894-8d99-17f33d025ed7")
-		(sheetname "Sensors")
+		(sheetname "/Sensors/")
 		(sheetfile "Sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -19185,45 +19281,48 @@
 				)
 			)
 		)
-		(property "Mfr." "YAGEO"
-			(at 333.44562 202.816 0)
+		(property "manf" "YAGEO"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ef1307c7-8d8d-41d0-9c7f-a346753f9050")
+			(uuid "3cd33686-57dc-4d16-beae-191234fb0639")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "RC0603FR-0747KL"
-			(at 333.44562 202.816 0)
+		(property "manf#" "RC0603FR-0747KL"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bd9cc3a3-15a2-438c-946d-b12df96268cb")
+			(uuid "04eab55a-bbf6-4d86-a2fe-f20ae575e36a")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "603-RC0603FR-0747KL"
-			(at 333.44562 202.816 0)
+		(property "mouser#" "603-RC0603FR-0747KL"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "51aafd86-dbd3-4982-b31b-fe2a96de17ec")
+			(uuid "bffc7763-20b4-4a04-ad8c-dd6476b6924e")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/cee9a3a2-28cd-4e6c-b23d-337f115f39e8/372eed9d-925c-4f11-8f3d-4bc6e45e0e05")
-		(sheetname "Power Management")
+		(sheetname "/Power Management/")
 		(sheetfile "Power.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -19483,7 +19582,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/fefbbf50-4876-48c4-b82f-0a75b5a95988")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
@@ -19655,45 +19754,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 326.364 251.968 0)
+		(property "manf" "KYOCERA AVX"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "75eb482e-5206-4618-b7c7-db0e6dbf0d2a")
+			(uuid "1e4bada7-481b-426d-a6ba-456748f2694f")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "06035C104KAT2A"
-			(at 326.364 251.968 0)
+		(property "manf#" "06035C104KAT2A"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "270bc1de-c740-4302-80a2-4c3dd4e0d073")
+			(uuid "2e1ce725-169e-4208-842b-f2c645a76b69")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "581-06035C104KAT2A"
-			(at 326.364 251.968 0)
+		(property "mouser#" "581-06035C104KAT2A"
+			(at 0 0 180)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8c7ad912-9377-4e38-955a-dd618c21cbc7")
+			(uuid "2ae0cd9a-3634-46e5-b825-7da4a64410c8")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/82af773f-8c39-43b9-baa2-3658da6c8bb2/cdc5b82d-a066-4aba-8efb-723cd4f2abff")
-		(sheetname "Sensors")
+		(sheetname "/Sensors/")
 		(sheetfile "Sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -19917,45 +20019,48 @@
 				)
 			)
 		)
-		(property "Mfr." "YAGEO"
-			(at 268.097 -46.609 0)
+		(property "manf" "YAGEO"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "94858380-5927-47da-be0c-a8c14b8eadeb")
+			(uuid "f4a8444f-708b-4a4a-a664-1a830d50a9b9")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "RC0603FR-0712KL"
-			(at 268.097 -46.609 0)
+		(property "manf#" "RC0603FR-0712KL"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "df870f3c-b8c6-47dd-9235-81f8030398fc")
+			(uuid "76b332d9-9dbe-4fdb-a2ed-b9c04ec7e813")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "603-RC0603FR-0712KL"
-			(at 268.097 -46.609 0)
+		(property "mouser#" "603-RC0603FR-0712KL"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "648338db-93f7-4466-9614-a6fa240ceb1d")
+			(uuid "539e265e-feb1-459b-9457-e5917ce89526")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/d2423ec0-a255-469d-a7c7-cc4b007f02fb")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -20156,51 +20261,12 @@
 				)
 			)
 		)
-		(property "Mfr." "YAGEO"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7efe058f-772f-431e-bc9a-4917236717b5")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.12)
-				)
-			)
-		)
-		(property "Mfr. No." "RC0402FR-074K7L"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b41026dd-0a32-4944-9ae0-4a1d1b8de2fb")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.12)
-				)
-			)
-		)
 		(property "Distributor" "Mouser"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d7a2b7b8-d249-4231-bd88-ef87fa79dd79")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.12)
-				)
-			)
-		)
-		(property "Order Number" "603-RC0402FR-074K7L"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e748ee03-2dfa-48c2-ba63-dc7697ae0e43")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -20221,9 +20287,48 @@
 				)
 			)
 		)
+		(property "manf" "YAGEO"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b612e590-dcc7-424e-939e-6cd067b73114")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+			)
+		)
+		(property "manf#" "RC0402FR-074K7L"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d17a9db-be58-4007-8351-f4c377e16d58")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+			)
+		)
+		(property "mouser#" "603-RC0402FR-074K7L"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3f2a68cc-52e6-4e97-9334-9aa08f09dd82")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7/a97fb465-1aca-43d9-ad45-4eb926e49ed7")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -20447,45 +20552,48 @@
 				)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 263.017 -27.813 0)
+		(property "manf" "KYOCERA AVX"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "893ed11d-8ef9-4b84-9ddf-1413513c2bb9")
+			(uuid "157239ac-38ef-492e-9427-fd15b36fad27")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Mfr. No." "06035C104KAT2A"
-			(at 263.017 -27.813 0)
+		(property "manf#" "06035C104KAT2A"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e42454d2-5bee-4929-b77e-d1e8b22606bb")
+			(uuid "fd3f27b3-eae2-48cc-8ffa-075f74a5788a")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
-		(property "Order Number" "581-06035C104KAT2A"
-			(at 263.017 -27.813 0)
+		(property "mouser#" "581-06035C104KAT2A"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "345c66d3-5aef-426d-9c9c-8f91486179fc")
+			(uuid "b72d8647-a743-4637-af73-47a511a71070")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/82af773f-8c39-43b9-baa2-3658da6c8bb2/2f99a992-e354-4583-b254-5944f4906bd8")
-		(sheetname "Sensors")
+		(sheetname "/Sensors/")
 		(sheetfile "Sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -22288,7 +22396,7 @@
 		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/cee9a3a2-28cd-4e6c-b23d-337f115f39e8/19271afb-bfe8-4cf0-8109-964a783e2f14")
-		(sheetname "Power Management")
+		(sheetname "/Power Management/")
 		(sheetfile "Power.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
@@ -22446,7 +22554,7 @@
 		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/cee9a3a2-28cd-4e6c-b23d-337f115f39e8/c181b2a2-731d-49c5-ad78-1b56c21a3215")
-		(sheetname "Power Management")
+		(sheetname "/Power Management/")
 		(sheetfile "Power.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
@@ -22750,7 +22858,7 @@
 		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/cee9a3a2-28cd-4e6c-b23d-337f115f39e8/ed9db73e-178a-4d25-afce-e7f726f9fc70")
-		(sheetname "Power Management")
+		(sheetname "/Power Management/")
 		(sheetfile "Power.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
@@ -23156,236 +23264,6 @@
 		)
 		(layer "B.SilkS")
 		(uuid "f22970c2-edc2-4362-999f-51c79b3bd0dc")
-	)
-	(gr_line
-		(start 15 53.156)
-		(end 136.685716 53.156)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "02651994-4e89-4ec9-a7d7-4f7984e69efa")
-	)
-	(gr_line
-		(start 55.457142 20)
-		(end 55.457142 71.186)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "0322df36-ae1f-42ad-b3f9-fb6d9006730e")
-	)
-	(gr_line
-		(start 15 31.52)
-		(end 136.685716 31.52)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "075d2adb-6b34-4433-ab96-3c754bf51c25")
-	)
-	(gr_line
-		(start 15 63.974)
-		(end 136.685716 63.974)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "0c5a7287-7c1a-487a-ac15-a9633d7191a5")
-	)
-	(gr_line
-		(start 15 45.944)
-		(end 136.685716 45.944)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "23847638-eea9-4379-ab59-f70bfc28c539")
-	)
-	(gr_line
-		(start 15 38.732)
-		(end 136.685716 38.732)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "2668ea6f-3544-4f48-aa5b-bb44707b57f1")
-	)
-	(gr_line
-		(start 119.728572 20)
-		(end 119.728572 71.186)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "315d7b12-ec06-4079-a9c9-efec8ac8c93d")
-	)
-	(gr_line
-		(start 15 42.338)
-		(end 136.685716 42.338)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "41af9991-470c-48d5-bfee-afa5f18a529e")
-	)
-	(gr_line
-		(start 106.842857 20)
-		(end 106.842857 71.186)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "46a7f92a-759b-4ecb-babe-386bed2ece50")
-	)
-	(gr_line
-		(start 91.985715 20)
-		(end 91.985715 71.186)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "4dba08e3-b8a4-46e0-abf0-9fe415df6979")
-	)
-	(gr_line
-		(start 15 27.914)
-		(end 136.685716 27.914)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "5ef34a17-b572-4a83-8d23-0a5cbc630370")
-	)
-	(gr_line
-		(start 15 49.55)
-		(end 136.685716 49.55)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "667373a0-1564-42c5-90ab-e1daf755af67")
-	)
-	(gr_line
-		(start 15 20)
-		(end 15 71.186)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "754d1c30-0279-49e3-a637-0987dbb07f68")
-	)
-	(gr_line
-		(start 71.957143 20)
-		(end 71.957143 71.186)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "77fb35f6-e6c9-4edb-931f-d560cd613b0d")
-	)
-	(gr_line
-		(start 15 56.762)
-		(end 136.685716 56.762)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "8484bcb8-5be2-400d-8fb7-4a81c36b42ec")
-	)
-	(gr_line
-		(start 15 20)
-		(end 136.685716 20)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "94e883e1-62b2-487b-89e8-8215c68b2933")
-	)
-	(gr_line
-		(start 15 67.58)
-		(end 136.685716 67.58)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "a6a834a6-f97d-4965-ab3f-122f8d0a0550")
-	)
-	(gr_line
-		(start 136.685716 20)
-		(end 136.685716 71.186)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "b9fa3628-d962-4819-816e-2d0cf7c365db")
-	)
-	(gr_line
-		(start 15 24.308)
-		(end 136.685716 24.308)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "def6d082-4365-43cf-8249-15e6748a78ef")
-	)
-	(gr_line
-		(start 15 71.186)
-		(end 136.685716 71.186)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "df1da8b7-7c6e-4e0c-b60d-b598e5895a77")
-	)
-	(gr_line
-		(start 30.385714 20)
-		(end 30.385714 71.186)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "e55c2aa8-f963-4338-bf08-1cba12f8357a")
-	)
-	(gr_line
-		(start 15 60.368)
-		(end 136.685716 60.368)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "ec11c022-2fe0-4fe7-b4ce-d91b871561ed")
-	)
-	(gr_line
-		(start 15 35.126)
-		(end 136.685716 35.126)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "f39eb25c-33dd-4e16-93f6-394de30be862")
 	)
 	(gr_line
 		(start 175.385158 121.098176)
@@ -24042,6 +23920,258 @@
 		(layer "Edge.Cuts")
 		(uuid "fdd6e80c-cee6-43f5-984b-70d976fc054d")
 	)
+	(gr_line
+		(start 14 15)
+		(end 147.085715 15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "070c79c4-7e38-4699-8c98-7aae14181b80")
+	)
+	(gr_rect
+		(start 152 15)
+		(end 281 70)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "User.1")
+		(uuid "0d6c7709-6784-4235-a5f3-97520a813bf7")
+	)
+	(gr_line
+		(start 14 19.308)
+		(end 147.085715 19.308)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "10c913bc-d222-43f4-95ad-31e351df74e4")
+	)
+	(gr_line
+		(start 14 58.974)
+		(end 147.085715 58.974)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "11ebfee0-e4c2-499a-942f-772532ce9565")
+	)
+	(gr_line
+		(start 14 48.156)
+		(end 147.085715 48.156)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "191f18ab-0e62-4f81-bca0-e164e3acbe14")
+	)
+	(gr_line
+		(start 14 22.914)
+		(end 147.085715 22.914)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "1d06be47-524e-4bcc-b746-a8f3f8b35b16")
+	)
+	(gr_line
+		(start 14 15)
+		(end 14 66.186)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "3fe92f0b-3744-4b0e-a519-da1871893e69")
+	)
+	(gr_line
+		(start 14 66.186)
+		(end 147.085715 66.186)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "43035b9a-34ee-4026-aeda-746a93f02cc1")
+	)
+	(gr_rect
+		(start 154 17)
+		(end 279 68)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "User.1")
+		(uuid "4af4265e-71ae-4104-8077-bcc861d45b1f")
+	)
+	(gr_line
+		(start 101.028571 15)
+		(end 101.028571 66.186)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "4b836150-7c8e-4e6c-8d34-7cada05e8a20")
+	)
+	(gr_line
+		(start 14 55.368)
+		(end 147.085715 55.368)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "4c0ef0de-3cd8-4376-9828-a6092af93167")
+	)
+	(gr_line
+		(start 70.928572 15)
+		(end 70.928572 66.186)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "52beff9f-0a0f-4be5-a5c4-be12ad6a2889")
+	)
+	(gr_line
+		(start 14 37.338)
+		(end 147.085715 37.338)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "583de81a-9aa8-4a7b-a7ae-bb9fb2815eec")
+	)
+	(gr_line
+		(start 29.357143 15)
+		(end 29.357143 66.186)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "64f14b20-2040-4769-a780-aca4f778e6cb")
+	)
+	(gr_line
+		(start 14 40.944)
+		(end 147.085715 40.944)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "815550c6-1ee5-4623-a2de-218e69823cba")
+	)
+	(gr_line
+		(start 14 51.762)
+		(end 147.085715 51.762)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "90fa996a-5b06-4aa0-8c18-b1f0b5a79291")
+	)
+	(gr_line
+		(start 113.914286 15)
+		(end 113.914286 66.186)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "aa2aec4f-031d-4cec-b1be-7684dbba6281")
+	)
+	(gr_line
+		(start 86.171429 15)
+		(end 86.171429 66.186)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "b6b9a3c4-eec4-4c71-b3b7-76e94cae1566")
+	)
+	(gr_line
+		(start 14 44.55)
+		(end 147.085715 44.55)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "c264dafa-72d9-4e72-811a-fd7de3bef629")
+	)
+	(gr_line
+		(start 54.428571 15)
+		(end 54.428571 66.186)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "df4cd202-0c0f-42e2-a96a-ee6ec8b4d667")
+	)
+	(gr_line
+		(start 14 62.58)
+		(end 147.085715 62.58)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "e37d9857-2080-4fd8-bbc1-b2c2facfd789")
+	)
+	(gr_line
+		(start 14 26.52)
+		(end 147.085715 26.52)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "e50a56dc-07eb-4bfe-a51f-46b16db1d18a")
+	)
+	(gr_line
+		(start 14 30.126)
+		(end 147.085715 30.126)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "f00e0c96-861b-49fb-b5b8-a51b5351656e")
+	)
+	(gr_line
+		(start 147.085715 15)
+		(end 147.085715 66.186)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "f8187d30-40c2-4109-884c-57f2fddef652")
+	)
+	(gr_line
+		(start 14 33.732)
+		(end 147.085715 33.732)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "fae4247f-fa16-4ad0-b17c-44f83ca937f3")
+	)
 	(gr_text "3.0.${REVISION}"
 		(at 151.892 129.667 330)
 		(layer "B.Cu")
@@ -24112,58 +24242,58 @@
 			(justify right mirror)
 		)
 	)
-	(gr_text "Castellated pads: "
-		(at 139.307 37.959 0)
-		(layer "Dwgs.User")
-		(uuid "00fdfcf7-5917-46d6-968b-9f0e8235f80b")
+	(gr_text ""
+		(at 55.178571 52.512 0)
+		(layer "User.1")
+		(uuid "04664082-ec7d-4532-9058-e4e69979895a")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "FR4"
+		(at 55.178571 41.694 0)
+		(layer "User.1")
+		(uuid "04d213e3-a4fd-45a4-b296-fd0b93ffc628")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0 mm"
+		(at 71.678572 20.058 0)
+		(layer "User.1")
+		(uuid "05764987-748d-4314-8c09-69f170ea173a")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Metallisierte Platinenkante: "
+		(at 80.349995 187.322 0)
+		(layer "User.1")
+		(uuid "06735610-a863-4383-acac-c9e72c3aab6c")
 		(effects
 			(font
 				(size 1.5 1.5)
 				(thickness 0.2)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Dielectric"
-		(at 15.75 46.694 0)
-		(layer "Dwgs.User")
-		(uuid "032ea97f-0210-460b-8a3b-200e351cf673")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "1"
-		(at 107.592857 57.512 0)
-		(layer "Dwgs.User")
-		(uuid "035fe958-ae06-4d55-84a7-a50cc058862a")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Not specified"
-		(at 56.207142 61.118 0)
-		(layer "Dwgs.User")
-		(uuid "03e76f9c-e121-466d-a39d-858feebfc078")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
 			)
 			(justify left top)
 		)
 	)
 	(gr_text "F.Mask"
-		(at 15.75 32.27 0)
-		(layer "Dwgs.User")
-		(uuid "046bf7e4-4914-42b0-96c6-20e399d4c170")
+		(at 14.75 27.27 0)
+		(layer "User.1")
+		(uuid "0b0452bf-b8af-495e-8152-e84a000c626d")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -24172,202 +24302,10 @@
 			(justify left top)
 		)
 	)
-	(gr_text "copper"
-		(at 31.135714 57.512 0)
-		(layer "Dwgs.User")
-		(uuid "055f3723-e556-4089-9711-37e837faf99a")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "1"
-		(at 107.592857 25.058 0)
-		(layer "Dwgs.User")
-		(uuid "0771d1c7-008e-4a9a-9c06-7aaf04e56319")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "BOARD CHARACTERISTICS"
-		(at 138.557 16.637 0)
-		(layer "Dwgs.User")
-		(uuid "0a4d1048-e86d-426b-8b7f-5d37f536640f")
-		(effects
-			(font
-				(size 2 2)
-				(thickness 0.4)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "40.9576 mm x 37.9989 mm"
-		(at 171.964143 26.088 0)
-		(layer "Dwgs.User")
-		(uuid "0aa92aea-e2f8-41de-84a0-0d123efda40b")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.2)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0"
-		(at 120.478572 50.3 0)
-		(layer "Dwgs.User")
-		(uuid "0b7bdf75-3426-4644-a1b8-6c5d2f4e6939")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "1"
-		(at 107.592857 35.876 0)
-		(layer "Dwgs.User")
-		(uuid "0c04a9eb-c2d6-4825-8398-2c3893ed1fab")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "core"
-		(at 31.135714 39.482 0)
-		(layer "Dwgs.User")
-		(uuid "0c420890-ca05-4afe-aed8-01d3fac9e3b1")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Blue"
-		(at 92.735715 61.118 0)
-		(layer "Dwgs.User")
-		(uuid "0fa956f0-598b-46e4-a9c1-12ad459efac4")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0.196 mm"
-		(at 72.707143 39.482 0)
-		(layer "Dwgs.User")
-		(uuid "1371332d-eb3a-4e7b-8c10-b4f48ff2cad9")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0.43 mm"
-		(at 72.707143 46.694 0)
-		(layer "Dwgs.User")
-		(uuid "13ce5b5e-c5ea-4fad-ae03-d9dc9b4f6b62")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0.196 mm"
-		(at 72.707143 53.906 0)
-		(layer "Dwgs.User")
-		(uuid "13ed8381-291a-47bc-8642-3f7eb6663169")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "copper"
-		(at 31.135714 43.088 0)
-		(layer "Dwgs.User")
-		(uuid "1678b4b6-eba4-4819-94d9-11f9ffa6559e")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "1"
-		(at 107.592857 50.3 0)
-		(layer "Dwgs.User")
-		(uuid "186f43aa-f9a1-44f5-a62e-8e9b56ce9e69")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0 mm"
-		(at 72.707143 25.058 0)
-		(layer "Dwgs.User")
-		(uuid "1b67c551-cc9d-4fc3-b7ce-fff3139a32c9")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0.035 mm"
-		(at 72.707143 50.3 0)
-		(layer "Dwgs.User")
-		(uuid "1dc07c2d-3977-4a30-99a3-0980ba102aba")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text ""
-		(at 92.735715 57.512 0)
-		(layer "Dwgs.User")
-		(uuid "1e23616d-3e30-4c09-a640-00085081a4e3")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "No"
-		(at 231.064138 34.002 0)
-		(layer "Dwgs.User")
-		(uuid "1f660cd7-20a5-4e5a-b40e-67caf7a93d93")
+	(gr_text "0,1250 mm / 0,1250 mm"
+		(at 46.192857 179.408 0)
+		(layer "User.1")
+		(uuid "10cc3a6c-ddea-448a-8086-bb05b677f206")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -24377,273 +24315,21 @@
 		)
 	)
 	(gr_text ""
-		(at 92.735715 35.876 0)
-		(layer "Dwgs.User")
-		(uuid "2103570d-5589-4f40-84eb-de69cfe2f482")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Board Thickness: "
-		(at 206.121281 22.131 0)
-		(layer "Dwgs.User")
-		(uuid "221687a9-e8a8-45af-9f0b-60d8645629d2")
+		(at 80.349995 175.451 0)
+		(layer "User.1")
+		(uuid "14e3d9cc-ab65-4b06-845c-82dcf239485e")
 		(effects
 			(font
 				(size 1.5 1.5)
 				(thickness 0.2)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "copper"
-		(at 31.135714 35.876 0)
-		(layer "Dwgs.User")
-		(uuid "24a65117-6d92-426f-a175-10c6c2d660b4")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
 			)
 			(justify left top)
 		)
 	)
 	(gr_text "Top Solder Mask"
-		(at 31.135714 32.27 0)
-		(layer "Dwgs.User")
-		(uuid "261e4236-9994-4f77-9764-3336fe045142")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "B.Paste"
-		(at 15.75 64.724 0)
-		(layer "Dwgs.User")
-		(uuid "27fc1590-e3ab-4ae4-afad-5d90b39cee31")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0 mm"
-		(at 72.707143 28.664 0)
-		(layer "Dwgs.User")
-		(uuid "28b71dd7-d8c5-4337-803f-549b24792c2c")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Dielectric"
-		(at 15.75 53.906 0)
-		(layer "Dwgs.User")
-		(uuid "297fb860-84c7-47a2-8081-ab5a2e15fcff")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text ""
-		(at 56.207142 64.724 0)
-		(layer "Dwgs.User")
-		(uuid "29e3cb9a-19e0-43dc-a3e9-d9804efb57a9")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "White"
-		(at 92.735715 68.33 0)
-		(layer "Dwgs.User")
-		(uuid "2d7353b5-4974-4f6d-8339-df52d04eca70")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Type"
-		(at 31.135714 20.75 0)
-		(layer "Dwgs.User")
-		(uuid "2eff51f6-23f8-441e-ac4a-07249d957eb0")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Board overall dimensions: "
-		(at 139.307 26.088 0)
-		(layer "Dwgs.User")
-		(uuid "318b7d23-35f5-469d-bb93-3d1e6af99934")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.2)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Bottom Solder Paste"
-		(at 31.135714 64.724 0)
-		(layer "Dwgs.User")
-		(uuid "33b82710-7643-448f-ac99-7e86616979a9")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0 mm"
-		(at 72.707143 64.724 0)
-		(layer "Dwgs.User")
-		(uuid "36ad0d8a-1523-467e-a0ef-afa281deb144")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text ""
-		(at 92.735715 64.724 0)
-		(layer "Dwgs.User")
-		(uuid "37363ebd-290b-4506-9559-f9f6ea91f014")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Inner1"
-		(at 15.75 43.088 0)
-		(layer "Dwgs.User")
-		(uuid "37e58695-da89-4aa3-a296-4378f475d81d")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text ""
-		(at 92.735715 28.664 0)
-		(layer "Dwgs.User")
-		(uuid "37f3c895-4774-4934-90a4-557cc2bd38d7")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text ""
-		(at 92.735715 43.088 0)
-		(layer "Dwgs.User")
-		(uuid "3ada3205-424e-4141-ab16-005bfdb39035")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0.035 mm"
-		(at 72.707143 35.876 0)
-		(layer "Dwgs.User")
-		(uuid "3edb6f13-6aa2-4609-8dd2-4a1fed440595")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "4"
-		(at 171.964143 22.131 0)
-		(layer "Dwgs.User")
-		(uuid "4391842d-df0f-456f-871a-71e6f16d9562")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.2)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Blue"
-		(at 92.735715 32.27 0)
-		(layer "Dwgs.User")
-		(uuid "454c232d-28d8-41b7-90cd-5d29c301f9a7")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "F.Cu"
-		(at 15.75 35.876 0)
-		(layer "Dwgs.User")
-		(uuid "4d14d7b0-e4c6-4b82-ad78-3bd3c6f65657")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "core"
-		(at 31.135714 53.906 0)
-		(layer "Dwgs.User")
-		(uuid "4d514b50-255c-4406-9922-8c84d7004581")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Bottom Solder Mask"
-		(at 31.135714 61.118 0)
-		(layer "Dwgs.User")
-		(uuid "5140ff1a-409c-49f1-8ba6-ac7dc683742c")
+		(at 30.107143 27.27 0)
+		(layer "User.1")
+		(uuid "1824c08a-0dd6-4128-a77b-6deb5d44be18")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -24653,9 +24339,9 @@
 		)
 	)
 	(gr_text "F.Paste"
-		(at 15.75 28.664 0)
-		(layer "Dwgs.User")
-		(uuid "52b17d7a-1416-439a-9804-17e59f988f02")
+		(at 14.75 23.664 0)
+		(layer "User.1")
+		(uuid "1be592ba-9ee9-403f-a047-09000fa934e3")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -24664,10 +24350,10 @@
 			(justify left top)
 		)
 	)
-	(gr_text ""
-		(at 56.207142 35.876 0)
-		(layer "Dwgs.User")
-		(uuid "54eb5998-239f-496d-836d-982276f218f7")
+	(gr_text "1"
+		(at 101.778571 59.724 0)
+		(layer "User.1")
+		(uuid "1c184b02-45f8-4cf4-ab57-3b2b8dc83898")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -24676,10 +24362,22 @@
 			(justify left top)
 		)
 	)
-	(gr_text "Plated Board Edge: "
-		(at 206.121281 37.959 0)
-		(layer "Dwgs.User")
-		(uuid "57b1c385-ac47-494e-a219-5ea60ba6fe80")
+	(gr_text "0"
+		(at 114.664286 63.33 0)
+		(layer "User.1")
+		(uuid "1e9ee23c-d633-41d3-b21d-7b6828ff3162")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Kupferlagenanzahl: "
+		(at 13.75 171.494 0)
+		(layer "User.1")
+		(uuid "201aaeb8-4f25-4739-9f6d-6ae0e0e705ae")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -24688,10 +24386,10 @@
 			(justify left top)
 		)
 	)
-	(gr_text "0 mm"
-		(at 72.707143 68.33 0)
-		(layer "Dwgs.User")
-		(uuid "5a7f2c5b-ca88-446a-abe3-961b4776a26c")
+	(gr_text "0"
+		(at 114.664286 30.876 0)
+		(layer "User.1")
+		(uuid "20f4500b-741f-47ea-bd6e-e1b0cc47d43d")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -24700,10 +24398,34 @@
 			(justify left top)
 		)
 	)
-	(gr_text "0.9820 mm"
-		(at 231.064138 22.131 0)
-		(layer "Dwgs.User")
-		(uuid "5fbd724b-0387-4912-8806-f297cc00f6eb")
+	(gr_text "Dielektrikum"
+		(at 14.75 41.694 0)
+		(layer "User.1")
+		(uuid "2ded7d39-8807-4852-b143-3354f363d29e")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "1"
+		(at 101.778571 20.058 0)
+		(layer "User.1")
+		(uuid "2eb32ca2-6809-402f-bbba-59b1f0dfb184")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0,2500 mm"
+		(at 114.221424 179.408 0)
+		(layer "User.1")
+		(uuid "333019e2-f0f0-431f-b4e3-3eef18427eb5")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -24713,9 +24435,9 @@
 		)
 	)
 	(gr_text "Not specified"
-		(at 56.207142 25.058 0)
-		(layer "Dwgs.User")
-		(uuid "630c0ba4-e3eb-4796-908a-d36fd08c6463")
+		(at 55.178571 20.058 0)
+		(layer "User.1")
+		(uuid "337413c4-f2ca-447b-b4f1-0a12534df1ee")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -24724,10 +24446,34 @@
 			(justify left top)
 		)
 	)
-	(gr_text "B.Silkscreen"
-		(at 15.75 68.33 0)
-		(layer "Dwgs.User")
-		(uuid "63edd116-7e2b-40b8-a44c-933ce6e032fb")
+	(gr_text "1"
+		(at 101.778571 63.33 0)
+		(layer "User.1")
+		(uuid "36085538-e335-4180-8f4b-b5a5413c407a")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Impedanzkontrolle: "
+		(at 80.349995 183.365 0)
+		(layer "User.1")
+		(uuid "366666eb-cd5a-4a25-8a0b-ce23041aafd7")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0"
+		(at 114.664286 59.724 0)
+		(layer "User.1")
+		(uuid "37ddc658-f7f8-43f3-815a-623a91365d55")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -24737,9 +24483,9 @@
 		)
 	)
 	(gr_text "FR4"
-		(at 56.207142 39.482 0)
-		(layer "Dwgs.User")
-		(uuid "658b82f0-fcb2-4167-a15a-1bb93d07b805")
+		(at 55.178571 34.482 0)
+		(layer "User.1")
+		(uuid "39ffabc1-2ba1-42f1-899c-55048fa6f7d8")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -24748,46 +24494,10 @@
 			(justify left top)
 		)
 	)
-	(gr_text "Min track/spacing: "
-		(at 139.307 30.045 0)
-		(layer "Dwgs.User")
-		(uuid "66cab8b3-ba33-4731-a0ff-9fd512923531")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.2)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0.1250 mm / 0.1250 mm"
-		(at 171.964143 30.045 0)
-		(layer "Dwgs.User")
-		(uuid "68a005dd-a945-438d-8571-bf0ef0661239")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.2)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0.2500 mm"
-		(at 231.064138 30.045 0)
-		(layer "Dwgs.User")
-		(uuid "68c34c2f-eba0-444d-b16d-0d3f9405314e")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.2)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "1"
-		(at 107.592857 64.724 0)
-		(layer "Dwgs.User")
-		(uuid "6f4a88e1-f629-408e-a615-92e12045926d")
+	(gr_text "B.Paste"
+		(at 14.75 59.724 0)
+		(layer "User.1")
+		(uuid "3d3a571c-e1ad-488d-b341-7bffba8f14cc")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -24796,118 +24506,10 @@
 			(justify left top)
 		)
 	)
-	(gr_text "0"
-		(at 120.478572 35.876 0)
-		(layer "Dwgs.User")
-		(uuid "701be05d-07d2-468b-9852-226a0e9537eb")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0.01 mm"
-		(at 72.707143 32.27 0)
-		(layer "Dwgs.User")
-		(uuid "719b87ad-df27-411a-a621-dcd47b11ceea")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0.02"
-		(at 120.478572 46.694 0)
-		(layer "Dwgs.User")
-		(uuid "735da6eb-f3cb-4bdc-89e9-d57861dd8150")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0.035 mm"
-		(at 72.707143 43.088 0)
-		(layer "Dwgs.User")
-		(uuid "7387370a-e4b9-419b-8f8b-8df39f047a5a")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "prepreg"
-		(at 31.135714 46.694 0)
-		(layer "Dwgs.User")
-		(uuid "759f16ce-7471-46e1-93a2-07ff9f8bd5c1")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0"
-		(at 120.478572 32.27 0)
-		(layer "Dwgs.User")
-		(uuid "784dbef9-371f-4cee-a086-f237634c1570")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "B.Mask"
-		(at 15.75 61.118 0)
-		(layer "Dwgs.User")
-		(uuid "79c115b6-f933-4ec2-82ef-9d8dbd800ba4")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0.02"
-		(at 120.478572 53.906 0)
-		(layer "Dwgs.User")
-		(uuid "7a340195-0b2e-434b-858e-ed8fe5102040")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0"
-		(at 120.478572 43.088 0)
-		(layer "Dwgs.User")
-		(uuid "7b88fb70-7229-45a9-8710-68c5c43d796f")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0"
-		(at 120.478572 61.118 0)
-		(layer "Dwgs.User")
-		(uuid "7c53970d-044c-4084-85f5-7218bf5e5ae6")
+	(gr_text "White"
+		(at 86.921429 63.33 0)
+		(layer "User.1")
+		(uuid "42aa0927-fb14-4857-b550-9651ecbd6a53")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -24917,597 +24519,9 @@
 		)
 	)
 	(gr_text "copper"
-		(at 31.135714 50.3 0)
-		(layer "Dwgs.User")
-		(uuid "80bc3ebd-aa47-4935-8c25-aeed1732dab8")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "FR4 natural"
-		(at 92.735715 39.482 0)
-		(layer "Dwgs.User")
-		(uuid "826e626e-3f82-477f-90cf-30b88b42cba7")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "1"
-		(at 107.592857 28.664 0)
-		(layer "Dwgs.User")
-		(uuid "8404c844-954d-44c6-ab30-790347603933")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Top Solder Paste"
-		(at 31.135714 28.664 0)
-		(layer "Dwgs.User")
-		(uuid "8625d8bb-f08e-4ec7-b31b-233529b4505a")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0"
-		(at 120.478572 68.33 0)
-		(layer "Dwgs.User")
-		(uuid "9010d661-74a1-44a3-9c38-63ce3a185a52")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Layer Name"
-		(at 15.75 20.75 0)
-		(layer "Dwgs.User")
-		(uuid "9598f447-1068-4c74-ba58-1dee55704d4f")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text ""
-		(at 56.207142 28.664 0)
-		(layer "Dwgs.User")
-		(uuid "9d39be80-b41b-4d5a-89bd-823fe97c4b15")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "FR4 natural"
-		(at 92.735715 53.906 0)
-		(layer "Dwgs.User")
-		(uuid "9e86893b-8c98-4b43-b915-e806e39a26e5")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "B.Cu"
-		(at 15.75 57.512 0)
-		(layer "Dwgs.User")
-		(uuid "a14222f1-fe79-4dd8-9cd4-6a3efe152dc1")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Loss Tangent"
-		(at 120.478572 20.75 0)
-		(layer "Dwgs.User")
-		(uuid "a2177cd9-a840-4f39-8e84-5b8ef35e80b7")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "FR4"
-		(at 56.207142 46.694 0)
-		(layer "Dwgs.User")
-		(uuid "a43e70bc-206e-4e4e-a0e9-e0a460eafbd0")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "No"
-		(at 171.964143 41.916 0)
-		(layer "Dwgs.User")
-		(uuid "a4a03859-125c-435c-b2e3-cbc6ab946f90")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.2)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Color"
-		(at 92.735715 20.75 0)
-		(layer "Dwgs.User")
-		(uuid "aaba79cb-ed1e-4c3f-8a2f-ef23e6e08d85")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "White"
-		(at 92.735715 25.058 0)
-		(layer "Dwgs.User")
-		(uuid "ab27534b-1796-4e52-8d7d-444f66f006b7")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Thickness (mm)"
-		(at 72.707143 20.75 0)
-		(layer "Dwgs.User")
-		(uuid "ac548697-91f5-4acf-aac2-18d03750b9cc")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text ""
-		(at 56.207142 57.512 0)
-		(layer "Dwgs.User")
-		(uuid "b0e6e968-b144-4012-9358-d8256ade1dd3")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text ""
-		(at 206.121281 26.088 0)
-		(layer "Dwgs.User")
-		(uuid "b4117376-6c5d-4dee-953f-1f8237840824")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.2)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Copper Layer Count: "
-		(at 139.307 22.131 0)
-		(layer "Dwgs.User")
-		(uuid "b57e01c3-2c54-4a43-8c5f-7ec5381abf80")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.2)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "FR4 natural"
-		(at 92.735715 46.694 0)
-		(layer "Dwgs.User")
-		(uuid "b79805e5-b51c-4fd6-8985-0d994ffc0d79")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Edge card connectors: "
-		(at 139.307 41.916 0)
-		(layer "Dwgs.User")
-		(uuid "ba138376-d783-48ab-9b01-6946d30410c0")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.2)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "HAL SnPb"
-		(at 171.964143 34.002 0)
-		(layer "Dwgs.User")
-		(uuid "ba752ec3-d423-4347-b086-65780f143602")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.2)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0"
-		(at 120.478572 64.724 0)
-		(layer "Dwgs.User")
-		(uuid "ba864b9f-2f05-4811-b8d8-4bbc26c1d062")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Top Silk Screen"
-		(at 31.135714 25.058 0)
-		(layer "Dwgs.User")
-		(uuid "bc8e9884-d31b-425a-b064-f18c56e02603")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Inner2"
-		(at 15.75 50.3 0)
-		(layer "Dwgs.User")
-		(uuid "bc949f50-a26b-4e63-aaf3-4aab562a1687")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text ""
-		(at 231.064138 26.088 0)
-		(layer "Dwgs.User")
-		(uuid "bd581f1f-8615-489c-8a7e-692029887717")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.2)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text ""
-		(at 56.207142 43.088 0)
-		(layer "Dwgs.User")
-		(uuid "c1880f65-2851-49b2-8624-de8f20f7cbd2")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text ""
-		(at 56.207142 50.3 0)
-		(layer "Dwgs.User")
-		(uuid "c3946cb1-5405-4c75-8a15-6397dea46836")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0"
-		(at 120.478572 57.512 0)
-		(layer "Dwgs.User")
-		(uuid "c3d7c58d-1730-4c52-82cf-295d19e71407")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0.02"
-		(at 120.478572 39.482 0)
-		(layer "Dwgs.User")
-		(uuid "c4b6510b-1b4f-43f9-be9e-65481fe95ca0")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Min hole diameter: "
-		(at 206.121281 30.045 0)
-		(layer "Dwgs.User")
-		(uuid "c55b6433-f7ee-4d44-8d2d-972d79be0fe5")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.2)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0.035 mm"
-		(at 72.707143 57.512 0)
-		(layer "Dwgs.User")
-		(uuid "c6910e50-7306-49a7-b54f-caa379a3f400")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Copper Finish: "
-		(at 139.307 34.002 0)
-		(layer "Dwgs.User")
-		(uuid "c72883d5-c415-4ff2-a017-a017e91fc09d")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.2)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Dielectric"
-		(at 15.75 39.482 0)
-		(layer "Dwgs.User")
-		(uuid "c95106e8-8daa-4833-9ae2-0fde15956f6c")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0"
-		(at 120.478572 25.058 0)
-		(layer "Dwgs.User")
-		(uuid "c9592bc6-12e8-4aac-8b8f-5d62be9c3142")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "1"
-		(at 107.592857 43.088 0)
-		(layer "Dwgs.User")
-		(uuid "cb4b47d9-3e1e-4935-8a52-340fb00baab9")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "No"
-		(at 231.064138 37.959 0)
-		(layer "Dwgs.User")
-		(uuid "cb4d5c27-23ca-4ba3-a76d-5f27b17ffa6b")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.2)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "F.Silkscreen"
-		(at 15.75 25.058 0)
-		(layer "Dwgs.User")
-		(uuid "ce23041a-8965-4588-9ace-831159f09f8c")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Not specified"
-		(at 56.207142 32.27 0)
-		(layer "Dwgs.User")
-		(uuid "cf6b1c57-7985-4334-910b-8edb8a836b07")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Material"
-		(at 56.207142 20.75 0)
-		(layer "Dwgs.User")
-		(uuid "cfe4a032-16e3-43d7-ad91-16451099d3c3")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Not specified"
-		(at 56.207142 68.33 0)
-		(layer "Dwgs.User")
-		(uuid "d083b0b0-b0fe-4b0d-8b42-82485e911708")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0.01 mm"
-		(at 72.707143 61.118 0)
-		(layer "Dwgs.User")
-		(uuid "d9ebc9a9-32ee-4a2c-8c52-72223def4545")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Bottom Silk Screen"
-		(at 31.135714 68.33 0)
-		(layer "Dwgs.User")
-		(uuid "dba8de2e-580d-487f-bbee-56d548b5c93a")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "0"
-		(at 120.478572 28.664 0)
-		(layer "Dwgs.User")
-		(uuid "de312456-4068-4ead-94d4-5f9f81658e78")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "3.3"
-		(at 107.592857 32.27 0)
-		(layer "Dwgs.User")
-		(uuid "e4f308f6-c566-4f7c-9ca5-abd513d5b5b3")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "4.5"
-		(at 107.592857 53.906 0)
-		(layer "Dwgs.User")
-		(uuid "e71abfc4-3d13-461f-a056-f6304cccf460")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text ""
-		(at 92.735715 50.3 0)
-		(layer "Dwgs.User")
-		(uuid "e8cf94b7-c418-43a5-93a1-2352937fbb29")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "No"
-		(at 171.964143 37.959 0)
-		(layer "Dwgs.User")
-		(uuid "eb7d8a06-b203-499f-a249-7e8e2e131f5e")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.2)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "3.3"
-		(at 107.592857 61.118 0)
-		(layer "Dwgs.User")
-		(uuid "eda19ad6-d70e-416c-b353-54467b57d131")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "Impedance Control: "
-		(at 206.121281 34.002 0)
-		(layer "Dwgs.User")
-		(uuid "f0a7da0a-94ee-446c-a73d-5e0a7db1bf3a")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.2)
-			)
-			(justify left top)
-		)
-	)
-	(gr_text "4.5"
-		(at 107.592857 46.694 0)
-		(layer "Dwgs.User")
-		(uuid "f25b83a6-e5e0-488e-959e-9caec1f6092b")
+		(at 30.107143 45.3 0)
+		(layer "User.1")
+		(uuid "47bf9df5-c72d-49b3-9803-db3a75ab0ce7")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -25517,9 +24531,9 @@
 		)
 	)
 	(gr_text "Epsilon R"
-		(at 107.592857 20.75 0)
-		(layer "Dwgs.User")
-		(uuid "f5bb0260-82e6-4a84-aec9-48778533b59f")
+		(at 101.778571 15.75 0)
+		(layer "User.1")
+		(uuid "4a8779e2-5375-4d32-90dd-93e1b33805d3")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -25528,10 +24542,10 @@
 			(justify left top)
 		)
 	)
-	(gr_text "1"
-		(at 107.592857 68.33 0)
-		(layer "Dwgs.User")
-		(uuid "f85f827f-f62b-43e4-bc0a-74fac4a8c7db")
+	(gr_text "0"
+		(at 114.664286 27.27 0)
+		(layer "User.1")
+		(uuid "4f8f21c0-d1c0-4406-a43f-ce2cd9bef312")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -25540,10 +24554,1126 @@
 			(justify left top)
 		)
 	)
-	(gr_text "4.5"
-		(at 107.592857 39.482 0)
-		(layer "Dwgs.User")
-		(uuid "fab08c50-0316-452a-8fce-23e0ef87df71")
+	(gr_text "Nein"
+		(at 114.221424 183.365 0)
+		(layer "User.1")
+		(uuid "4faac065-a409-42d1-ba87-e2400b906039")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text ""
+		(at 86.921429 30.876 0)
+		(layer "User.1")
+		(uuid "509d12e8-2a93-4080-881e-2451370c550e")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text ""
+		(at 114.221424 175.451 0)
+		(layer "User.1")
+		(uuid "51391f23-0f63-4c34-bc54-bd34982e9b3a")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0,035 mm"
+		(at 71.678572 52.512 0)
+		(layer "User.1")
+		(uuid "55a15e2c-0c0a-4b4d-920c-fe3c1708d56c")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "1"
+		(at 101.778571 38.088 0)
+		(layer "User.1")
+		(uuid "55d54682-c594-454d-9a96-f0c657ae7e48")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text ""
+		(at 55.178571 30.876 0)
+		(layer "User.1")
+		(uuid "56c40f9f-d321-4c91-bd60-713f650bd0bc")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "PLATINEN-EIGENSCHAFTEN"
+		(at 13 166 0)
+		(layer "User.1")
+		(uuid "5aded6d1-d05d-487c-be28-2a545fd874ae")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Blue"
+		(at 86.921429 56.118 0)
+		(layer "User.1")
+		(uuid "5bfaa6d1-685c-44e5-9132-8487da8da051")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text ""
+		(at 86.921429 38.088 0)
+		(layer "User.1")
+		(uuid "5f2b9ace-a7f4-412b-9e25-c42a36bed01b")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "1"
+		(at 101.778571 30.876 0)
+		(layer "User.1")
+		(uuid "60802f2e-e3da-4181-ad6a-db7e4a18662f")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0,02"
+		(at 114.664286 41.694 0)
+		(layer "User.1")
+		(uuid "6158d498-5cac-481f-bb35-2c40fb4a794e")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text ""
+		(at 86.921429 23.664 0)
+		(layer "User.1")
+		(uuid "6257d79a-2232-4ca1-a537-d158cbf4cc2c")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Farbe"
+		(at 86.921429 15.75 0)
+		(layer "User.1")
+		(uuid "6a775e46-ac67-4e18-9c95-8cdf52d11dc2")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Not specified"
+		(at 55.178571 63.33 0)
+		(layer "User.1")
+		(uuid "6a7aee0e-5e83-4497-a2e2-1c8249b1d800")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Top Silk Screen"
+		(at 30.107143 20.058 0)
+		(layer "User.1")
+		(uuid "6d4f2fbd-9a04-4a79-ba1d-bb569141a522")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "4,5"
+		(at 101.778571 48.906 0)
+		(layer "User.1")
+		(uuid "6e1888a1-919f-4fa2-a42b-f69de238a13f")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "FR4 natural"
+		(at 86.921429 41.694 0)
+		(layer "User.1")
+		(uuid "710b88c2-5fd4-483a-9b4a-a8e945845025")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "White"
+		(at 86.921429 20.058 0)
+		(layer "User.1")
+		(uuid "71accf43-dede-47f3-aa1a-33535f5b02a8")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Min Leiterbahn/abstand: "
+		(at 13.75 179.408 0)
+		(layer "User.1")
+		(uuid "7522fc16-37ee-4d5d-863f-31e11a856f6d")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "copper"
+		(at 30.107143 30.876 0)
+		(layer "User.1")
+		(uuid "79fa377a-f86d-4c77-bf38-c36d46139819")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0 mm"
+		(at 71.678572 23.664 0)
+		(layer "User.1")
+		(uuid "7ac8f46c-03cc-4728-9d4f-1f76ff92039e")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "4"
+		(at 46.192857 171.494 0)
+		(layer "User.1")
+		(uuid "7b5c8383-9dd3-4f6f-a241-e621da1b5ef3")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0,43 mm"
+		(at 71.678572 41.694 0)
+		(layer "User.1")
+		(uuid "7c1e01f4-f511-4b69-8a16-903318d5c2ed")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0"
+		(at 114.664286 52.512 0)
+		(layer "User.1")
+		(uuid "7c80d458-fa0e-4c50-93d2-67d9404d4361")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Bottom Solder Paste"
+		(at 30.107143 59.724 0)
+		(layer "User.1")
+		(uuid "817e25b5-cc27-4bf3-879c-f0f155c4902b")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0"
+		(at 114.664286 38.088 0)
+		(layer "User.1")
+		(uuid "8372f7f7-8cd2-428e-8667-74f2de39b42c")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0 mm"
+		(at 71.678572 63.33 0)
+		(layer "User.1")
+		(uuid "83bc2e4c-9736-40c0-95df-d0b01092e877")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "B.Mask"
+		(at 14.75 56.118 0)
+		(layer "User.1")
+		(uuid "849dbaee-2cb9-478b-a7ef-2cffaf521cbb")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0"
+		(at 114.664286 23.664 0)
+		(layer "User.1")
+		(uuid "84afedd2-54c3-43c1-adcd-7d4c9f1d26a7")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0,02"
+		(at 114.664286 48.906 0)
+		(layer "User.1")
+		(uuid "8635f78c-4e43-4d51-86ba-e92d6b918a5c")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "1"
+		(at 101.778571 52.512 0)
+		(layer "User.1")
+		(uuid "8668ebde-b0c6-4cca-a93e-594716689bbb")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "4,5"
+		(at 101.778571 41.694 0)
+		(layer "User.1")
+		(uuid "889315e8-3db5-45e3-af74-ed2a6fe1b926")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0"
+		(at 114.664286 20.058 0)
+		(layer "User.1")
+		(uuid "8c913f57-573e-4700-9f19-686097f7649d")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0 mm"
+		(at 71.678572 59.724 0)
+		(layer "User.1")
+		(uuid "8c9bee06-d9e2-4b01-a9a6-a4cbe4c7dd63")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Top Solder Paste"
+		(at 30.107143 23.664 0)
+		(layer "User.1")
+		(uuid "90dc5e6c-41cb-4246-8a56-7ad0daf8da6f")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Bottom Solder Mask"
+		(at 30.107143 56.118 0)
+		(layer "User.1")
+		(uuid "929ffe11-e71d-4be7-b783-ed22ea63d84f")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "3,3"
+		(at 101.778571 27.27 0)
+		(layer "User.1")
+		(uuid "94114644-0c68-4c40-8f93-e5526c413d59")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Bottom Silk Screen"
+		(at 30.107143 63.33 0)
+		(layer "User.1")
+		(uuid "948e1809-aead-4a89-996b-6c28af2fba8c")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Inner2"
+		(at 14.75 45.3 0)
+		(layer "User.1")
+		(uuid "9500ed3f-3a79-4770-bb33-c20caf550e4b")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text ""
+		(at 55.178571 38.088 0)
+		(layer "User.1")
+		(uuid "951a74f4-f61b-4887-bf03-789a628b5780")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Not specified"
+		(at 55.178571 27.27 0)
+		(layer "User.1")
+		(uuid "984c3fb1-6989-466c-ac9d-ca285583d65c")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "1"
+		(at 101.778571 45.3 0)
+		(layer "User.1")
+		(uuid "999b2c6c-735c-44db-bdb3-37c6cba1d63f")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "B.Silkscreen"
+		(at 14.75 63.33 0)
+		(layer "User.1")
+		(uuid "9a9b1a9c-4631-4d81-b2c0-282b51877c1a")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "FR4 natural"
+		(at 86.921429 48.906 0)
+		(layer "User.1")
+		(uuid "9b69e78c-b300-42e5-856e-ddcaf0ebf960")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Min Lochdurchmesser: "
+		(at 80.349995 179.408 0)
+		(layer "User.1")
+		(uuid "a064bc3c-10cd-4c36-9a4d-d1b5d8ad5d5e")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "F.Cu"
+		(at 14.75 30.876 0)
+		(layer "User.1")
+		(uuid "a292aad9-d751-418f-9fb4-3cd38da256b6")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "copper"
+		(at 30.107143 38.088 0)
+		(layer "User.1")
+		(uuid "a65b073e-efdc-4579-871a-ff27d851d013")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text ""
+		(at 86.921429 59.724 0)
+		(layer "User.1")
+		(uuid "a80cf5eb-3d2d-4b54-bc15-ae685039a694")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0,035 mm"
+		(at 71.678572 38.088 0)
+		(layer "User.1")
+		(uuid "ad1e537d-7fc1-49b8-a28f-19e3decc5ae5")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Dielektrikum"
+		(at 14.75 48.906 0)
+		(layer "User.1")
+		(uuid "b00c7417-8577-433f-974f-7651bb1b7cc6")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Lagenname"
+		(at 14.75 15.75 0)
+		(layer "User.1")
+		(uuid "b1265ce3-5abd-4af6-8e79-3550da997dd6")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0,01 mm"
+		(at 71.678572 56.118 0)
+		(layer "User.1")
+		(uuid "b2e395b1-0477-42d8-812d-63c45e906acc")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Platinen-Dicke: "
+		(at 80.349995 171.494 0)
+		(layer "User.1")
+		(uuid "b363d963-df05-4c4a-bc89-f81864b3bde0")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "B.Cu"
+		(at 14.75 52.512 0)
+		(layer "User.1")
+		(uuid "b56a27dc-b527-4507-a30b-cd3c1e012d12")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Dielektrikum"
+		(at 14.75 34.482 0)
+		(layer "User.1")
+		(uuid "b65cfc7d-443c-4081-b77a-f41cea7dbb8d")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Abmessungen der Platine: "
+		(at 13.75 175.451 0)
+		(layer "User.1")
+		(uuid "b6c24c3b-0d04-41fe-b7e0-be3e0d09514e")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text ""
+		(at 86.921429 52.512 0)
+		(layer "User.1")
+		(uuid "b763aa17-894b-4ff8-9649-4526b9a9985d")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text ""
+		(at 55.178571 59.724 0)
+		(layer "User.1")
+		(uuid "b88d0dfa-5e0e-4b09-a032-34675a4b8bbe")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Blue"
+		(at 86.921429 27.27 0)
+		(layer "User.1")
+		(uuid "baef0e61-9ac2-4ca3-bedf-0b3f4639c43b")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "F.Silkscreen"
+		(at 14.75 20.058 0)
+		(layer "User.1")
+		(uuid "bd3ccf21-834e-48f4-a7a2-3afa4e5ebdb3")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0,01 mm"
+		(at 71.678572 27.27 0)
+		(layer "User.1")
+		(uuid "bf0b3b1a-f7f8-449a-ba0c-4f7faa8b91db")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0,035 mm"
+		(at 71.678572 30.876 0)
+		(layer "User.1")
+		(uuid "c04d6aec-9b01-40c3-b070-5349535983ee")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0"
+		(at 114.664286 45.3 0)
+		(layer "User.1")
+		(uuid "c69217e1-8e23-4663-a89f-dc9288015278")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Castellated Pads: "
+		(at 13.75 187.322 0)
+		(layer "User.1")
+		(uuid "c83edc9b-305e-497d-9cf8-0b88027d74d3")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Nein"
+		(at 46.192857 187.322 0)
+		(layer "User.1")
+		(uuid "c9fba64e-e72a-48f8-8c5a-f8da57348112")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "40,9576 mm x 37,9989 mm"
+		(at 46.192857 175.451 0)
+		(layer "User.1")
+		(uuid "cb5457d4-1255-4a3e-9d82-19b9e9a91373")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0,196 mm"
+		(at 71.678572 48.906 0)
+		(layer "User.1")
+		(uuid "cc342d85-3891-4c2a-a1be-33ec1c575b00")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text ""
+		(at 55.178571 23.664 0)
+		(layer "User.1")
+		(uuid "cca92069-5ddc-4cec-b142-e5dc4cdbf4fd")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Inner1"
+		(at 14.75 38.088 0)
+		(layer "User.1")
+		(uuid "ce821275-dbd9-4418-9a76-b3a1ede81149")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0,035 mm"
+		(at 71.678572 45.3 0)
+		(layer "User.1")
+		(uuid "ce83b44a-1c4c-400e-b438-49d1f76b6f9b")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Nein"
+		(at 114.221424 187.322 0)
+		(layer "User.1")
+		(uuid "cedba159-f936-408d-aa0f-a8a8e2997ae4")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Not specified"
+		(at 55.178571 56.118 0)
+		(layer "User.1")
+		(uuid "d253e8c5-631d-4da2-bdb9-3bd67cd681f4")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Nein"
+		(at 46.192857 191.279 0)
+		(layer "User.1")
+		(uuid "d5236c29-e47f-45d4-be63-448415fbf355")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text ""
+		(at 55.178571 45.3 0)
+		(layer "User.1")
+		(uuid "d813a340-f37b-429b-ae66-c30ed1e2a60c")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Dicke (mm)"
+		(at 71.678572 15.75 0)
+		(layer "User.1")
+		(uuid "dbbc96e4-ffba-4534-a496-ff80198cd22a")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0,9820 mm"
+		(at 114.221424 171.494 0)
+		(layer "User.1")
+		(uuid "dc41029b-4615-470c-9d91-c2b2e3a891dd")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Kupferoberfläche: "
+		(at 13.75 183.365 0)
+		(layer "User.1")
+		(uuid "e05d74f1-a763-445b-8884-7d9b5926a9be")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "1"
+		(at 101.778571 23.664 0)
+		(layer "User.1")
+		(uuid "e1111b3d-bffe-45b2-9f7c-f0a3cdbb114a")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0,02"
+		(at 114.664286 34.482 0)
+		(layer "User.1")
+		(uuid "e8528e72-e7cd-4c9e-a9b5-aff74aee8d07")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "4,5"
+		(at 101.778571 34.482 0)
+		(layer "User.1")
+		(uuid "e867c3ff-a221-4c92-a152-092d334f3be2")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "core"
+		(at 30.107143 34.482 0)
+		(layer "User.1")
+		(uuid "e967de6a-abb7-4b7f-a4aa-e3f6fb36158b")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text ""
+		(at 86.921429 45.3 0)
+		(layer "User.1")
+		(uuid "e99194b9-d11a-477f-b538-99bf047be7c6")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0,196 mm"
+		(at 71.678572 34.482 0)
+		(layer "User.1")
+		(uuid "ebcf16eb-b8a1-498f-b37d-c43e8a2db20b")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "prepreg"
+		(at 30.107143 41.694 0)
+		(layer "User.1")
+		(uuid "ed1d0759-eef5-4c5a-88c7-fe015d739607")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Material"
+		(at 55.178571 15.75 0)
+		(layer "User.1")
+		(uuid "edfee93e-8984-472d-bc02-4a7d91c2713f")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Typ"
+		(at 30.107143 15.75 0)
+		(layer "User.1")
+		(uuid "ef2e62ea-fd69-4f02-944e-a49edb48a5e3")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "copper"
+		(at 30.107143 52.512 0)
+		(layer "User.1")
+		(uuid "ef6f664f-081c-4b3f-b873-a4dfaa625e51")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "HAL SnPb"
+		(at 46.192857 183.365 0)
+		(layer "User.1")
+		(uuid "f001114a-0541-4b6b-80c8-4382692fb23e")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Randsteckverbinder: "
+		(at 13.75 191.279 0)
+		(layer "User.1")
+		(uuid "f1b0acc1-34a5-45f1-9e39-678cbc9861f4")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Tangens des Verlustwinkels"
+		(at 114.664286 15.75 0)
+		(layer "User.1")
+		(uuid "f4db165e-69cb-4953-907e-92b666fe0ba7")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "3,3"
+		(at 101.778571 56.118 0)
+		(layer "User.1")
+		(uuid "f4e43864-1f87-41f0-b189-de20daf28a27")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "FR4 natural"
+		(at 86.921429 34.482 0)
+		(layer "User.1")
+		(uuid "f55d3b02-9446-42ae-a99a-60702bb4e6d5")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "core"
+		(at 30.107143 48.906 0)
+		(layer "User.1")
+		(uuid "f9dfe2aa-c071-46dc-af6b-eaf9f5dec8d7")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0"
+		(at 114.664286 56.118 0)
+		(layer "User.1")
+		(uuid "fd7f7a0d-91d0-4fff-b570-b93e31c2a99a")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -25553,27 +25683,15 @@
 		)
 	)
 	(gr_text "FR4"
-		(at 56.207142 53.906 0)
-		(layer "Dwgs.User")
-		(uuid "fbe97812-f060-4452-8829-1608f4f0628a")
+		(at 55.178571 48.906 0)
+		(layer "User.1")
+		(uuid "ffec8079-fd52-4702-92b4-fd9b9beac39c")
 		(effects
 			(font
 				(size 1.5 1.5)
 				(thickness 0.1)
 			)
 			(justify left top)
-		)
-	)
-	(gr_text "PCBWay 4-Layer Stack"
-		(at 12.827 18.288 0)
-		(layer "User.1")
-		(uuid "6191ab10-1324-458f-8289-598e044d6339")
-		(effects
-			(font
-				(size 3.2 3.2)
-				(thickness 0.48)
-			)
-			(justify left bottom)
 		)
 	)
 	(segment
@@ -35532,87 +35650,6 @@
 			"b2be30fb-2012-497c-a17d-deae67d0f31e" "db7e0c08-8626-4ec3-8043-5ef50aa0f432"
 		)
 	)
-	(group "group-boardCharacteristics"
-		(uuid "4316dd5c-7f84-45cf-8a6b-c2a670cea570")
-		(members "00fdfcf7-5917-46d6-968b-9f0e8235f80b" "0a4d1048-e86d-426b-8b7f-5d37f536640f"
-			"0aa92aea-e2f8-41de-84a0-0d123efda40b" "1f660cd7-20a5-4e5a-b40e-67caf7a93d93"
-			"221687a9-e8a8-45af-9f0b-60d8645629d2" "318b7d23-35f5-469d-bb93-3d1e6af99934"
-			"4391842d-df0f-456f-871a-71e6f16d9562" "57b1c385-ac47-494e-a219-5ea60ba6fe80"
-			"5fbd724b-0387-4912-8806-f297cc00f6eb" "66cab8b3-ba33-4731-a0ff-9fd512923531"
-			"68a005dd-a945-438d-8571-bf0ef0661239" "68c34c2f-eba0-444d-b16d-0d3f9405314e"
-			"a4a03859-125c-435c-b2e3-cbc6ab946f90" "b4117376-6c5d-4dee-953f-1f8237840824"
-			"b57e01c3-2c54-4a43-8c5f-7ec5381abf80" "ba138376-d783-48ab-9b01-6946d30410c0"
-			"ba752ec3-d423-4347-b086-65780f143602" "bd581f1f-8615-489c-8a7e-692029887717"
-			"c55b6433-f7ee-4d44-8d2d-972d79be0fe5" "c72883d5-c415-4ff2-a017-a017e91fc09d"
-			"cb4d5c27-23ca-4ba3-a76d-5f27b17ffa6b" "eb7d8a06-b203-499f-a249-7e8e2e131f5e"
-			"f0a7da0a-94ee-446c-a73d-5e0a7db1bf3a"
-		)
-	)
-	(group "group-boardStackUp"
-		(uuid "81f67a61-5918-4dba-99b8-29e31124ba9b")
-		(members "02651994-4e89-4ec9-a7d7-4f7984e69efa" "0322df36-ae1f-42ad-b3f9-fb6d9006730e"
-			"032ea97f-0210-460b-8a3b-200e351cf673" "035fe958-ae06-4d55-84a7-a50cc058862a"
-			"03e76f9c-e121-466d-a39d-858feebfc078" "046bf7e4-4914-42b0-96c6-20e399d4c170"
-			"055f3723-e556-4089-9711-37e837faf99a" "075d2adb-6b34-4433-ab96-3c754bf51c25"
-			"0771d1c7-008e-4a9a-9c06-7aaf04e56319" "0b7bdf75-3426-4644-a1b8-6c5d2f4e6939"
-			"0c04a9eb-c2d6-4825-8398-2c3893ed1fab" "0c420890-ca05-4afe-aed8-01d3fac9e3b1"
-			"0c5a7287-7c1a-487a-ac15-a9633d7191a5" "0fa956f0-598b-46e4-a9c1-12ad459efac4"
-			"1371332d-eb3a-4e7b-8c10-b4f48ff2cad9" "13ce5b5e-c5ea-4fad-ae03-d9dc9b4f6b62"
-			"13ed8381-291a-47bc-8642-3f7eb6663169" "1678b4b6-eba4-4819-94d9-11f9ffa6559e"
-			"186f43aa-f9a1-44f5-a62e-8e9b56ce9e69" "1b67c551-cc9d-4fc3-b7ce-fff3139a32c9"
-			"1dc07c2d-3977-4a30-99a3-0980ba102aba" "1e23616d-3e30-4c09-a640-00085081a4e3"
-			"2103570d-5589-4f40-84eb-de69cfe2f482" "23847638-eea9-4379-ab59-f70bfc28c539"
-			"24a65117-6d92-426f-a175-10c6c2d660b4" "261e4236-9994-4f77-9764-3336fe045142"
-			"2668ea6f-3544-4f48-aa5b-bb44707b57f1" "27fc1590-e3ab-4ae4-afad-5d90b39cee31"
-			"28b71dd7-d8c5-4337-803f-549b24792c2c" "297fb860-84c7-47a2-8081-ab5a2e15fcff"
-			"29e3cb9a-19e0-43dc-a3e9-d9804efb57a9" "2d7353b5-4974-4f6d-8339-df52d04eca70"
-			"2eff51f6-23f8-441e-ac4a-07249d957eb0" "315d7b12-ec06-4079-a9c9-efec8ac8c93d"
-			"33b82710-7643-448f-ac99-7e86616979a9" "36ad0d8a-1523-467e-a0ef-afa281deb144"
-			"37363ebd-290b-4506-9559-f9f6ea91f014" "37e58695-da89-4aa3-a296-4378f475d81d"
-			"37f3c895-4774-4934-90a4-557cc2bd38d7" "3ada3205-424e-4141-ab16-005bfdb39035"
-			"3edb6f13-6aa2-4609-8dd2-4a1fed440595" "41af9991-470c-48d5-bfee-afa5f18a529e"
-			"454c232d-28d8-41b7-90cd-5d29c301f9a7" "46a7f92a-759b-4ecb-babe-386bed2ece50"
-			"4d14d7b0-e4c6-4b82-ad78-3bd3c6f65657" "4d514b50-255c-4406-9922-8c84d7004581"
-			"4dba08e3-b8a4-46e0-abf0-9fe415df6979" "5140ff1a-409c-49f1-8ba6-ac7dc683742c"
-			"52b17d7a-1416-439a-9804-17e59f988f02" "54eb5998-239f-496d-836d-982276f218f7"
-			"5a7f2c5b-ca88-446a-abe3-961b4776a26c" "5ef34a17-b572-4a83-8d23-0a5cbc630370"
-			"630c0ba4-e3eb-4796-908a-d36fd08c6463" "63edd116-7e2b-40b8-a44c-933ce6e032fb"
-			"658b82f0-fcb2-4167-a15a-1bb93d07b805" "667373a0-1564-42c5-90ab-e1daf755af67"
-			"6f4a88e1-f629-408e-a615-92e12045926d" "701be05d-07d2-468b-9852-226a0e9537eb"
-			"719b87ad-df27-411a-a621-dcd47b11ceea" "735da6eb-f3cb-4bdc-89e9-d57861dd8150"
-			"7387370a-e4b9-419b-8f8b-8df39f047a5a" "754d1c30-0279-49e3-a637-0987dbb07f68"
-			"759f16ce-7471-46e1-93a2-07ff9f8bd5c1" "77fb35f6-e6c9-4edb-931f-d560cd613b0d"
-			"784dbef9-371f-4cee-a086-f237634c1570" "79c115b6-f933-4ec2-82ef-9d8dbd800ba4"
-			"7a340195-0b2e-434b-858e-ed8fe5102040" "7b88fb70-7229-45a9-8710-68c5c43d796f"
-			"7c53970d-044c-4084-85f5-7218bf5e5ae6" "80bc3ebd-aa47-4935-8c25-aeed1732dab8"
-			"826e626e-3f82-477f-90cf-30b88b42cba7" "8404c844-954d-44c6-ab30-790347603933"
-			"8484bcb8-5be2-400d-8fb7-4a81c36b42ec" "8625d8bb-f08e-4ec7-b31b-233529b4505a"
-			"9010d661-74a1-44a3-9c38-63ce3a185a52" "94e883e1-62b2-487b-89e8-8215c68b2933"
-			"9598f447-1068-4c74-ba58-1dee55704d4f" "9d39be80-b41b-4d5a-89bd-823fe97c4b15"
-			"9e86893b-8c98-4b43-b915-e806e39a26e5" "a14222f1-fe79-4dd8-9cd4-6a3efe152dc1"
-			"a2177cd9-a840-4f39-8e84-5b8ef35e80b7" "a43e70bc-206e-4e4e-a0e9-e0a460eafbd0"
-			"a6a834a6-f97d-4965-ab3f-122f8d0a0550" "aaba79cb-ed1e-4c3f-8a2f-ef23e6e08d85"
-			"ab27534b-1796-4e52-8d7d-444f66f006b7" "ac548697-91f5-4acf-aac2-18d03750b9cc"
-			"b0e6e968-b144-4012-9358-d8256ade1dd3" "b79805e5-b51c-4fd6-8985-0d994ffc0d79"
-			"b9fa3628-d962-4819-816e-2d0cf7c365db" "ba864b9f-2f05-4811-b8d8-4bbc26c1d062"
-			"bc8e9884-d31b-425a-b064-f18c56e02603" "bc949f50-a26b-4e63-aaf3-4aab562a1687"
-			"c1880f65-2851-49b2-8624-de8f20f7cbd2" "c3946cb1-5405-4c75-8a15-6397dea46836"
-			"c3d7c58d-1730-4c52-82cf-295d19e71407" "c4b6510b-1b4f-43f9-be9e-65481fe95ca0"
-			"c6910e50-7306-49a7-b54f-caa379a3f400" "c95106e8-8daa-4833-9ae2-0fde15956f6c"
-			"c9592bc6-12e8-4aac-8b8f-5d62be9c3142" "cb4b47d9-3e1e-4935-8a52-340fb00baab9"
-			"ce23041a-8965-4588-9ace-831159f09f8c" "cf6b1c57-7985-4334-910b-8edb8a836b07"
-			"cfe4a032-16e3-43d7-ad91-16451099d3c3" "d083b0b0-b0fe-4b0d-8b42-82485e911708"
-			"d9ebc9a9-32ee-4a2c-8c52-72223def4545" "dba8de2e-580d-487f-bbee-56d548b5c93a"
-			"de312456-4068-4ead-94d4-5f9f81658e78" "def6d082-4365-43cf-8249-15e6748a78ef"
-			"df1da8b7-7c6e-4e0c-b60d-b598e5895a77" "e4f308f6-c566-4f7c-9ca5-abd513d5b5b3"
-			"e55c2aa8-f963-4338-bf08-1cba12f8357a" "e71abfc4-3d13-461f-a056-f6304cccf460"
-			"e8cf94b7-c418-43a5-93a1-2352937fbb29" "ec11c022-2fe0-4fe7-b4ce-d91b871561ed"
-			"eda19ad6-d70e-416c-b353-54467b57d131" "f25b83a6-e5e0-488e-959e-9caec1f6092b"
-			"f39eb25c-33dd-4e16-93f6-394de30be862" "f5bb0260-82e6-4a84-aec9-48778533b59f"
-			"f85f827f-f62b-43e4-bc0a-74fac4a8c7db" "fab08c50-0316-452a-8fce-23e0ef87df71"
-			"fbe97812-f060-4452-8829-1608f4f0628a"
-		)
-	)
 	(group ""
 		(uuid "e132002b-c0a7-4e3c-beeb-2bef8336886b")
 		(members "0427080e-d626-4ca6-94c7-10dc7c9ec546" "0ab1d768-c5a3-4fdd-b303-9983d7da3af6"
@@ -35643,6 +35680,91 @@
 			"ec337cfb-def5-4714-9833-f98241c8d02b" "ee7454cb-12d9-4b6d-beb8-3a6f5cefd84f"
 			"f2e500c3-cabe-4f8a-aece-c257914b1581" "f8961812-642b-4c29-b287-a195b37937b0"
 			"f9d1a0f4-1cef-4c69-af03-2501cb4f309a" "fdd6e80c-cee6-43f5-984b-70d976fc054d"
+		)
+	)
+	(group "kibot_stackup"
+		(uuid "0d3179fe-ce3a-4188-b254-97b97f233a53")
+		(members "0d6c7709-6784-4235-a5f3-97520a813bf7" "4af4265e-71ae-4104-8077-bcc861d45b1f")
+	)
+	(group "group-boardStackUp"
+		(uuid "4343dab4-13d7-4e9f-9d35-b4b8a63c7a0d")
+		(members "04664082-ec7d-4532-9058-e4e69979895a" "04d213e3-a4fd-45a4-b296-fd0b93ffc628"
+			"05764987-748d-4314-8c09-69f170ea173a" "070c79c4-7e38-4699-8c98-7aae14181b80"
+			"0b0452bf-b8af-495e-8152-e84a000c626d" "10c913bc-d222-43f4-95ad-31e351df74e4"
+			"11ebfee0-e4c2-499a-942f-772532ce9565" "1824c08a-0dd6-4128-a77b-6deb5d44be18"
+			"191f18ab-0e62-4f81-bca0-e164e3acbe14" "1be592ba-9ee9-403f-a047-09000fa934e3"
+			"1c184b02-45f8-4cf4-ab57-3b2b8dc83898" "1d06be47-524e-4bcc-b746-a8f3f8b35b16"
+			"1e9ee23c-d633-41d3-b21d-7b6828ff3162" "20f4500b-741f-47ea-bd6e-e1b0cc47d43d"
+			"2ded7d39-8807-4852-b143-3354f363d29e" "2eb32ca2-6809-402f-bbba-59b1f0dfb184"
+			"337413c4-f2ca-447b-b4f1-0a12534df1ee" "36085538-e335-4180-8f4b-b5a5413c407a"
+			"37ddc658-f7f8-43f3-815a-623a91365d55" "39ffabc1-2ba1-42f1-899c-55048fa6f7d8"
+			"3d3a571c-e1ad-488d-b341-7bffba8f14cc" "3fe92f0b-3744-4b0e-a519-da1871893e69"
+			"42aa0927-fb14-4857-b550-9651ecbd6a53" "43035b9a-34ee-4026-aeda-746a93f02cc1"
+			"47bf9df5-c72d-49b3-9803-db3a75ab0ce7" "4a8779e2-5375-4d32-90dd-93e1b33805d3"
+			"4b836150-7c8e-4e6c-8d34-7cada05e8a20" "4c0ef0de-3cd8-4376-9828-a6092af93167"
+			"4f8f21c0-d1c0-4406-a43f-ce2cd9bef312" "509d12e8-2a93-4080-881e-2451370c550e"
+			"52beff9f-0a0f-4be5-a5c4-be12ad6a2889" "55a15e2c-0c0a-4b4d-920c-fe3c1708d56c"
+			"55d54682-c594-454d-9a96-f0c657ae7e48" "56c40f9f-d321-4c91-bd60-713f650bd0bc"
+			"583de81a-9aa8-4a7b-a7ae-bb9fb2815eec" "5bfaa6d1-685c-44e5-9132-8487da8da051"
+			"5f2b9ace-a7f4-412b-9e25-c42a36bed01b" "60802f2e-e3da-4181-ad6a-db7e4a18662f"
+			"6158d498-5cac-481f-bb35-2c40fb4a794e" "6257d79a-2232-4ca1-a537-d158cbf4cc2c"
+			"64f14b20-2040-4769-a780-aca4f778e6cb" "6a775e46-ac67-4e18-9c95-8cdf52d11dc2"
+			"6a7aee0e-5e83-4497-a2e2-1c8249b1d800" "6d4f2fbd-9a04-4a79-ba1d-bb569141a522"
+			"6e1888a1-919f-4fa2-a42b-f69de238a13f" "710b88c2-5fd4-483a-9b4a-a8e945845025"
+			"71accf43-dede-47f3-aa1a-33535f5b02a8" "79fa377a-f86d-4c77-bf38-c36d46139819"
+			"7ac8f46c-03cc-4728-9d4f-1f76ff92039e" "7c1e01f4-f511-4b69-8a16-903318d5c2ed"
+			"7c80d458-fa0e-4c50-93d2-67d9404d4361" "815550c6-1ee5-4623-a2de-218e69823cba"
+			"817e25b5-cc27-4bf3-879c-f0f155c4902b" "8372f7f7-8cd2-428e-8667-74f2de39b42c"
+			"83bc2e4c-9736-40c0-95df-d0b01092e877" "849dbaee-2cb9-478b-a7ef-2cffaf521cbb"
+			"84afedd2-54c3-43c1-adcd-7d4c9f1d26a7" "8635f78c-4e43-4d51-86ba-e92d6b918a5c"
+			"8668ebde-b0c6-4cca-a93e-594716689bbb" "889315e8-3db5-45e3-af74-ed2a6fe1b926"
+			"8c913f57-573e-4700-9f19-686097f7649d" "8c9bee06-d9e2-4b01-a9a6-a4cbe4c7dd63"
+			"90dc5e6c-41cb-4246-8a56-7ad0daf8da6f" "90fa996a-5b06-4aa0-8c18-b1f0b5a79291"
+			"929ffe11-e71d-4be7-b783-ed22ea63d84f" "94114644-0c68-4c40-8f93-e5526c413d59"
+			"948e1809-aead-4a89-996b-6c28af2fba8c" "9500ed3f-3a79-4770-bb33-c20caf550e4b"
+			"951a74f4-f61b-4887-bf03-789a628b5780" "984c3fb1-6989-466c-ac9d-ca285583d65c"
+			"999b2c6c-735c-44db-bdb3-37c6cba1d63f" "9a9b1a9c-4631-4d81-b2c0-282b51877c1a"
+			"9b69e78c-b300-42e5-856e-ddcaf0ebf960" "a292aad9-d751-418f-9fb4-3cd38da256b6"
+			"a65b073e-efdc-4579-871a-ff27d851d013" "a80cf5eb-3d2d-4b54-bc15-ae685039a694"
+			"aa2aec4f-031d-4cec-b1be-7684dbba6281" "ad1e537d-7fc1-49b8-a28f-19e3decc5ae5"
+			"b00c7417-8577-433f-974f-7651bb1b7cc6" "b1265ce3-5abd-4af6-8e79-3550da997dd6"
+			"b2e395b1-0477-42d8-812d-63c45e906acc" "b56a27dc-b527-4507-a30b-cd3c1e012d12"
+			"b65cfc7d-443c-4081-b77a-f41cea7dbb8d" "b6b9a3c4-eec4-4c71-b3b7-76e94cae1566"
+			"b763aa17-894b-4ff8-9649-4526b9a9985d" "b88d0dfa-5e0e-4b09-a032-34675a4b8bbe"
+			"baef0e61-9ac2-4ca3-bedf-0b3f4639c43b" "bd3ccf21-834e-48f4-a7a2-3afa4e5ebdb3"
+			"bf0b3b1a-f7f8-449a-ba0c-4f7faa8b91db" "c04d6aec-9b01-40c3-b070-5349535983ee"
+			"c264dafa-72d9-4e72-811a-fd7de3bef629" "c69217e1-8e23-4663-a89f-dc9288015278"
+			"cc342d85-3891-4c2a-a1be-33ec1c575b00" "cca92069-5ddc-4cec-b142-e5dc4cdbf4fd"
+			"ce821275-dbd9-4418-9a76-b3a1ede81149" "ce83b44a-1c4c-400e-b438-49d1f76b6f9b"
+			"d253e8c5-631d-4da2-bdb9-3bd67cd681f4" "d813a340-f37b-429b-ae66-c30ed1e2a60c"
+			"dbbc96e4-ffba-4534-a496-ff80198cd22a" "df4cd202-0c0f-42e2-a96a-ee6ec8b4d667"
+			"e1111b3d-bffe-45b2-9f7c-f0a3cdbb114a" "e37d9857-2080-4fd8-bbc1-b2c2facfd789"
+			"e50a56dc-07eb-4bfe-a51f-46b16db1d18a" "e8528e72-e7cd-4c9e-a9b5-aff74aee8d07"
+			"e867c3ff-a221-4c92-a152-092d334f3be2" "e967de6a-abb7-4b7f-a4aa-e3f6fb36158b"
+			"e99194b9-d11a-477f-b538-99bf047be7c6" "ebcf16eb-b8a1-498f-b37d-c43e8a2db20b"
+			"ed1d0759-eef5-4c5a-88c7-fe015d739607" "edfee93e-8984-472d-bc02-4a7d91c2713f"
+			"ef2e62ea-fd69-4f02-944e-a49edb48a5e3" "ef6f664f-081c-4b3f-b873-a4dfaa625e51"
+			"f00e0c96-861b-49fb-b5b8-a51b5351656e" "f4db165e-69cb-4953-907e-92b666fe0ba7"
+			"f4e43864-1f87-41f0-b189-de20daf28a27" "f55d3b02-9446-42ae-a99a-60702bb4e6d5"
+			"f8187d30-40c2-4109-884c-57f2fddef652" "f9dfe2aa-c071-46dc-af6b-eaf9f5dec8d7"
+			"fae4247f-fa16-4ad0-b17c-44f83ca937f3" "fd7f7a0d-91d0-4fff-b570-b93e31c2a99a"
+			"ffec8079-fd52-4702-92b4-fd9b9beac39c"
+		)
+	)
+	(group "group-boardCharacteristics"
+		(uuid "9af6a381-97b9-4b97-a4a5-8d3122a27fac")
+		(members "06735610-a863-4383-acac-c9e72c3aab6c" "10cc3a6c-ddea-448a-8086-bb05b677f206"
+			"14e3d9cc-ab65-4b06-845c-82dcf239485e" "201aaeb8-4f25-4739-9f6d-6ae0e0e705ae"
+			"333019e2-f0f0-431f-b4e3-3eef18427eb5" "366666eb-cd5a-4a25-8a0b-ce23041aafd7"
+			"4faac065-a409-42d1-ba87-e2400b906039" "51391f23-0f63-4c34-bc54-bd34982e9b3a"
+			"5aded6d1-d05d-487c-be28-2a545fd874ae" "7522fc16-37ee-4d5d-863f-31e11a856f6d"
+			"7b5c8383-9dd3-4f6f-a241-e621da1b5ef3" "a064bc3c-10cd-4c36-9a4d-d1b5d8ad5d5e"
+			"b363d963-df05-4c4a-bc89-f81864b3bde0" "b6c24c3b-0d04-41fe-b7e0-be3e0d09514e"
+			"c83edc9b-305e-497d-9cf8-0b88027d74d3" "c9fba64e-e72a-48f8-8c5a-f8da57348112"
+			"cb5457d4-1255-4a3e-9d82-19b9e9a91373" "cedba159-f936-408d-aa0f-a8a8e2997ae4"
+			"d5236c29-e47f-45d4-be63-448415fbf355" "dc41029b-4615-470c-9d91-c2b2e3a891dd"
+			"e05d74f1-a763-445b-8884-7d9b5926a9be" "f001114a-0541-4b6b-80c8-4382692fb23e"
+			"f1b0acc1-34a5-45f1-9e39-678cbc9861f4"
 		)
 	)
 	(embedded_fonts no)

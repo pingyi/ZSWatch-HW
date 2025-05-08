@@ -3182,34 +3182,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 218.44 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. No." "0603YC105JAT2A"
-			(at 218.44 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Distributor" "Mouser"
-			(at 218.44 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order Number" "581-0603YC105JAT2A"
 			(at 218.44 91.44 0)
 			(effects
 				(font
@@ -3225,6 +3198,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "manf" "KYOCERA AVX"
+			(at 218.44 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "manf#" "0603YC105JAT2A"
+			(at 218.44 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mouser#" "581-0603YC105JAT2A"
+			(at 218.44 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3399,34 +3396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." "Samsung Electro-Mechanics"
-			(at 173.99 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. No." "CIGT201610EH2R2MNE"
-			(at 173.99 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Distributor" "Mouser"
-			(at 173.99 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order Number" "187-CIGT201610EH2R2M"
 			(at 173.99 106.68 0)
 			(effects
 				(font
@@ -3442,6 +3412,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "manf" "Samsung Electro-Mechanics"
+			(at 173.99 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "manf#" "CIGT201610EH2R2MNE"
+			(at 173.99 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mouser#" "187-CIGT201610EH2R2M"
+			(at 173.99 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3514,34 +3508,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 113.03 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. No." "0603YC105JAT2A"
-			(at 113.03 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Distributor" "Mouser"
-			(at 113.03 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order Number" "581-0603YC105JAT2A"
 			(at 113.03 44.45 0)
 			(effects
 				(font
@@ -3557,6 +3524,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "manf" "KYOCERA AVX"
+			(at 113.03 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "manf#" "0603YC105JAT2A"
+			(at 113.03 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mouser#" "581-0603YC105JAT2A"
+			(at 113.03 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3630,34 +3621,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 184.15 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. No." "CM105X5R106M25AT"
-			(at 184.15 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Distributor" "Mouser"
-			(at 184.15 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order Number" "346-CM105X5R106M25AT"
 			(at 184.15 109.22 0)
 			(effects
 				(font
@@ -3673,6 +3637,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "manf" "KYOCERA AVX"
+			(at 184.15 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "manf#" "CM105X5R106M25AT"
+			(at 184.15 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mouser#" "346-CM105X5R106M25AT"
+			(at 184.15 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3754,33 +3742,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." "YAGEO"
-			(at 82.55 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. No." "RC0603FR-07150KL"
-			(at 82.55 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order Number" "603-RC0603FR-07150KL"
-			(at 82.55 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 82.55 134.62 0)
 			(effects
@@ -3788,6 +3749,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "manf" "YAGEO"
+			(at 82.55 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "manf#" "RC0603FR-07150KL"
+			(at 82.55 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mouser#" "603-RC0603FR-07150KL"
+			(at 82.55 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3860,34 +3845,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." ""
-			(at 200.66 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. No." ""
-			(at 200.66 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Distributor" ""
-			(at 200.66 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order Number" ""
 			(at 200.66 125.73 0)
 			(effects
 				(font
@@ -4039,34 +3997,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 193.04 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. No." "CM105X5R106M25AT"
-			(at 193.04 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Distributor" "Mouser"
-			(at 193.04 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order Number" "346-CM105X5R106M25AT"
 			(at 193.04 91.44 0)
 			(effects
 				(font
@@ -4082,6 +4013,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "manf" "KYOCERA AVX"
+			(at 193.04 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "manf#" "CM105X5R106M25AT"
+			(at 193.04 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mouser#" "346-CM105X5R106M25AT"
+			(at 193.04 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -4266,33 +4221,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." "YAGEO"
-			(at 80.01 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. No." "RC0603FR-0747KL"
-			(at 80.01 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order Number" "603-RC0603FR-0747KL"
-			(at 80.01 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 80.01 134.62 0)
 			(effects
@@ -4300,6 +4228,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "manf" "YAGEO"
+			(at 80.01 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "manf#" "RC0603FR-0747KL"
+			(at 80.01 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mouser#" "603-RC0603FR-0747KL"
+			(at 80.01 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -4371,34 +4323,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." "Nordic Semiconductor"
-			(at 132.08 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. No." "nPM1300-QEAA-R7"
-			(at 132.08 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Distributor" "Mouser"
-			(at 132.08 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order Number" "949-NPM1300-QEAA-R7"
 			(at 132.08 107.95 0)
 			(effects
 				(font
@@ -4414,6 +4339,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "manf" "Nordic Semiconductor"
+			(at 132.08 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "manf#" "nPM1300-QEAA-R7"
+			(at 132.08 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mouser#" "949-NPM1300-QEAA-R7"
+			(at 132.08 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -4645,34 +4594,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 191.77 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. No." "CM105X5R106M25AT"
-			(at 191.77 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Distributor" "Mouser"
-			(at 191.77 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order Number" "346-CM105X5R106M25AT"
 			(at 191.77 63.5 0)
 			(effects
 				(font
@@ -4688,6 +4610,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "manf" "KYOCERA AVX"
+			(at 191.77 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "manf#" "CM105X5R106M25AT"
+			(at 191.77 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mouser#" "346-CM105X5R106M25AT"
+			(at 191.77 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -4927,34 +4873,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." "Samsung Electro-Mechanics"
-			(at 182.88 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. No." "CIGT201610EH2R2MNE"
-			(at 182.88 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Distributor" "Mouser"
-			(at 182.88 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order Number" "187-CIGT201610EH2R2M"
 			(at 182.88 88.9 0)
 			(effects
 				(font
@@ -4970,6 +4889,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "manf" "Samsung Electro-Mechanics"
+			(at 182.88 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "manf#" "CIGT201610EH2R2MNE"
+			(at 182.88 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mouser#" "187-CIGT201610EH2R2M"
+			(at 182.88 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -5042,34 +4985,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." "Molex"
-			(at 158.75 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. No." "78171-0002"
-			(at 158.75 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Distributor" "Mouser"
-			(at 158.75 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order Number" "538-78171-0002"
 			(at 158.75 40.64 0)
 			(effects
 				(font
@@ -5085,6 +5001,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "manf" "Molex"
+			(at 158.75 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "manf#" "78171-0002"
+			(at 158.75 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mouser#" "538-78171-0002"
+			(at 158.75 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -5268,33 +5208,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." "Bourns"
-			(at 135.89 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. No." "CR0402-J/-000GLF"
-			(at 135.89 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order Number" "652-CR0603-J/-000ELF"
-			(at 135.89 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 135.89 63.5 0)
 			(effects
@@ -5302,6 +5215,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "manf" "Bourns"
+			(at 135.89 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "manf#" "CR0402-J/-000GLF"
+			(at 135.89 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mouser#" "652-CR0603-J/-000ELF"
+			(at 135.89 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -5476,34 +5413,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 181.61 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. No." "CM105X5R106M25AT"
-			(at 181.61 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Distributor" "Mouser"
-			(at 181.61 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order Number" "346-CM105X5R106M25AT"
 			(at 181.61 63.5 0)
 			(effects
 				(font
@@ -5519,6 +5429,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "manf" "KYOCERA AVX"
+			(at 181.61 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "manf#" "CM105X5R106M25AT"
+			(at 181.61 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mouser#" "346-CM105X5R106M25AT"
+			(at 181.61 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -5592,34 +5526,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 140.97 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. No." "06036D225KAT2A"
-			(at 140.97 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Distributor" "Mouser"
-			(at 140.97 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order Number" "581-06036D225KAT2A"
 			(at 140.97 44.45 0)
 			(effects
 				(font
@@ -5635,6 +5542,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "manf" "KYOCERA AVX"
+			(at 140.97 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "manf#" "06036D225KAT2A"
+			(at 140.97 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mouser#" "581-06036D225KAT2A"
+			(at 140.97 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -5911,34 +5842,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 200.66 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. No." "CM105X5R106M25AT"
-			(at 200.66 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Distributor" "Mouser"
-			(at 200.66 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order Number" "346-CM105X5R106M25AT"
 			(at 200.66 132.08 0)
 			(effects
 				(font
@@ -5954,6 +5858,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "manf" "KYOCERA AVX"
+			(at 200.66 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "manf#" "CM105X5R106M25AT"
+			(at 200.66 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mouser#" "346-CM105X5R106M25AT"
+			(at 200.66 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -6092,34 +6020,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." ""
-			(at 200.66 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. No." ""
-			(at 200.66 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Distributor" ""
-			(at 200.66 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order Number" ""
 			(at 200.66 104.14 0)
 			(effects
 				(font
@@ -6407,34 +6308,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 128.27 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. No." "06035C104KAT2A"
-			(at 128.27 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Distributor" "Mouser"
-			(at 128.27 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order Number" "581-06035C104KAT2A"
 			(at 128.27 44.45 0)
 			(effects
 				(font
@@ -6450,6 +6324,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "manf" "KYOCERA AVX"
+			(at 128.27 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "manf#" "06035C104KAT2A"
+			(at 128.27 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mouser#" "581-06035C104KAT2A"
+			(at 128.27 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -6522,34 +6420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." "KYOCERA AVX"
-			(at 201.93 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. No." "CM105X5R106M25AT"
-			(at 201.93 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Distributor" "Mouser"
-			(at 201.93 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order Number" "346-CM105X5R106M25AT"
 			(at 201.93 63.5 0)
 			(effects
 				(font
@@ -6565,6 +6436,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "manf" "KYOCERA AVX"
+			(at 201.93 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "manf#" "CM105X5R106M25AT"
+			(at 201.93 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mouser#" "346-CM105X5R106M25AT"
+			(at 201.93 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -6803,34 +6698,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." ""
-			(at 200.66 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. No." ""
-			(at 200.66 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Distributor" ""
-			(at 200.66 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order Number" ""
 			(at 200.66 86.36 0)
 			(effects
 				(font

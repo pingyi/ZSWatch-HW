@@ -54,7 +54,7 @@ jobs:
 
       - name: Generate files
         run: |
-          cd project
+          cd hardware
           kibot -vvvv -g variant=${{ matrix.device_type }} -d ../production/${{ matrix.device_type }} 2> ../log/kibot.log
           mkdir ../production/${{ matrix.device_type }}/ordering
 
