@@ -503,31 +503,12 @@
         "bus_width": 12,
         "clearance": 0.125,
         "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Display",
         "pcb_color": "rgb(0, 255, 0)",
-        "priority": 0,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
-        "via_diameter": 0.45,
-        "via_drill": 0.25,
-        "wire_width": 6
-      },
-      {
-        "bus_width": 12,
-        "clearance": 0.125,
-        "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "I2C",
-        "pcb_color": "rgb(194, 0, 194)",
         "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
@@ -539,13 +520,12 @@
         "bus_width": 12,
         "clearance": 0.125,
         "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
-        "name": "QSPI",
-        "pcb_color": "rgb(255, 153, 0)",
+        "name": "I2C",
+        "pcb_color": "rgb(194, 0, 194)",
         "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
@@ -557,15 +537,14 @@
         "bus_width": 12,
         "clearance": 0.125,
         "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
-        "name": "SWD",
-        "pcb_color": "rgb(255, 0, 0)",
+        "name": "QSPI",
+        "pcb_color": "rgb(255, 153, 0)",
         "priority": 3,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(255, 58, 6)",
         "track_width": 0.2,
         "via_diameter": 0.45,
         "via_drill": 0.25,
@@ -575,15 +554,37 @@
         "bus_width": 12,
         "clearance": 0.125,
         "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "SWD",
+        "pcb_color": "rgb(255, 0, 0)",
+        "priority": 4,
+        "schematic_color": "rgb(0, 132, 132)",
+        "track_width": 0.2,
+        "via_diameter": 0.45,
+        "via_drill": 0.25,
+        "wire_width": 6
+      },
+      {
+        "name": "UART",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgb(184, 9, 255)"
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.125,
+        "diff_pair_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "USB",
         "pcb_color": "rgb(0, 255, 255)",
-        "priority": 4,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 5,
+        "schematic_color": "rgb(255, 160, 73)",
         "track_width": 0.2,
         "via_diameter": 0.45,
         "via_drill": 0.25,
@@ -619,6 +620,10 @@
       {
         "netclass": "I2C",
         "pattern": "*SENSOR*"
+      },
+      {
+        "netclass": "UART",
+        "pattern": "*xD"
       }
     ]
   },
@@ -675,7 +680,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -687,7 +692,7 @@
           "group_by": false,
           "label": "Qty",
           "name": "${QUANTITY}",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -699,6 +704,18 @@
           "group_by": false,
           "label": "CONFIG",
           "name": "CONFIG",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Field9",
+          "name": "Field9",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "digikey#",
+          "name": "digikey#",
           "show": false
         },
         {
@@ -780,7 +797,7 @@
     ],
     [
       "82af773f-8c39-43b9-baa2-3658da6c8bb2",
-      "Sensors"
+      "Peripherals"
     ],
     [
       "8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7",
