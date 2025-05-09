@@ -10,10 +10,6 @@ variants:
   - name: "Watch"
     comment: "Regular Watch PCB"
     type: kibom
-  - name: "Sensor"
-    comment: "Reduced Watch PCB for sensing applications"
-    type: kibom
-    variant: Env
 
 global:
   out_dir: "../production/Export-%D"

@@ -476,7 +476,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ZSWatch.kicad_pro",
+    "filename": "Dev-Kit.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -703,27 +703,21 @@
         },
         {
           "group_by": false,
-          "label": "Distributor",
-          "name": "Distributor",
-          "show": false
-        },
-        {
-          "group_by": false,
           "label": "manf",
           "name": "manf",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "manf#",
           "name": "manf#",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "mouser#",
           "name": "mouser#",
-          "show": false
+          "show": true
         },
         {
           "group_by": true,

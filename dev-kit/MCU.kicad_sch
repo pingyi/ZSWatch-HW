@@ -5,13 +5,13 @@
 	(uuid "ad9bb809-4253-41c5-916c-3ecd6d42abeb")
 	(paper "A3")
 	(title_block
-		(title "ZSWatch v3")
-		(date "2025-05-05")
+		(title "ZSWatch v3 Dev-Kit")
+		(date "2025-05-09")
 		(rev "0")
 		(company "github.com/jakkra/ZSWatch-HW")
 	)
 	(lib_symbols
-		(symbol "Connector_Generic:Conn_01x01"
+		(symbol "Connector_Generic:Conn_01x02"
 			(pin_names
 				(offset 1.016)
 				(hide yes)
@@ -27,8 +27,8 @@
 					)
 				)
 			)
-			(property "Value" "Conn_01x01"
-				(at 0 -2.54 0)
+			(property "Value" "Conn_01x02"
+				(at 0 -5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -53,7 +53,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
 				(at 0 0 0)
 				(effects
 					(font
@@ -80,10 +80,10 @@
 					(hide yes)
 				)
 			)
-			(symbol "Conn_01x01_1_1"
+			(symbol "Conn_01x02_1_1"
 				(rectangle
 					(start -1.27 1.27)
-					(end 1.27 -1.27)
+					(end 1.27 -3.81)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -103,6 +103,17 @@
 						(type none)
 					)
 				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
 				(pin passive line
 					(at -5.08 0 0)
 					(length 3.81)
@@ -114,6 +125,24 @@
 						)
 					)
 					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5202,7 +5231,7 @@
 	)
 	(text "Vibration motor"
 		(exclude_from_sim no)
-		(at 318.77 144.78 0)
+		(at 123.19 231.14 0)
 		(effects
 			(font
 				(size 3 3)
@@ -5290,7 +5319,7 @@
 	)
 	(text "NOTE: Configured for ERM mode."
 		(exclude_from_sim no)
-		(at 318.77 196.85 0)
+		(at 123.19 283.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5407,7 +5436,7 @@
 		(uuid "4d1f47b3-1fe6-4006-a245-ee52f40ae3ec")
 	)
 	(junction
-		(at 358.14 186.69)
+		(at 162.56 273.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "50e20e2f-965a-470d-9c05-488860180198")
@@ -5417,12 +5446,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "52fc708b-cd99-4e74-92c2-502c0db01537")
-	)
-	(junction
-		(at 382.27 179.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "533539d0-045d-4610-87e0-afcae8c8ab0b")
 	)
 	(junction
 		(at 77.47 118.11)
@@ -5447,12 +5470,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6aeb12d1-4a1a-4912-83ba-d2d31b559ed0")
-	)
-	(junction
-		(at 382.27 163.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7022d587-51e1-4c79-b192-cc8da519d327")
 	)
 	(junction
 		(at 350.52 24.13)
@@ -5539,7 +5556,7 @@
 		(uuid "c646b82f-6cc5-4d0f-abe8-72f2e84ed554")
 	)
 	(junction
-		(at 358.14 148.59)
+		(at 162.56 234.95)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c6e0b110-fde8-4e15-ab7f-70bf8303b1d5")
@@ -5631,6 +5648,10 @@
 		(uuid "68856248-022c-474d-8535-5ad0b38eda97")
 	)
 	(no_connect
+		(at 204.47 251.46)
+		(uuid "690f8010-9b44-4e3b-8ee9-f16db86a08a5")
+	)
+	(no_connect
 		(at 118.11 135.89)
 		(uuid "7b9bd8f1-cb91-45c0-a72f-8a6bec7d6a60")
 	)
@@ -5645,6 +5666,10 @@
 	(no_connect
 		(at 118.11 128.27)
 		(uuid "ac47f323-8148-466b-bef1-1e17a5ae9ea9")
+	)
+	(no_connect
+		(at 204.47 264.16)
+		(uuid "b9a852ee-209f-417e-ab11-561103df8ec9")
 	)
 	(no_connect
 		(at 170.18 110.49)
@@ -5711,6 +5736,16 @@
 			(type default)
 		)
 		(uuid "08491459-40d5-4710-b102-f8d9d5f9f3c0")
+	)
+	(polyline
+		(pts
+			(xy 198.12 248.92) (xy 204.47 248.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0960a9ae-427a-40cc-8fea-d5063fb83f24")
 	)
 	(wire
 		(pts
@@ -5804,7 +5839,7 @@
 	)
 	(polyline
 		(pts
-			(xy 317.5 198.12) (xy 406.4 198.12)
+			(xy 121.92 284.48) (xy 228.6 284.48)
 		)
 		(stroke
 			(width 0)
@@ -6044,16 +6079,6 @@
 	)
 	(wire
 		(pts
-			(xy 382.27 179.07) (xy 375.92 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "275846a8-2b10-4cf1-bd51-1406bb458715")
-	)
-	(wire
-		(pts
 			(xy 118.11 82.55) (xy 119.38 82.55)
 		)
 		(stroke
@@ -6134,7 +6159,7 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 186.69) (xy 358.14 185.42)
+			(xy 162.56 273.05) (xy 162.56 271.78)
 		)
 		(stroke
 			(width 0)
@@ -6254,7 +6279,7 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 167.64) (xy 342.9 167.64)
+			(xy 146.05 254) (xy 147.32 254)
 		)
 		(stroke
 			(width 0)
@@ -6284,7 +6309,7 @@
 	)
 	(wire
 		(pts
-			(xy 355.6 185.42) (xy 355.6 186.69)
+			(xy 160.02 271.78) (xy 160.02 273.05)
 		)
 		(stroke
 			(width 0)
@@ -6344,7 +6369,7 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 165.1) (xy 342.9 165.1)
+			(xy 146.05 251.46) (xy 147.32 251.46)
 		)
 		(stroke
 			(width 0)
@@ -6354,7 +6379,7 @@
 	)
 	(polyline
 		(pts
-			(xy 317.5 139.7) (xy 317.5 198.12)
+			(xy 121.92 226.06) (xy 121.92 284.48)
 		)
 		(stroke
 			(width 0)
@@ -6562,16 +6587,6 @@
 		)
 		(uuid "50650141-5ae8-431a-9015-bed0db199202")
 	)
-	(wire
-		(pts
-			(xy 382.27 177.8) (xy 382.27 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "51544439-f6b1-413b-9a73-fd5216331859")
-	)
 	(polyline
 		(pts
 			(xy 358.14 251.46) (xy 406.4 251.46)
@@ -6694,7 +6709,7 @@
 	)
 	(wire
 		(pts
-			(xy 360.68 185.42) (xy 360.68 186.69)
+			(xy 165.1 271.78) (xy 165.1 273.05)
 		)
 		(stroke
 			(width 0)
@@ -6754,7 +6769,7 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 170.18) (xy 375.92 170.18)
+			(xy 177.8 256.54) (xy 180.34 256.54)
 		)
 		(stroke
 			(width 0)
@@ -6784,7 +6799,7 @@
 	)
 	(polyline
 		(pts
-			(xy 406.4 139.7) (xy 406.4 198.12)
+			(xy 228.6 226.06) (xy 228.6 284.48)
 		)
 		(stroke
 			(width 0)
@@ -6804,7 +6819,7 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 186.69) (xy 358.14 187.96)
+			(xy 162.56 273.05) (xy 162.56 274.32)
 		)
 		(stroke
 			(width 0)
@@ -6934,7 +6949,7 @@
 	)
 	(polyline
 		(pts
-			(xy 406.4 139.7) (xy 317.5 139.7)
+			(xy 228.6 226.06) (xy 121.92 226.06)
 		)
 		(stroke
 			(width 0)
@@ -6944,7 +6959,7 @@
 	)
 	(wire
 		(pts
-			(xy 355.6 186.69) (xy 358.14 186.69)
+			(xy 160.02 273.05) (xy 162.56 273.05)
 		)
 		(stroke
 			(width 0)
@@ -7024,7 +7039,7 @@
 	)
 	(wire
 		(pts
-			(xy 360.68 186.69) (xy 358.14 186.69)
+			(xy 165.1 273.05) (xy 162.56 273.05)
 		)
 		(stroke
 			(width 0)
@@ -7124,16 +7139,6 @@
 	)
 	(wire
 		(pts
-			(xy 382.27 163.83) (xy 382.27 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7b05a16c-4e15-4311-979f-5f136d785d38")
-	)
-	(wire
-		(pts
 			(xy 77.47 130.81) (xy 76.2 130.81)
 		)
 		(stroke
@@ -7154,7 +7159,7 @@
 	)
 	(wire
 		(pts
-			(xy 360.68 148.59) (xy 360.68 149.86)
+			(xy 165.1 234.95) (xy 165.1 236.22)
 		)
 		(stroke
 			(width 0)
@@ -7164,7 +7169,7 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 175.26) (xy 341.63 187.96)
+			(xy 146.05 261.62) (xy 146.05 274.32)
 		)
 		(stroke
 			(width 0)
@@ -7374,7 +7379,7 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 148.59) (xy 360.68 148.59)
+			(xy 162.56 234.95) (xy 165.1 234.95)
 		)
 		(stroke
 			(width 0)
@@ -7404,13 +7409,33 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 175.26) (xy 341.63 175.26)
+			(xy 147.32 261.62) (xy 146.05 261.62)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "90e2f4a8-c774-4147-8872-eac94388dd74")
+	)
+	(polyline
+		(pts
+			(xy 195.58 259.08) (xy 198.12 259.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "917b5ece-505d-4b50-83f5-eae2efeb6424")
+	)
+	(polyline
+		(pts
+			(xy 204.47 266.7) (xy 198.12 266.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92d79ee0-34e0-4996-a45e-6aa8da8d85b0")
 	)
 	(wire
 		(pts
@@ -7492,6 +7517,16 @@
 		)
 		(uuid "9564f2e4-eccb-4f1f-bb3b-6233c65a22a5")
 	)
+	(polyline
+		(pts
+			(xy 195.58 256.54) (xy 198.12 256.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95f18821-36df-4e6f-a170-513e3377ec92")
+	)
 	(wire
 		(pts
 			(xy 77.47 218.44) (xy 78.74 218.44)
@@ -7504,7 +7539,7 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 148.59) (xy 358.14 160.02)
+			(xy 162.56 234.95) (xy 162.56 246.38)
 		)
 		(stroke
 			(width 0)
@@ -7572,15 +7607,15 @@
 		)
 		(uuid "9cb8203b-40ce-4f10-99da-70d98a32da51")
 	)
-	(wire
+	(polyline
 		(pts
-			(xy 375.92 170.18) (xy 375.92 163.83)
+			(xy 204.47 265.43) (xy 204.47 266.7)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a15ad3d8-c853-4ee5-9cfc-8dd47858075a")
+		(uuid "9e16a50b-85a2-466a-bf8b-6561949e1c6a")
 	)
 	(wire
 		(pts
@@ -7904,7 +7939,7 @@
 	)
 	(wire
 		(pts
-			(xy 356.87 148.59) (xy 358.14 148.59)
+			(xy 161.29 234.95) (xy 162.56 234.95)
 		)
 		(stroke
 			(width 0)
@@ -7951,6 +7986,16 @@
 			(type default)
 		)
 		(uuid "c2314bd9-fb2c-4b83-bfbf-7ccad069955d")
+	)
+	(polyline
+		(pts
+			(xy 198.12 266.7) (xy 198.12 259.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4bfe752-4c69-4ed4-8d0c-8255541edf73")
 	)
 	(wire
 		(pts
@@ -8001,6 +8046,16 @@
 			(type default)
 		)
 		(uuid "ce4245b5-85bf-416d-96d3-cfcd9a8e1a2b")
+	)
+	(polyline
+		(pts
+			(xy 198.12 256.54) (xy 198.12 248.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf60b390-09a4-4f59-a83c-15b03aff74c5")
 	)
 	(wire
 		(pts
@@ -8131,6 +8186,16 @@
 			(type default)
 		)
 		(uuid "dcae16b8-266c-46ef-9aac-4c67894d63d8")
+	)
+	(polyline
+		(pts
+			(xy 204.47 248.92) (xy 204.47 250.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd128db8-d433-4ee9-99c1-e8bb19f15271")
 	)
 	(wire
 		(pts
@@ -8384,7 +8449,7 @@
 	)
 	(wire
 		(pts
-			(xy 360.68 154.94) (xy 360.68 156.21)
+			(xy 165.1 241.3) (xy 165.1 242.57)
 		)
 		(stroke
 			(width 0)
@@ -8484,7 +8549,7 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 172.72) (xy 375.92 172.72)
+			(xy 177.8 259.08) (xy 180.34 259.08)
 		)
 		(stroke
 			(width 0)
@@ -8542,16 +8607,6 @@
 		)
 		(uuid "f2715582-2a8a-470f-9dbf-a2ef25cb6850")
 	)
-	(wire
-		(pts
-			(xy 375.92 172.72) (xy 375.92 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f3584ac2-c69b-4562-8c82-8bbe3c2c83c4")
-	)
 	(polyline
 		(pts
 			(xy 406.4 251.46) (xy 406.4 207.01)
@@ -8571,16 +8626,6 @@
 			(type default)
 		)
 		(uuid "f989ab7e-40ba-4b7b-9b3d-a173198ff7ac")
-	)
-	(wire
-		(pts
-			(xy 375.92 163.83) (xy 382.27 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "faef99d1-d527-420a-97d5-590e5fcda369")
 	)
 	(wire
 		(pts
@@ -9338,7 +9383,7 @@
 	)
 	(global_label "VIB-EN"
 		(shape input)
-		(at 341.63 165.1 180)
+		(at 146.05 251.46 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9348,7 +9393,7 @@
 		)
 		(uuid "7fa72eb3-e2a4-45c2-b152-9274c47ae50f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 331.6295 165.1 0)
+			(at 136.0495 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9690,7 +9735,7 @@
 	)
 	(global_label "VIB-PWM"
 		(shape input)
-		(at 341.63 167.64 180)
+		(at 146.05 254 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9700,7 +9745,7 @@
 		)
 		(uuid "d30aaff7-d1c8-4d64-b545-a662a7d958dc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 329.9362 167.64 0)
+			(at 134.3562 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10130,7 +10175,7 @@
 	)
 	(hierarchical_label "VSYS"
 		(shape input)
-		(at 356.87 148.59 180)
+		(at 161.29 234.95 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10162,6 +10207,112 @@
 		(uuid "f4737072-034e-4cb4-8e0c-5b00827977a1")
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 185.42 256.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "01ddc775-726d-4c7c-b8ae-50c739d86b97")
+		(property "Reference" "X102"
+			(at 187.96 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MOTOR"
+			(at 187.96 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Molex:78171-0002"
+			(at 185.42 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.molex.com/en-us/products/part-detail/781710002?display=pdf"
+			(at 185.42 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CONFIG" ""
+			(at 185.42 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Molex"
+			(at 185.42 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "78171-0002"
+			(at 185.42 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" "538-78171-0002"
+			(at 185.42 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ca25bfeb-d92a-4ad5-9a9d-acf22e0dfb92")
+		)
+		(pin "2"
+			(uuid "168e70f3-c76e-415a-b22e-4b8206aea974")
+		)
+		(instances
+			(project "Dev-Kit"
+				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
+					(reference "X102")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 71.12 218.44 0)
 		(unit 1)
@@ -10177,6 +10328,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "SW3"
@@ -10185,6 +10337,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "E-Switch:TL6340AF160Q_Modified"
@@ -10214,15 +10367,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 71.12 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 71.12 218.44 0)
 			(effects
@@ -10238,6 +10382,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "TL6340AF160Q"
@@ -10246,6 +10391,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "612-TL6340AF160Q"
@@ -10254,6 +10400,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10525,15 +10672,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 250.19 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 250.19 36.83 0)
 			(effects
@@ -10549,6 +10687,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "PMZ550UNEYL"
@@ -10557,6 +10696,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "771-PMZ550UNEYL"
@@ -10565,6 +10705,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -10716,91 +10857,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 387.35 163.83 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "19b09cbe-b051-467d-b655-c52fd9d03735")
-		(property "Reference" "X303"
-			(at 389.89 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "M+"
-			(at 389.89 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
-			(at 387.35 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 387.35 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 387.35 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor" ""
-			(at 387.35 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIG" ""
-			(at 387.35 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "45a3d28c-1ae1-4409-88ef-88d754899dd3")
-		)
-		(instances
-			(project "ZSWatch"
-				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "X303")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Micro Crystal:RV-8263-C8")
 		(at 290.83 45.72 0)
 		(unit 1)
@@ -10855,15 +10911,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 290.83 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 290.83 45.72 0)
 			(effects
@@ -10879,6 +10926,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "RV-8263-C8 32.768kHz-20PPM-TA-QA"
@@ -10887,6 +10935,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "428-204291-MC01"
@@ -10895,6 +10944,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -10986,15 +11036,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 294.64 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" "-ENV"
 			(at 294.64 21.59 0)
 			(effects
@@ -11010,6 +11051,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "04025C104KAT2A"
@@ -11018,6 +11060,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "581-04025C104KAT2A"
@@ -11026,6 +11069,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11090,15 +11134,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 393.7 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor" "Mouser"
 			(at 393.7 219.71 0)
 			(effects
 				(font
@@ -11210,15 +11245,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 54.61 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 54.61 109.22 0)
 			(effects
@@ -11234,6 +11260,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "NORA-B106-00B"
@@ -11242,6 +11269,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "377-NORA-B106-00B"
@@ -11250,6 +11278,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "A1"
@@ -11518,7 +11547,7 @@
 		(fields_autoplaced yes)
 		(uuid "3381be32-e853-4783-aa10-90ead6179a20")
 		(property "Reference" "R302"
-			(at 57.15 248.92 0)
+			(at 57.15 248.9199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11527,7 +11556,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 57.15 251.46 0)
+			(at 57.15 251.4599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11562,15 +11591,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 59.69 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 59.69 250.19 0)
 			(effects
@@ -11586,6 +11606,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "RC0603FR-07100KL"
@@ -11594,6 +11615,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "603-RC0603FR-07100KL"
@@ -11602,6 +11624,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11621,15 +11644,16 @@
 	)
 	(symbol
 		(lib_id "Motor:Motor_DC")
-		(at 382.27 170.18 0)
+		(at 204.47 256.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board no)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "3a7a70da-21c8-4d45-8ca1-32163354087e")
 		(property "Reference" "M302"
-			(at 387.35 170.18 0)
+			(at 209.55 257.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11638,7 +11662,7 @@
 			)
 		)
 		(property "Value" "Vibrator DC Motor"
-			(at 386.08 172.72 0)
+			(at 209.55 260.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11647,7 +11671,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 382.27 172.466 0)
+			(at 204.47 258.826 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11655,8 +11679,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 382.27 172.466 0)
+		(property "Datasheet" "https://www.vybronics.com/coin-vibration-motors/with-brushes/v-c1027b902f"
+			(at 204.47 258.826 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11665,16 +11689,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 382.27 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor" "Mouser"
-			(at 382.27 170.18 0)
+			(at 204.47 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11683,7 +11698,7 @@
 			)
 		)
 		(property "CONFIG" ""
-			(at 382.27 170.18 0)
+			(at 204.47 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11691,28 +11706,40 @@
 				(hide yes)
 			)
 		)
-		(property "manf" "DFRobot"
-			(at 382.27 170.18 0)
+		(property "manf" "Vybronics Inc"
+			(at 204.47 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "manf#" "FIT0774"
-			(at 382.27 170.18 0)
+		(property "manf#" "VC1027B902F"
+			(at 204.47 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "mouser#" "426-FIT0774"
-			(at 382.27 170.18 0)
+		(property "digikey#" "1670-VC1027B902F-ND"
+			(at 204.47 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
+			(at 204.47 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11732,7 +11759,7 @@
 	)
 	(symbol
 		(lib_id "TexasInstruments_Kampi:DRV2603RUNT")
-		(at 358.14 171.45 0)
+		(at 162.56 257.81 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11740,23 +11767,25 @@
 		(dnp no)
 		(uuid "3acf795d-f67f-45a0-8bda-e0ec71562660")
 		(property "Reference" "IC306"
-			(at 349.25 161.29 0)
+			(at 153.67 247.65 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "DRV2603RUNT"
-			(at 353.695 184.15 0)
+			(at 158.115 270.51 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Package_QFN:WQFN-10_2x2mm_P0.5mm"
-			(at 358.14 171.45 0)
+			(at 162.56 257.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11765,7 +11794,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv2603.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1692200896697&ref_url=https%253A%252F%252Feu.mouser.com%252F"
-			(at 358.14 171.45 0)
+			(at 162.56 257.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11774,16 +11803,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 358.14 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor" "Mouser"
-			(at 358.14 171.45 0)
+			(at 162.56 257.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11792,7 +11812,7 @@
 			)
 		)
 		(property "CONFIG" "-ENV"
-			(at 358.14 171.45 0)
+			(at 162.56 257.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11801,27 +11821,30 @@
 			)
 		)
 		(property "manf" "Texas Instruments"
-			(at 358.14 171.45 0)
+			(at 162.56 257.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "DRV2603RUNT"
-			(at 358.14 171.45 0)
+			(at 162.56 257.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "595-DRV2603RUNT"
-			(at 358.14 171.45 0)
+			(at 162.56 257.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11915,15 +11938,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 351.79 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" "-ENV"
 			(at 351.79 49.53 0)
 			(effects
@@ -11939,6 +11953,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "NTS0104GU12,115"
@@ -11947,6 +11962,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "771-NTS0104GU12115"
@@ -11955,6 +11971,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -12058,15 +12075,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 355.6 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" "-ENV"
 			(at 355.6 27.94 0)
 			(effects
@@ -12082,6 +12090,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "06035C104KAT2A"
@@ -12090,6 +12099,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "581-06035C104KAT2A"
@@ -12098,6 +12108,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -12169,15 +12180,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 99.06 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" "-ENV"
 			(at 99.06 218.44 0)
 			(effects
@@ -12193,6 +12195,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "TL6340AF160Q"
@@ -12201,6 +12204,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "612-TL6340AF160Q"
@@ -12209,6 +12213,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -12228,7 +12233,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 341.63 187.96 0)
+		(at 146.05 274.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12236,7 +12241,7 @@
 		(dnp no)
 		(uuid "5ddb57fb-52ea-4b77-bc05-50d7acc8bcb3")
 		(property "Reference" "#PWR0324"
-			(at 341.63 194.31 0)
+			(at 146.05 280.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12245,7 +12250,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 341.63 193.04 0)
+			(at 146.05 279.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12253,7 +12258,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 341.63 187.96 0)
+			(at 146.05 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12262,7 +12267,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 341.63 187.96 0)
+			(at 146.05 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12271,7 +12276,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 341.63 187.96 0)
+			(at 146.05 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12410,15 +12415,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 104.14 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 104.14 102.87 0)
 			(effects
@@ -12434,6 +12430,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "NORA-B106-00B"
@@ -12442,6 +12439,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "377-NORA-B106-00B"
@@ -12450,6 +12448,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "A1"
@@ -12893,15 +12892,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 379.73 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" "-ENV"
 			(at 379.73 238.76 0)
 			(effects
@@ -12997,15 +12987,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 53.34 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor" "Mouser"
 			(at 53.34 176.53 0)
 			(effects
 				(font
@@ -13433,15 +13414,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 386.08 233.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" "-ENV"
 			(at 386.08 233.68 0)
 			(effects
@@ -13563,7 +13535,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 360.68 152.4 0)
+		(at 165.1 238.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13572,25 +13544,27 @@
 		(fields_autoplaced yes)
 		(uuid "a20be320-fbe5-4e92-965d-6c98c914f29e")
 		(property "Reference" "C306"
-			(at 363.22 151.1363 0)
+			(at 167.64 237.4963 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100n"
-			(at 363.22 153.6763 0)
+			(at 167.64 240.0363 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 360.68 152.4 0)
+			(at 165.1 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13599,7 +13573,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 360.68 152.4 0)
+			(at 165.1 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13608,16 +13582,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 360.68 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor" "Mouser"
-			(at 360.68 152.4 0)
+			(at 165.1 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13626,7 +13591,7 @@
 			)
 		)
 		(property "CONFIG" "-ENV"
-			(at 360.68 152.4 0)
+			(at 165.1 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13635,27 +13600,30 @@
 			)
 		)
 		(property "manf" "KYOCERA AVX"
-			(at 360.68 152.4 0)
+			(at 165.1 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "06035C104KAT2A"
-			(at 360.68 152.4 0)
+			(at 165.1 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "581-06035C104KAT2A"
-			(at 360.68 152.4 0)
+			(at 165.1 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -13727,15 +13695,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 22.86 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" "-ENV"
 			(at 22.86 218.44 0)
 			(effects
@@ -13751,6 +13710,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "TL6340AF160Q"
@@ -13759,6 +13719,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "612-TL6340AF160Q"
@@ -13767,6 +13728,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -13905,15 +13867,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 256.54 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 256.54 60.96 0)
 			(effects
@@ -13929,6 +13882,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "RC0402FR-074K7L"
@@ -13937,6 +13891,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "603-RC0402FR-074K7L"
@@ -13945,6 +13900,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -14010,15 +13966,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 386.08 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor" "Mouser"
 			(at 386.08 219.71 0)
 			(effects
 				(font
@@ -14196,15 +14143,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 46.99 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" "-ENV"
 			(at 46.99 218.44 0)
 			(effects
@@ -14220,6 +14158,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "TL6340AF160Q"
@@ -14228,6 +14167,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "612-TL6340AF160Q"
@@ -14236,6 +14176,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -14255,7 +14196,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 360.68 156.21 0)
+		(at 165.1 242.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14263,7 +14204,7 @@
 		(dnp no)
 		(uuid "bbcd96b7-5e61-4f60-8b14-7850d631551d")
 		(property "Reference" "#PWR0330"
-			(at 360.68 162.56 0)
+			(at 165.1 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14272,7 +14213,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 360.68 161.29 0)
+			(at 165.1 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14280,7 +14221,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 360.68 156.21 0)
+			(at 165.1 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14289,7 +14230,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 360.68 156.21 0)
+			(at 165.1 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14298,7 +14239,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 360.68 156.21 0)
+			(at 165.1 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14370,15 +14311,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
-			(at 365.76 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" "-ENV"
 			(at 368.3 97.79 0)
 			(effects
@@ -14394,6 +14326,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "OK-24F024-04"
@@ -14402,6 +14335,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
+			(at 368.3 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -14534,15 +14477,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 154.94 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 154.94 121.92 0)
 			(effects
@@ -14558,6 +14492,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "NORA-B106-00B"
@@ -14566,6 +14501,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "377-NORA-B106-00B"
@@ -14574,6 +14510,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "A1"
@@ -14989,15 +14926,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 243.84 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 243.84 60.96 0)
 			(effects
@@ -15013,6 +14941,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "RC0603FR-074K7L"
@@ -15021,6 +14950,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "603-RC0603FR-074K7L"
@@ -15029,6 +14959,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -15062,6 +14993,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "12k"
@@ -15070,6 +15002,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
@@ -15099,15 +15032,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 36.83 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" "-ENV"
 			(at 36.83 179.07 0)
 			(effects
@@ -15123,6 +15047,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "RC0603FR-0712KL"
@@ -15131,6 +15056,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "603-RC0603FR-0712KL"
@@ -15139,6 +15065,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -15212,15 +15139,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 347.98 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" "-ENV"
 			(at 347.98 27.94 0)
 			(effects
@@ -15236,6 +15154,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "06035C104KAT2A"
@@ -15244,6 +15163,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "581-06035C104KAT2A"
@@ -15252,6 +15172,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -15325,15 +15246,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 256.54 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 256.54 35.56 0)
 			(effects
@@ -15349,6 +15261,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "RC0402FR-074K7L"
@@ -15357,6 +15270,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "603-RC0402FR-074K7L"
@@ -15365,6 +15279,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -15558,15 +15473,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 375.92 233.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor" "Mouser"
 			(at 375.92 233.68 0)
 			(effects
 				(font
@@ -16008,15 +15914,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 55.88 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" "-ENV"
 			(at 55.88 163.83 0)
 			(effects
@@ -16032,6 +15929,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "0603YC105JAT2A"
@@ -16040,6 +15938,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "581-0603YC105JAT2A"
@@ -16048,6 +15947,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -16067,7 +15967,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 358.14 187.96 0)
+		(at 162.56 274.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16075,7 +15975,7 @@
 		(dnp no)
 		(uuid "e8a214f0-b3a5-47c7-bb5c-2ce6f5623d99")
 		(property "Reference" "#PWR0329"
-			(at 358.14 194.31 0)
+			(at 162.56 280.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16084,7 +15984,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 358.14 193.04 0)
+			(at 162.56 279.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16092,7 +15992,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 358.14 187.96 0)
+			(at 162.56 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16101,7 +16001,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 358.14 187.96 0)
+			(at 162.56 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16110,7 +16010,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 358.14 187.96 0)
+			(at 162.56 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16250,15 +16150,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 243.84 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 243.84 35.56 0)
 			(effects
@@ -16274,6 +16165,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "RC0603FR-074K7L"
@@ -16282,6 +16174,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "603-RC0603FR-074K7L"
@@ -16290,6 +16183,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -16492,15 +16386,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 250.19 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 250.19 62.23 0)
 			(effects
@@ -16516,6 +16401,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "PMZ550UNEYL"
@@ -16524,6 +16410,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "771-PMZ550UNEYL"
@@ -16532,6 +16419,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -16569,6 +16457,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "100n"
@@ -16577,6 +16466,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
@@ -16606,15 +16496,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 87.63 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 87.63 246.38 0)
 			(effects
@@ -16630,6 +16511,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "06035C104KAT2A"
@@ -16638,6 +16520,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "581-06035C104KAT2A"
@@ -16646,6 +16529,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -16781,15 +16665,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 81.28 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 81.28 262.89 0)
 			(effects
@@ -16805,6 +16680,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "MX25U51245GZ4I00"
@@ -16813,6 +16689,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "95-25U51245GZ4I00T"
@@ -16821,6 +16698,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -16854,91 +16732,6 @@
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
 					(reference "IC303")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 387.35 179.07 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fefbbf50-4876-48c4-b82f-0a75b5a95988")
-		(property "Reference" "X304"
-			(at 389.89 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "M-"
-			(at 389.89 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
-			(at 387.35 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 387.35 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 387.35 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor" ""
-			(at 387.35 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIG" ""
-			(at 387.35 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f78aa7ff-f39d-4d9e-a67f-d8a0afc05efe")
-		)
-		(instances
-			(project "ZSWatch"
-				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "X304")
 					(unit 1)
 				)
 			)

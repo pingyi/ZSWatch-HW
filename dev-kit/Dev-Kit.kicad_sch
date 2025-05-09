@@ -5,13 +5,13 @@
 	(uuid "d5742f03-3b1a-42e5-a384-018bd4b919aa")
 	(paper "A4")
 	(title_block
-		(title "ZSWatch v3")
-		(date "2025-05-05")
+		(title "ZSWatch v3 Dev-Kit")
+		(date "2025-05-09")
 		(rev "0")
 		(company "github.com/jakkra/ZSWatch-HW")
 	)
 	(lib_symbols)
-	(text "I2C addresses\n----------------\nBMP581			0x46\nRV-8263-C8		0x51\nAPDS-9306-065	0x52\nBMI270			0x68\nnPM1300			0x6B\nBME688			0x76\nLIS2MDLTR		0x1E"
+	(text "I2C addresses\n----------------\nBMP581			0x46\nRV-8263-C8		0x51\nAPDS-9306-065	0x52\nBMI270			0x68\nnPM1300			0x6B\nLIS2MDLTR		0x1E"
 		(exclude_from_sim no)
 		(at 222.25 162.56 0)
 		(effects
@@ -589,7 +589,7 @@
 			)
 		)
 		(instances
-			(project "ZSWatch"
+			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa"
 					(page "3")
 				)
@@ -771,7 +771,7 @@
 			)
 		)
 		(instances
-			(project "ZSWatch"
+			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa"
 					(page "4")
 				)
@@ -893,7 +893,7 @@
 			)
 		)
 		(instances
-			(project "ZSWatch"
+			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa"
 					(page "2")
 				)

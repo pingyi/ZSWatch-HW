@@ -5,8 +5,8 @@
 	(uuid "7f50151b-3eeb-4e85-a998-3a848990b0e8")
 	(paper "A4")
 	(title_block
-		(title "ZSWatch v3")
-		(date "2025-05-05")
+		(title "ZSWatch v3 Dev-Kit")
+		(date "2025-05-09")
 		(rev "0")
 		(company "github.com/jakkra/ZSWatch-HW")
 	)
@@ -3960,15 +3960,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 252.73 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 252.73 27.94 0)
 			(effects
@@ -3984,6 +3975,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "06035C104KAT2A"
@@ -3992,6 +3984,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "581-06035C104KAT2A"
@@ -4000,6 +3993,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4202,15 +4196,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 118.11 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 118.11 36.83 0)
 			(effects
@@ -4226,6 +4211,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "06035C104KAT2A"
@@ -4234,6 +4220,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "581-06035C104KAT2A"
@@ -4242,6 +4229,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4379,15 +4367,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 227.33 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 227.33 58.42 0)
 			(effects
@@ -4403,6 +4382,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "06033C224KAT2A"
@@ -4411,6 +4391,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "581-06033C224KAT2A"
@@ -4419,6 +4400,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4650,6 +4632,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "BMI270"
@@ -4659,6 +4642,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Package_LGA_Kampi:Bosch_LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y"
@@ -4688,15 +4672,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 48.26 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 48.26 63.5 0)
 			(effects
@@ -4712,6 +4687,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "BMI270"
@@ -4720,6 +4696,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "262-BMI270"
@@ -4728,6 +4705,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4837,15 +4815,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 125.73 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 125.73 36.83 0)
 			(effects
@@ -4861,6 +4830,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "06035C104KAT2A"
@@ -4869,6 +4839,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "581-06035C104KAT2A"
@@ -4877,6 +4848,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4951,15 +4923,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 80.01 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" "-ENV"
 			(at 80.01 146.05 0)
 			(effects
@@ -4975,6 +4938,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "DMG1013UW-7"
@@ -4983,6 +4947,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "621-DMG1013UW-7"
@@ -4991,6 +4956,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5065,15 +5031,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 24.13 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 24.13 180.34 0)
 			(effects
@@ -5089,6 +5046,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "APDS-9306-065"
@@ -5097,6 +5055,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "630-APDS-9306-065"
@@ -5105,6 +5064,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5189,15 +5149,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 44.45 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 44.45 36.83 0)
 			(effects
@@ -5213,6 +5164,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "06035C104KAT2A"
@@ -5221,6 +5173,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "581-06035C104KAT2A"
@@ -5229,6 +5182,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Field9" ""
+			(at 44.45 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5497,15 +5460,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 30.48 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 30.48 165.1 0)
 			(effects
@@ -5521,6 +5475,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "06035C104KAT2A"
@@ -5529,6 +5484,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "581-06035C104KAT2A"
@@ -5537,6 +5493,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5606,15 +5563,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 248.92 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 248.92 50.8 0)
 			(effects
@@ -5630,6 +5578,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "LIS2MDLTR"
@@ -5638,6 +5587,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "511-LIS2MDLTR"
@@ -5646,6 +5596,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5946,15 +5897,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 71.12 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" "-ENV"
 			(at 71.12 142.24 0)
 			(effects
@@ -5970,6 +5912,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "RC0603FR-07150KL"
@@ -5978,6 +5921,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "603-RC0603FR-07150KL"
@@ -5986,6 +5930,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6451,15 +6396,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 80.01 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" "-ENV"
 			(at 80.01 177.8 0)
 			(effects
@@ -6475,6 +6411,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "SPK0641HT4H-1"
@@ -6483,6 +6420,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "721-SPK0641HT4H-1"
@@ -6491,6 +6429,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6647,15 +6586,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 83.82 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 83.82 160.02 0)
 			(effects
@@ -6671,6 +6601,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "06035C104KAT2A"
@@ -6679,6 +6610,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "581-06035C104KAT2A"
@@ -6687,6 +6619,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6888,15 +6821,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 121.92 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 121.92 63.5 0)
 			(effects
@@ -6912,6 +6836,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "BMP581"
@@ -6920,6 +6845,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "262-BMP581"
@@ -6928,6 +6854,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7089,15 +7016,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 52.07 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 52.07 36.83 0)
 			(effects
@@ -7113,6 +7031,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "06035C104KAT2A"
@@ -7121,6 +7040,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "581-06035C104KAT2A"
@@ -7129,6 +7049,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7266,15 +7187,6 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Mouser"
-			(at 245.11 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "CONFIG" ""
 			(at 245.11 27.94 0)
 			(effects
@@ -7290,6 +7202,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "manf#" "CM105X5R106M25AT"
@@ -7298,6 +7211,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "mouser#" "346-CM105X5R106M25AT"
@@ -7306,6 +7220,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
