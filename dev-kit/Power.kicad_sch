@@ -1881,6 +1881,15 @@
 		(uuid "c6316b36-f3b9-49b6-b0ec-133c9f89c387")
 	)
 	(bus_entry
+		(at 85.09 139.7)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7368922b-16bd-4c54-b656-35243f167595")
+	)
+	(bus_entry
 		(at 93.98 85.09)
 		(size -2.54 -2.54)
 		(stroke
@@ -1897,16 +1906,6 @@
 			(type default)
 		)
 		(uuid "a2427215-864c-485e-99ab-71d26c1adc35")
-	)
-	(wire
-		(pts
-			(xy 96.52 143.51) (xy 96.52 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "00ef28d9-43f3-4f2a-9302-fa3733abff30")
 	)
 	(wire
 		(pts
@@ -1990,16 +1989,6 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 143.51) (xy 96.52 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "13147ca8-3caf-4e42-892f-7dcc62c12ddc")
-	)
-	(wire
-		(pts
 			(xy 148.59 39.37) (xy 148.59 40.64)
 		)
 		(stroke
@@ -2030,7 +2019,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 115.57) (xy 99.06 115.57)
+			(xy 69.85 115.57) (xy 99.06 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2127,16 +2116,6 @@
 			(type default)
 		)
 		(uuid "33dade34-d146-4ff3-9209-f7637742be6c")
-	)
-	(wire
-		(pts
-			(xy 219.075 33.02) (xy 226.06 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "37276019-3850-4352-9ecc-0ff91e5baf86")
 	)
 	(wire
 		(pts
@@ -2250,16 +2229,6 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 137.16) (xy 99.06 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4da8a93e-ae24-4089-9784-3544355418e7")
-	)
-	(wire
-		(pts
 			(xy 184.15 113.03) (xy 184.15 114.3)
 		)
 		(stroke
@@ -2280,7 +2249,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 120.65) (xy 99.06 120.65)
+			(xy 69.85 120.65) (xy 99.06 120.65)
 		)
 		(stroke
 			(width 0)
@@ -2340,7 +2309,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 33.02) (xy 213.995 33.02)
+			(xy 208.28 33.02) (xy 226.06 33.02)
 		)
 		(stroke
 			(width 0)
@@ -2610,7 +2579,17 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 123.19) (xy 99.06 123.19)
+			(xy 87.63 137.16) (xy 99.06 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99300da3-4b42-4e7f-a0d0-57293bdf2c84")
+	)
+	(wire
+		(pts
+			(xy 69.85 123.19) (xy 99.06 123.19)
 		)
 		(stroke
 			(width 0)
@@ -2790,16 +2769,6 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 27.94) (xy 135.89 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c7dadb3c-2883-49fc-b250-26c9172ca30a")
-	)
-	(wire
-		(pts
 			(xy 200.66 87.63) (xy 200.66 86.36)
 		)
 		(stroke
@@ -2898,6 +2867,16 @@
 		)
 		(uuid "d3df1801-dd26-4c1b-a147-4c103f734972")
 	)
+	(bus
+		(pts
+			(xy 69.85 139.7) (xy 85.09 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3e244ea-c1d0-4d51-9ae3-ebced741013b")
+	)
 	(wire
 		(pts
 			(xy 182.88 83.82) (xy 182.88 85.09)
@@ -2990,7 +2969,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 36.83) (xy 135.89 40.64)
+			(xy 135.89 27.94) (xy 135.89 40.64)
 		)
 		(stroke
 			(width 0)
@@ -3078,6 +3057,26 @@
 		)
 		(uuid "feaae449-f82a-4a65-a0f3-30742213e734")
 	)
+	(label "SW[1..4]"
+		(at 69.85 139.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4c29d267-d0a2-4aa6-a088-dbcd005f6a87")
+	)
+	(label "CC[1..2]"
+		(at 73.66 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "54172a99-46c1-4110-acca-7d9fc9b640c9")
+	)
 	(label "CC1"
 		(at 97.79 77.47 180)
 		(effects
@@ -3097,6 +3096,16 @@
 			(justify right bottom)
 		)
 		(uuid "a9cb1bce-0d62-4080-9262-9305677c2cb3")
+	)
+	(label "SW3"
+		(at 96.52 137.16 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e5e22912-5162-4c86-8be4-7249f53f10df")
 	)
 	(hierarchical_label "USB-CC"
 		(shape input)
@@ -3144,7 +3153,7 @@
 	)
 	(hierarchical_label "SCL"
 		(shape input)
-		(at 73.66 123.19 180)
+		(at 69.85 123.19 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3153,9 +3162,20 @@
 		)
 		(uuid "3dea5058-01c7-416c-b558-3e1ccffbfd06")
 	)
+	(hierarchical_label "Buttons"
+		(shape input)
+		(at 69.85 139.7 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "61185929-cafe-4bfe-949b-6bf78f924747")
+	)
 	(hierarchical_label "SDA"
 		(shape bidirectional)
-		(at 73.66 120.65 180)
+		(at 69.85 120.65 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3186,20 +3206,9 @@
 		)
 		(uuid "c4966f9e-4773-480c-9cb2-644d6a1056a4")
 	)
-	(hierarchical_label "SYS-Reset"
-		(shape input)
-		(at 73.66 143.51 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "cceafb3b-9d9d-4fdd-a920-b78162ee8ad9")
-	)
 	(hierarchical_label "PMIC-INT"
 		(shape output)
-		(at 73.66 115.57 180)
+		(at 69.85 115.57 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3550,7 +3559,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD_Kampi:L_0806_2016"
 			(at 173.99 106.68 0)
 			(effects
 				(font
@@ -3559,7 +3568,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.de/datasheet/2/3/ASMPH_0806-3317972.pdf"
 			(at 173.99 106.68 0)
 			(effects
 				(font
@@ -3586,7 +3595,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf" ""
+		(property "manf" "ABRACON"
 			(at 173.99 106.68 0)
 			(effects
 				(font
@@ -3595,7 +3604,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "ASMPH-0806-2R2M-T"
 			(at 173.99 106.68 0)
 			(effects
 				(font
@@ -3604,7 +3613,7 @@
 				(hide yes)
 			)
 		)
-		(property "mouser#" ""
+		(property "mouser#" "815-ASMPH-0806-2R2M-T"
 			(at 173.99 106.68 0)
 			(effects
 				(font
@@ -4111,111 +4120,6 @@
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/cee9a3a2-28cd-4e6c-b23d-337f115f39e8"
 					(reference "#PWR0104")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 216.535 33.02 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "259e383e-1186-4037-b1cc-9ea7c672de03")
-		(property "Reference" "R106"
-			(at 216.535 27.94 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0R"
-			(at 216.535 30.48 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 216.535 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.de/datasheet/2/54/cr-1858361.pdf"
-			(at 216.535 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 216.535 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIG" ""
-			(at 216.535 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "manf" "Bourns"
-			(at 216.535 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "manf#" "CR0805-J/-000ELF"
-			(at 216.535 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "mouser#" "652-CR0805-J/-000ELF"
-			(at 216.535 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8f502e92-198b-4498-b8b1-656eafcf843c")
-		)
-		(pin "2"
-			(uuid "40951311-0663-4cbe-89e2-890c10a84d0b")
-		)
-		(instances
-			(project "Dev-Kit"
-				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/cee9a3a2-28cd-4e6c-b23d-337f115f39e8"
-					(reference "R106")
 					(unit 1)
 				)
 			)
@@ -4870,7 +4774,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 198.12 36.83 0)
 			(effects
 				(font
@@ -4879,7 +4783,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/datasheet/2/281/1/GRJ155R60J106ME11_02A-3154972.pdf"
+		(property "Datasheet" "https://www.mouser.de/datasheet/2/40/cx5r_KGM-3223198.pdf"
 			(at 198.12 36.83 0)
 			(effects
 				(font
@@ -4906,7 +4810,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf" "Murata Electronics"
+		(property "manf" "KYOCERA AVX"
 			(at 198.12 36.83 0)
 			(effects
 				(font
@@ -4915,7 +4819,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "GRJ155R60J106ME11D"
+		(property "manf#" "KGM15CR50J106MT"
 			(at 198.12 36.83 0)
 			(effects
 				(font
@@ -4924,7 +4828,7 @@
 				(hide yes)
 			)
 		)
-		(property "mouser#" "81-GRJ155R60J106ME11D"
+		(property "mouser#" "581-KGM15CR50J106MT"
 			(at 198.12 36.83 0)
 			(effects
 				(font
@@ -5313,7 +5217,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD_Kampi:L_0806_2016"
 			(at 182.88 88.9 0)
 			(effects
 				(font
@@ -5322,7 +5226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.de/datasheet/2/3/ASMPH_0806-3317972.pdf"
 			(at 182.88 88.9 0)
 			(effects
 				(font
@@ -5349,7 +5253,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf" ""
+		(property "manf" "ABRACON"
 			(at 182.88 88.9 0)
 			(effects
 				(font
@@ -5358,7 +5262,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "ASMPH-0806-2R2M-T"
 			(at 182.88 88.9 0)
 			(effects
 				(font
@@ -5367,7 +5271,7 @@
 				(hide yes)
 			)
 		)
-		(property "mouser#" ""
+		(property "mouser#" "815-ASMPH-0806-2R2M-T"
 			(at 182.88 88.9 0)
 			(effects
 				(font
@@ -5410,7 +5314,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BATTERY"
+		(property "Value" "Battery"
 			(at 161.29 43.18 0)
 			(effects
 				(font
@@ -5832,7 +5736,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 187.96 36.83 0)
 			(effects
 				(font
@@ -5841,7 +5745,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/datasheet/2/281/1/GRJ155R60J106ME11_02A-3154972.pdf"
+		(property "Datasheet" "https://www.mouser.de/datasheet/2/40/cx5r_KGM-3223198.pdf"
 			(at 187.96 36.83 0)
 			(effects
 				(font
@@ -5868,7 +5772,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf" "Murata Electronics"
+		(property "manf" "KYOCERA AVX"
 			(at 187.96 36.83 0)
 			(effects
 				(font
@@ -5877,7 +5781,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "GRJ155R60J106ME11D"
+		(property "manf#" "KGM15CR50J106MT"
 			(at 187.96 36.83 0)
 			(effects
 				(font
@@ -5886,7 +5790,7 @@
 				(hide yes)
 			)
 		)
-		(property "mouser#" "81-GRJ155R60J106ME11D"
+		(property "mouser#" "581-KGM15CR50J106MT"
 			(at 187.96 36.83 0)
 			(effects
 				(font
@@ -6216,113 +6120,6 @@
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/cee9a3a2-28cd-4e6c-b23d-337f115f39e8"
 					(reference "TP107")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 135.89 34.29 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a5b06e3f-d9f5-4e47-9e9f-1cdd3974e9c1")
-		(property "Reference" "R107"
-			(at 138.43 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "0R"
-			(at 138.43 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 135.89 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.de/datasheet/2/54/cr-1858361.pdf"
-			(at 135.89 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 135.89 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIG" ""
-			(at 135.89 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "manf" "Bourns"
-			(at 135.89 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "manf#" "CR0805-J/-000ELF"
-			(at 135.89 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "mouser#" "652-CR0805-J/-000ELF"
-			(at 135.89 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "64ebe1f3-ed1d-4945-bb84-5a032712573c")
-		)
-		(pin "2"
-			(uuid "ea3d13f5-3393-4084-8e4e-041b939d0222")
-		)
-		(instances
-			(project "Dev-Kit"
-				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/cee9a3a2-28cd-4e6c-b23d-337f115f39e8"
-					(reference "R107")
 					(unit 1)
 				)
 			)
@@ -6705,7 +6502,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 208.28 36.83 0)
 			(effects
 				(font
@@ -6714,7 +6511,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/datasheet/2/281/1/GRJ155R60J106ME11_02A-3154972.pdf"
+		(property "Datasheet" "https://www.mouser.de/datasheet/2/40/cx5r_KGM-3223198.pdf"
 			(at 208.28 36.83 0)
 			(effects
 				(font
@@ -6741,7 +6538,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf" "Murata Electronics"
+		(property "manf" "KYOCERA AVX"
 			(at 208.28 36.83 0)
 			(effects
 				(font
@@ -6750,7 +6547,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "GRJ155R60J106ME11D"
+		(property "manf#" "KGM15CR50J106MT"
 			(at 208.28 36.83 0)
 			(effects
 				(font
@@ -6759,7 +6556,7 @@
 				(hide yes)
 			)
 		)
-		(property "mouser#" "81-GRJ155R60J106ME11D"
+		(property "mouser#" "581-KGM15CR50J106MT"
 			(at 208.28 36.83 0)
 			(effects
 				(font
