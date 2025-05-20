@@ -7,8 +7,8 @@ preflight:
   update_stackup: true
 
 variants:
-  - name: "Watch"
-    comment: "Regular Watch PCB"
+  - name: "Full"
+    comment: "Full PCB"
     type: kibom
 
 global:

@@ -741,13 +741,7 @@
           "group_by": false,
           "label": "CONFIG",
           "name": "CONFIG",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Field9",
-          "name": "Field9",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
