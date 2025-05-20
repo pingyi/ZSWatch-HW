@@ -582,7 +582,7 @@
         "schematic_color": "rgb(184, 9, 255)",
         "track_width": 0.2,
         "via_diameter": 0.45,
-        "via_drill": 0.3,
+        "via_drill": 0.25,
         "wire_width": 6
       },
       {
