@@ -1,7 +1,7 @@
 name: Diff
 
 on:
-  push:
+  workflow_dispatch:
 
 jobs:
   build:
