@@ -1719,6 +1719,264 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Connector_Generic:Conn_01x06"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x06"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x06_1_1"
+				(rectangle
+					(start -1.27 6.35)
+					(end 1.27 -8.89)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 5.207)
+					(end 0 4.953)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 2.667)
+					(end 0 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -4.953)
+					(end 0 -5.207)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -7.493)
+					(end 0 -7.747)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 5.08 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 3.81)
+					(name "Pin_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -7.62 0)
+					(length 3.81)
+					(name "Pin_6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C_Small"
 			(pin_numbers
 				(hide yes)
@@ -6018,19 +6276,19 @@
 	)
 	(no_connect
 		(at 152.4 66.04)
-		(uuid "21e8eb3d-c5e9-4b6f-a16e-a4a207019393")
+		(uuid "56778ee4-5760-4e8f-816a-4ab361bfc95c")
 	)
 	(no_connect
 		(at 152.4 68.58)
-		(uuid "2fec639f-059b-46fa-86bb-fc6818d9179a")
+		(uuid "820aec2e-5616-4955-8f48-f55948718215")
 	)
 	(no_connect
 		(at 64.77 200.66)
 		(uuid "829bc622-73d6-4137-8e91-04737bff0a20")
 	)
 	(no_connect
-		(at 229.87 105.41)
-		(uuid "846591a6-ece2-4ddf-b94b-291338856e5e")
+		(at 152.4 60.96)
+		(uuid "a049c530-dbea-49c4-8657-6e0acdb07ae8")
 	)
 	(no_connect
 		(at 394.97 232.41)
@@ -6041,36 +6299,20 @@
 		(uuid "a5b86b60-dada-4654-9073-f3405781465d")
 	)
 	(no_connect
-		(at 152.4 127)
-		(uuid "ac47f323-8148-466b-bef1-1e17a5ae9ea9")
-	)
-	(no_connect
 		(at 64.77 203.2)
 		(uuid "af35e3a2-a7c0-4836-85e4-b945a2879fda")
+	)
+	(no_connect
+		(at 152.4 63.5)
+		(uuid "b21cb914-48b7-4f57-9fec-c4b5dc128bf0")
 	)
 	(no_connect
 		(at 379.73 242.57)
 		(uuid "b6965752-5b97-43ca-9bfc-54767d0d90b0")
 	)
 	(no_connect
-		(at 152.4 83.82)
-		(uuid "cfcafce9-0383-43b7-a9f9-19220666237e")
-	)
-	(no_connect
-		(at 152.4 129.54)
-		(uuid "d6e0734b-2098-423a-adc2-29294ae2b0a0")
-	)
-	(no_connect
-		(at 152.4 63.5)
-		(uuid "d83746e4-409e-4254-99cd-588c646321e9")
-	)
-	(no_connect
 		(at 229.87 130.81)
 		(uuid "e3165b15-2dd5-48d9-a0b6-0de0816b6716")
-	)
-	(no_connect
-		(at 152.4 60.96)
-		(uuid "ec90000e-1016-4941-8305-9160fc0bf271")
 	)
 	(no_connect
 		(at 394.97 229.87)
@@ -6199,6 +6441,16 @@
 			(type default)
 		)
 		(uuid "05c1812e-604e-41fc-abd8-7d29bf78b15a")
+	)
+	(wire
+		(pts
+			(xy 185.42 88.9) (xy 185.42 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05c938ba-f7c5-41e2-b08e-d8ab109cb886")
 	)
 	(wire
 		(pts
@@ -6482,6 +6734,16 @@
 	)
 	(wire
 		(pts
+			(xy 246.38 105.41) (xy 246.38 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1eb02b69-b4dc-4eda-9f53-2049f0a916fe")
+	)
+	(wire
+		(pts
 			(xy 369.57 158.75) (xy 369.57 157.48)
 		)
 		(stroke
@@ -6522,6 +6784,16 @@
 	)
 	(wire
 		(pts
+			(xy 201.93 41.91) (xy 201.93 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "220f5de5-710c-49c4-910a-17a35186c5a2")
+	)
+	(wire
+		(pts
 			(xy 350.52 168.91) (xy 350.52 170.18)
 		)
 		(stroke
@@ -6549,6 +6821,16 @@
 			(type default)
 		)
 		(uuid "23fba85c-e0e4-4330-bbe2-c839c46ebdfa")
+	)
+	(wire
+		(pts
+			(xy 219.71 38.1) (xy 219.71 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24f57351-27b5-403d-a7ed-24843b66f816")
 	)
 	(wire
 		(pts
@@ -6802,6 +7084,16 @@
 	)
 	(wire
 		(pts
+			(xy 204.47 41.91) (xy 204.47 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3666653f-c737-4e03-963a-825a06acd608")
+	)
+	(wire
+		(pts
 			(xy 68.58 273.05) (xy 68.58 274.32)
 		)
 		(stroke
@@ -6889,6 +7181,16 @@
 			(type default)
 		)
 		(uuid "41d840a2-2381-46d0-89a3-2f3800f0014f")
+	)
+	(wire
+		(pts
+			(xy 185.42 129.54) (xy 152.4 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4261076a-60fa-40d8-be69-453852fd600b")
 	)
 	(polyline
 		(pts
@@ -6979,6 +7281,16 @@
 			(type default)
 		)
 		(uuid "49ef62d3-73a1-444f-a624-d8ac45181f55")
+	)
+	(wire
+		(pts
+			(xy 204.47 86.36) (xy 182.88 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a02337e-520b-4fe7-894b-df8ffea0b510")
 	)
 	(wire
 		(pts
@@ -7089,6 +7401,16 @@
 			(type default)
 		)
 		(uuid "5104f59a-473b-418a-b85a-92615bf8b7eb")
+	)
+	(wire
+		(pts
+			(xy 207.01 88.9) (xy 185.42 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5108d055-e7b6-46cf-b9ae-08c29b44026c")
 	)
 	(wire
 		(pts
@@ -7382,6 +7704,16 @@
 	)
 	(wire
 		(pts
+			(xy 209.55 276.86) (xy 209.55 278.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "601a1d18-3dbc-4809-940b-6d400f9310fe")
+	)
+	(wire
+		(pts
 			(xy 172.72 228.6) (xy 172.72 229.87)
 		)
 		(stroke
@@ -7389,6 +7721,16 @@
 			(type default)
 		)
 		(uuid "61265543-a606-4d2c-85f8-ff4550076029")
+	)
+	(wire
+		(pts
+			(xy 229.87 105.41) (xy 246.38 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61436c70-4512-44dd-be48-8a18375b286c")
 	)
 	(wire
 		(pts
@@ -7882,6 +8224,16 @@
 	)
 	(wire
 		(pts
+			(xy 207.01 41.91) (xy 207.01 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88ee6162-8164-4613-b5d2-34ac65dfc275")
+	)
+	(wire
+		(pts
 			(xy 171.45 242.57) (xy 175.26 242.57)
 		)
 		(stroke
@@ -8082,7 +8434,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 271.78) (xy 185.42 276.86)
+			(xy 185.42 271.78) (xy 185.42 278.13)
 		)
 		(stroke
 			(width 0)
@@ -8099,6 +8451,26 @@
 			(type default)
 		)
 		(uuid "96dea036-42eb-44d1-bc19-797250e119f1")
+	)
+	(wire
+		(pts
+			(xy 182.88 86.36) (xy 182.88 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "984e72e0-8fa8-41a9-9584-c0518d51ee3c")
+	)
+	(wire
+		(pts
+			(xy 212.09 41.91) (xy 212.09 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98d7ce0e-9ef7-4ced-97cc-be2c235132de")
 	)
 	(wire
 		(pts
@@ -8432,7 +8804,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 275.59) (xy 156.21 276.86)
+			(xy 156.21 275.59) (xy 156.21 278.13)
 		)
 		(stroke
 			(width 0)
@@ -8442,7 +8814,17 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 275.59) (xy 148.59 276.86)
+			(xy 246.38 60.96) (xy 209.55 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4d33500-5915-4f09-9329-e5e897dcf451")
+	)
+	(wire
+		(pts
+			(xy 148.59 275.59) (xy 148.59 278.13)
 		)
 		(stroke
 			(width 0)
@@ -8742,6 +9124,26 @@
 	)
 	(wire
 		(pts
+			(xy 214.63 44.45) (xy 214.63 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d385046a-0a71-410f-9d3d-312cb6016f1f")
+	)
+	(wire
+		(pts
+			(xy 219.71 44.45) (xy 214.63 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d385f884-749b-461c-94b7-8b3f2cd510c1")
+	)
+	(wire
+		(pts
 			(xy 90.17 257.81) (xy 91.44 257.81)
 		)
 		(stroke
@@ -8829,6 +9231,16 @@
 			(type default)
 		)
 		(uuid "dcae16b8-266c-46ef-9aac-4c67894d63d8")
+	)
+	(wire
+		(pts
+			(xy 152.4 83.82) (xy 201.93 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dcb194a4-26b3-4dcf-b4d7-269e037a8e1e")
 	)
 	(wire
 		(pts
@@ -9172,6 +9584,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 127) (xy 182.88 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f58be6aa-d1f1-43b7-bfff-b7b55b5bfdac")
+	)
+	(wire
+		(pts
 			(xy 353.06 38.1) (xy 355.6 38.1)
 		)
 		(stroke
@@ -9179,6 +9601,16 @@
 			(type default)
 		)
 		(uuid "f7c3064e-6a4e-4de4-8c72-e1c9fd66ff9d")
+	)
+	(wire
+		(pts
+			(xy 209.55 41.91) (xy 209.55 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7f62dce-4d4b-4581-9cb8-773fdfabb911")
 	)
 	(polyline
 		(pts
@@ -9480,7 +9912,7 @@
 	)
 	(global_label "USB-D+"
 		(shape bidirectional)
-		(at 233.68 227.33 0)
+		(at 233.68 224.79 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9490,7 +9922,7 @@
 		)
 		(uuid "168c82e7-de7d-4388-92b1-972fba148b48")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 246.0013 227.33 0)
+			(at 246.0013 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10226,28 +10658,6 @@
 			)
 		)
 	)
-	(global_label "BUZZER"
-		(shape output)
-		(at 204.47 40.64 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c0017da3-c811-4fb8-9d9f-a13c7826dbd8")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 214.8143 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "TOUCH-SDA"
 		(shape output)
 		(at 337.82 78.74 180)
@@ -10404,7 +10814,7 @@
 	)
 	(global_label "USB-D-"
 		(shape bidirectional)
-		(at 233.68 224.79 0)
+		(at 233.68 227.33 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10414,7 +10824,7 @@
 		)
 		(uuid "e86cfb97-c2b6-4559-8c80-303c479daf7e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 246.0013 224.79 0)
+			(at 246.0013 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10863,7 +11273,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0247550a-709a-4089-b7de-eba65f10fc50")
-		(property "Reference" "#PWR0307"
+		(property "Reference" "#PWR0305"
 			(at 55.88 194.31 0)
 			(effects
 				(font
@@ -10914,7 +11324,7 @@
 		(instances
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0307")
+					(reference "#PWR0305")
 					(unit 1)
 				)
 			)
@@ -10925,11 +11335,11 @@
 		(at 382.27 227.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "02955535-2add-4719-8f66-54fcfdbd2cc4")
-		(property "Reference" "X104"
+		(property "Reference" "X309"
 			(at 376.936 213.36 0)
 			(effects
 				(font
@@ -11043,7 +11453,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "X104")
+					(reference "X309")
 					(unit 1)
 				)
 			)
@@ -11059,7 +11469,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0adf0e82-9174-4b1c-a2e1-c28a74180882")
-		(property "Reference" "X207"
+		(property "Reference" "X301"
 			(at 53.34 59.69 0)
 			(effects
 				(font
@@ -11147,7 +11557,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "X207")
+					(reference "X301")
 					(unit 1)
 				)
 			)
@@ -11155,15 +11565,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 148.59 276.86 0)
+		(at 148.59 278.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "0c20c719-cf43-4ee7-8865-dde6facce1be")
-		(property "Reference" "#PWR0139"
-			(at 148.59 283.21 0)
+		(property "Reference" "#PWR0311"
+			(at 148.59 284.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11172,7 +11582,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 148.59 281.94 0)
+			(at 148.59 283.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11180,7 +11590,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 148.59 276.86 0)
+			(at 148.59 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11189,7 +11599,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 148.59 276.86 0)
+			(at 148.59 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11198,7 +11608,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 148.59 276.86 0)
+			(at 148.59 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11212,7 +11622,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0139")
+					(reference "#PWR0311")
 					(unit 1)
 				)
 			)
@@ -11228,7 +11638,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0ddf61f9-65da-44aa-b366-67ca557a3436")
-		(property "Reference" "#PWR0308"
+		(property "Reference" "#PWR0302"
 			(at 48.26 247.65 0)
 			(effects
 				(font
@@ -11278,7 +11688,7 @@
 		(instances
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0308")
+					(reference "#PWR0302")
 					(unit 1)
 				)
 			)
@@ -11294,7 +11704,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11862e46-bba9-40a2-9e88-50faa63e5b55")
-		(property "Reference" "#PWR0305"
+		(property "Reference" "#PWR0306"
 			(at 59.69 64.77 0)
 			(effects
 				(font
@@ -11344,7 +11754,7 @@
 		(instances
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0305")
+					(reference "#PWR0306")
 					(unit 1)
 				)
 			)
@@ -11359,7 +11769,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "13e67600-030f-43a2-8952-b3b9f19eea55")
-		(property "Reference" "#PWR0332"
+		(property "Reference" "#PWR0320"
 			(at 354.33 177.8 0)
 			(effects
 				(font
@@ -11409,7 +11819,73 @@
 		(instances
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0332")
+					(reference "#PWR0320")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+1V8")
+		(at 219.71 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1805ca4f-4c49-404d-8261-1a02b791bdaf")
+		(property "Reference" "#PWR0327"
+			(at 219.71 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+1V8"
+			(at 219.71 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 219.71 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 219.71 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 219.71 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a2e36906-f10e-4ddd-b92b-e019e92a52b9")
+		)
+		(instances
+			(project "Dev-Kit"
+				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
+					(reference "#PWR0327")
 					(unit 1)
 				)
 			)
@@ -11424,7 +11900,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1a425a5e-dfd9-4e17-b9df-8f2924955957")
-		(property "Reference" "IC107"
+		(property "Reference" "IC303"
 			(at 224.79 220.98 0)
 			(effects
 				(font
@@ -11529,7 +12005,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "IC107")
+					(reference "IC303")
 					(unit 1)
 				)
 			)
@@ -11544,7 +12020,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1d0d3d76-8c7d-438d-9000-5544d4a7e418")
-		(property "Reference" "#PWR0159"
+		(property "Reference" "#PWR0315"
 			(at 227.33 240.03 0)
 			(effects
 				(font
@@ -11595,7 +12071,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0159")
+					(reference "#PWR0315")
 					(unit 1)
 				)
 			)
@@ -11612,7 +12088,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2c68c70b-ae03-49e3-bdf0-da75b46917b6")
-		(property "Reference" "R107"
+		(property "Reference" "R309"
 			(at 200.66 240.03 90)
 			(effects
 				(font
@@ -11700,7 +12176,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "R107")
+					(reference "R309")
 					(unit 1)
 				)
 			)
@@ -12060,7 +12536,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "32ec9a02-ada5-4ceb-af52-21853ea2a2f2")
-		(property "Reference" "R130"
+		(property "Reference" "R312"
 			(at 200.66 269.24 90)
 			(effects
 				(font
@@ -12148,7 +12624,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "R130")
+					(reference "R312")
 					(unit 1)
 				)
 			)
@@ -12269,7 +12745,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3dbd0200-8346-49d7-ad11-0bca61eb63fa")
-		(property "Reference" "#PWR0335"
+		(property "Reference" "#PWR0325"
 			(at 382.27 214.63 0)
 			(effects
 				(font
@@ -12355,7 +12831,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0335")
+					(reference "#PWR0325")
 					(unit 1)
 				)
 			)
@@ -12370,7 +12846,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3e71532f-4630-43cd-ad21-3dc7f1ef5e83")
-		(property "Reference" "IC305"
+		(property "Reference" "IC304"
 			(at 344.17 64.77 0)
 			(effects
 				(font
@@ -12488,7 +12964,7 @@
 		(instances
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "IC305")
+					(reference "IC304")
 					(unit 1)
 				)
 			)
@@ -12504,7 +12980,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "404a24f6-9a50-40b9-bde1-18092dd65c49")
-		(property "Reference" "X208"
+		(property "Reference" "X302"
 			(at 63.5 226.06 0)
 			(effects
 				(font
@@ -12592,7 +13068,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "X208")
+					(reference "X302")
 					(unit 1)
 				)
 			)
@@ -12608,7 +13084,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "43b0530b-0fb8-4aa5-b3be-d834596accc1")
-		(property "Reference" "J1"
+		(property "Reference" "X304"
 			(at 220.98 273.0499 0)
 			(effects
 				(font
@@ -12635,7 +13111,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/boardwiretoboard/bwb_econostik_254headers.pdf"
 			(at 218.44 274.32 0)
 			(effects
 				(font
@@ -12645,6 +13121,42 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 218.44 274.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Amphenol FCI"
+			(at 218.44 274.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "10129378-936001BLF"
+			(at 218.44 274.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" "649-1012937893601BLF"
+			(at 218.44 274.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CONFIG" ""
 			(at 218.44 274.32 0)
 			(effects
 				(font
@@ -12665,7 +13177,7 @@
 		(instances
 			(project ""
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "J1")
+					(reference "X304")
 					(unit 1)
 				)
 			)
@@ -12682,7 +13194,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53de4a2f-7e6e-492f-8f60-fc30aa3183c3")
-		(property "Reference" "R105"
+		(property "Reference" "R306"
 			(at 194.31 209.55 90)
 			(effects
 				(font
@@ -12770,7 +13282,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "R105")
+					(reference "R306")
 					(unit 1)
 				)
 			)
@@ -12778,15 +13290,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 209.55 276.86 0)
+		(at 209.55 278.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "56d1f05d-d9c9-434b-832c-52093c443cdb")
-		(property "Reference" "#PWR02"
-			(at 209.55 283.21 0)
+		(property "Reference" "#PWR0314"
+			(at 209.55 284.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12795,7 +13307,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 209.55 281.94 0)
+			(at 209.55 283.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12803,7 +13315,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 209.55 276.86 0)
+			(at 209.55 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12812,7 +13324,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 209.55 276.86 0)
+			(at 209.55 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12821,7 +13333,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 209.55 276.86 0)
+			(at 209.55 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12835,7 +13347,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR02")
+					(reference "#PWR0314")
 					(unit 1)
 				)
 			)
@@ -12852,7 +13364,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "578a4e63-5933-4527-906b-bd6ada2b4997")
-		(property "Reference" "C305"
+		(property "Reference" "C304"
 			(at 358.14 52.0763 0)
 			(effects
 				(font
@@ -12942,7 +13454,7 @@
 		(instances
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "C305")
+					(reference "C304")
 					(unit 1)
 				)
 			)
@@ -12953,12 +13465,12 @@
 		(at 184.15 248.92 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5a26fe96-00ec-4227-b604-6dac874a118e")
-		(property "Reference" "R111"
+		(property "Reference" "R304"
 			(at 181.61 247.6499 0)
 			(effects
 				(font
@@ -12985,7 +13497,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.de/datasheet/2/54/cr-1858361.pdf"
 			(at 184.15 248.92 0)
 			(effects
 				(font
@@ -13003,7 +13515,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf" ""
+		(property "manf" "Bourns"
 			(at 184.15 248.92 0)
 			(effects
 				(font
@@ -13012,7 +13524,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "CR0402-FX-5101GLF"
 			(at 184.15 248.92 0)
 			(effects
 				(font
@@ -13021,7 +13533,7 @@
 				(hide yes)
 			)
 		)
-		(property "mouser#" ""
+		(property "mouser#" "652-CR0402-FX-5101GLF"
 			(at 184.15 248.92 0)
 			(effects
 				(font
@@ -13048,7 +13560,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "R111")
+					(reference "R304")
 					(unit 1)
 				)
 			)
@@ -13064,7 +13576,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5a903768-adc6-4f1c-ac18-22709f01bca0")
-		(property "Reference" "#PWR0121"
+		(property "Reference" "#PWR0324"
 			(at 379.73 160.02 0)
 			(effects
 				(font
@@ -13114,7 +13626,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0121")
+					(reference "#PWR0324")
 					(unit 1)
 				)
 			)
@@ -13130,7 +13642,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "62da2f57-03ee-4992-958d-32c59c78d9c2")
-		(property "Reference" "X210"
+		(property "Reference" "X307"
 			(at 365.76 114.2999 0)
 			(effects
 				(font
@@ -13220,7 +13732,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "X210")
+					(reference "X307")
 					(unit 1)
 				)
 			)
@@ -13237,7 +13749,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "67dd5f79-d139-4022-b3b0-5ebc4204624e")
-		(property "Reference" "R104"
+		(property "Reference" "R307"
 			(at 194.31 219.71 90)
 			(effects
 				(font
@@ -13325,7 +13837,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "R104")
+					(reference "R307")
 					(unit 1)
 				)
 			)
@@ -13342,7 +13854,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6998a691-a730-4374-93d6-6556a905569a")
-		(property "Reference" "#PWR0311"
+		(property "Reference" "#PWR0308"
 			(at 69.85 281.94 0)
 			(effects
 				(font
@@ -13392,7 +13904,7 @@
 		(instances
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0311")
+					(reference "#PWR0308")
 					(unit 1)
 				)
 			)
@@ -13752,7 +14264,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6d761c5f-60ae-4568-9a33-279345a64e54")
-		(property "Reference" "X211"
+		(property "Reference" "X305"
 			(at 341.63 114.2999 0)
 			(effects
 				(font
@@ -13842,7 +14354,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "X211")
+					(reference "X305")
 					(unit 1)
 				)
 			)
@@ -13858,7 +14370,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6dd0c863-6552-4a85-b1aa-bf2ec153a035")
-		(property "Reference" "#PWR0123"
+		(property "Reference" "#PWR0303"
 			(at 53.34 173.99 0)
 			(effects
 				(font
@@ -13908,7 +14420,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0123")
+					(reference "#PWR0303")
 					(unit 1)
 				)
 			)
@@ -13916,15 +14428,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 185.42 276.86 0)
+		(at 185.42 278.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "6f13364b-4125-4dde-a486-c32fdb92ef0b")
-		(property "Reference" "#PWR0148"
-			(at 185.42 283.21 0)
+		(property "Reference" "#PWR0313"
+			(at 185.42 284.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13933,7 +14445,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 185.42 281.94 0)
+			(at 185.42 283.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13941,7 +14453,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 185.42 276.86 0)
+			(at 185.42 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13950,7 +14462,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 276.86 0)
+			(at 185.42 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13959,7 +14471,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 185.42 276.86 0)
+			(at 185.42 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13973,7 +14485,123 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0148")
+					(reference "#PWR0313")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x06")
+		(at 207.01 36.83 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "70724072-c995-4f52-ac83-371a7564db71")
+		(property "Reference" "X310"
+			(at 208.28 30.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GPIO"
+			(at 208.28 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical_SMD_Pin1Left"
+			(at 207.01 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/boardwiretoboard/bwb_econostik_254headers.pdf"
+			(at 207.01 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 207.01 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Amphenol FCI"
+			(at 207.01 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "10129380-906002ALF"
+			(at 207.01 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" "649-1012938090602ALF"
+			(at 207.01 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CONFIG" ""
+			(at 207.01 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "047ab66b-b45d-469e-be98-39963d72e9ab")
+		)
+		(pin "3"
+			(uuid "0894100c-5fcc-4bb0-bcc7-527c75036426")
+		)
+		(pin "1"
+			(uuid "21afe6cc-efb2-48da-aa5e-bd9f706c5a33")
+		)
+		(pin "5"
+			(uuid "f29a8272-1b75-470d-b426-81ecd9c0f304")
+		)
+		(pin "4"
+			(uuid "8c0a8c69-26e1-4338-ba7a-8a3f188a8aac")
+		)
+		(pin "6"
+			(uuid "d52a3d9d-29a5-4eef-9247-b6caaa68a59d")
+		)
+		(instances
+			(project "Dev-Kit"
+				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
+					(reference "X310")
 					(unit 1)
 				)
 			)
@@ -13988,7 +14616,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "70de52b0-274b-408d-8e78-7a9f7f6d55ce")
-		(property "Reference" "#PWR0312"
+		(property "Reference" "#PWR0309"
 			(at 72.39 251.46 0)
 			(effects
 				(font
@@ -14038,7 +14666,7 @@
 		(instances
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0312")
+					(reference "#PWR0309")
 					(unit 1)
 				)
 			)
@@ -14054,7 +14682,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7343db06-7a1a-4793-a5f0-6fc7972d52e3")
-		(property "Reference" "#PWR0122"
+		(property "Reference" "#PWR0321"
 			(at 355.6 39.37 0)
 			(effects
 				(font
@@ -14104,7 +14732,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0122")
+					(reference "#PWR0321")
 					(unit 1)
 				)
 			)
@@ -14119,7 +14747,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7926bc05-4cc8-4e97-a9bb-b5eded3d1cc2")
-		(property "Reference" "IC302"
+		(property "Reference" "IC301"
 			(at 46.99 190.5 0)
 			(effects
 				(font
@@ -14128,7 +14756,7 @@
 			)
 		)
 		(property "Value" "FAN5622SX"
-			(at 45.72 208.534 0)
+			(at 49.53 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14231,7 +14859,7 @@
 		(instances
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "IC302")
+					(reference "IC301")
 					(unit 1)
 				)
 			)
@@ -14246,7 +14874,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8248e221-3bf1-4b2c-bfc2-3c69525c630e")
-		(property "Reference" "#PWR0306"
+		(property "Reference" "#PWR0304"
 			(at 53.34 217.17 0)
 			(effects
 				(font
@@ -14296,7 +14924,7 @@
 		(instances
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0306")
+					(reference "#PWR0304")
 					(unit 1)
 				)
 			)
@@ -14312,7 +14940,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8842bec5-fa33-46ef-b225-b57fe0ea5eee")
-		(property "Reference" "X209"
+		(property "Reference" "X308"
 			(at 377.19 162.5599 90)
 			(effects
 				(font
@@ -14402,7 +15030,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "X209")
+					(reference "X308")
 					(unit 1)
 				)
 			)
@@ -14417,7 +15045,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "95598af3-7e12-44b2-9c50-772c50df774d")
-		(property "Reference" "#PWR0315"
+		(property "Reference" "#PWR0310"
 			(at 107.95 152.4 0)
 			(effects
 				(font
@@ -14503,7 +15131,7 @@
 		(instances
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0315")
+					(reference "#PWR0310")
 					(unit 1)
 				)
 			)
@@ -14518,7 +15146,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9c793cc8-5b49-4c40-aba1-1cc05fd1e667")
-		(property "Reference" "#PWR0125"
+		(property "Reference" "#PWR0326"
 			(at 382.27 250.19 0)
 			(effects
 				(font
@@ -14568,7 +15196,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0125")
+					(reference "#PWR0326")
 					(unit 1)
 				)
 			)
@@ -14576,15 +15204,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 156.21 276.86 0)
+		(at 156.21 278.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "a93909ea-b06f-4fed-b871-a7fa8848f4d0")
-		(property "Reference" "#PWR0142"
-			(at 156.21 283.21 0)
+		(property "Reference" "#PWR0312"
+			(at 156.21 284.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14593,7 +15221,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 156.21 281.94 0)
+			(at 156.21 283.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14601,7 +15229,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 156.21 276.86 0)
+			(at 156.21 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14610,7 +15238,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 156.21 276.86 0)
+			(at 156.21 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14619,7 +15247,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 156.21 276.86 0)
+			(at 156.21 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14633,7 +15261,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0142")
+					(reference "#PWR0312")
 					(unit 1)
 				)
 			)
@@ -14648,7 +15276,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "b0ce93c3-a17a-4f11-9a2a-0218d9561053")
-		(property "Reference" "R106"
+		(property "Reference" "R308"
 			(at 200.66 232.41 90)
 			(effects
 				(font
@@ -14736,7 +15364,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "R106")
+					(reference "R308")
 					(unit 1)
 				)
 			)
@@ -14752,7 +15380,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b23c8f2f-3f43-4a81-99db-c9f93a2f41fc")
-		(property "Reference" "TP110"
+		(property "Reference" "TP301"
 			(at 38.1 112.903 0)
 			(effects
 				(font
@@ -14839,7 +15467,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "TP110")
+					(reference "TP301")
 					(unit 1)
 				)
 			)
@@ -14854,7 +15482,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b6e86f39-0774-4c85-9fdf-17e832c428f1")
-		(property "Reference" "R126"
+		(property "Reference" "R303"
 			(at 50.8 172.72 0)
 			(effects
 				(font
@@ -14944,7 +15572,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "R126")
+					(reference "R303")
 					(unit 1)
 				)
 			)
@@ -14955,12 +15583,12 @@
 		(at 186.69 248.92 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "bd026e42-58bc-48d2-a76d-63a9841e307a")
-		(property "Reference" "R112"
+		(property "Reference" "R305"
 			(at 189.23 247.6499 0)
 			(effects
 				(font
@@ -14987,7 +15615,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.de/datasheet/2/54/cr-1858361.pdf"
 			(at 186.69 248.92 0)
 			(effects
 				(font
@@ -15005,7 +15633,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf" ""
+		(property "manf" "Bourns"
 			(at 186.69 248.92 0)
 			(effects
 				(font
@@ -15014,7 +15642,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "CR0402-FX-5101GLF"
 			(at 186.69 248.92 0)
 			(effects
 				(font
@@ -15023,7 +15651,7 @@
 				(hide yes)
 			)
 		)
-		(property "mouser#" ""
+		(property "mouser#" "652-CR0402-FX-5101GLF"
 			(at 186.69 248.92 0)
 			(effects
 				(font
@@ -15050,7 +15678,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "R112")
+					(reference "R305")
 					(unit 1)
 				)
 			)
@@ -15065,7 +15693,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c61b3f8f-efae-4329-9503-bc2f0355ecb4")
-		(property "Reference" "X302"
+		(property "Reference" "X306"
 			(at 345.44 123.19 0)
 			(effects
 				(font
@@ -15216,7 +15844,7 @@
 		(instances
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "X302")
+					(reference "X306")
 					(unit 1)
 				)
 			)
@@ -15575,7 +16203,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ccb3bfa7-ad00-46b2-b3a0-22c1c0828b64")
-		(property "Reference" "R117"
+		(property "Reference" "R313"
 			(at 347.98 43.1799 0)
 			(effects
 				(font
@@ -15665,7 +16293,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "R117")
+					(reference "R313")
 					(unit 1)
 				)
 			)
@@ -15680,7 +16308,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cdd42ded-c215-4623-91bd-560d843f8a9f")
-		(property "Reference" "#PWR0331"
+		(property "Reference" "#PWR0318"
 			(at 350.52 115.57 0)
 			(effects
 				(font
@@ -15766,7 +16394,7 @@
 		(instances
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0331")
+					(reference "#PWR0318")
 					(unit 1)
 				)
 			)
@@ -15781,7 +16409,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cec48b41-d571-40a2-bf2d-82ca9fe0e564")
-		(property "Reference" "R118"
+		(property "Reference" "R314"
 			(at 355.6 43.1799 0)
 			(effects
 				(font
@@ -15871,7 +16499,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "R118")
+					(reference "R314")
 					(unit 1)
 				)
 			)
@@ -15992,7 +16620,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d3db60f8-1b99-4300-9a61-fdf3170b0fc6")
-		(property "Reference" "C304"
+		(property "Reference" "C303"
 			(at 345.44 52.0763 0)
 			(effects
 				(font
@@ -16082,7 +16710,7 @@
 		(instances
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "C304")
+					(reference "C303")
 					(unit 1)
 				)
 			)
@@ -16097,7 +16725,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d79d60c0-e6d2-4ab0-bdff-3e31559990b1")
-		(property "Reference" "#PWR0328"
+		(property "Reference" "#PWR0322"
 			(at 355.6 63.5 0)
 			(effects
 				(font
@@ -16147,7 +16775,7 @@
 		(instances
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0328")
+					(reference "#PWR0322")
 					(unit 1)
 				)
 			)
@@ -16163,7 +16791,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d93ef6ac-64e6-48d3-9d2d-b7d14c1c037f")
-		(property "Reference" "#PWR0326"
+		(property "Reference" "#PWR0316"
 			(at 347.98 39.37 0)
 			(effects
 				(font
@@ -16213,7 +16841,72 @@
 		(instances
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0326")
+					(reference "#PWR0316")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 212.09 44.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "db2f7561-cbaf-4862-989e-1354640cd169")
+		(property "Reference" "#PWR0328"
+			(at 212.09 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 212.09 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 212.09 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 212.09 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 212.09 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b838f981-bf88-4512-bece-b3093686421a")
+		)
+		(instances
+			(project "Dev-Kit"
+				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
+					(reference "#PWR0328")
 					(unit 1)
 				)
 			)
@@ -16228,7 +16921,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ded3eec4-405f-4ef4-bc69-ba99a14853ca")
-		(property "Reference" "#PWR0302"
+		(property "Reference" "#PWR0301"
 			(at 33.02 214.63 0)
 			(effects
 				(font
@@ -16278,7 +16971,7 @@
 		(instances
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0302")
+					(reference "#PWR0301")
 					(unit 1)
 				)
 			)
@@ -16399,7 +17092,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e9796954-05ad-471e-bebc-797b0546fe4d")
-		(property "Reference" "#PWR0327"
+		(property "Reference" "#PWR0319"
 			(at 351.79 93.98 0)
 			(effects
 				(font
@@ -16449,7 +17142,7 @@
 		(instances
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0327")
+					(reference "#PWR0319")
 					(unit 1)
 				)
 			)
@@ -16464,7 +17157,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f65e3539-3f22-461f-a4a0-15ffeb735cf4")
-		(property "Reference" "#PWR0325"
+		(property "Reference" "#PWR0317"
 			(at 347.98 63.5 0)
 			(effects
 				(font
@@ -16514,7 +17207,7 @@
 		(instances
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0325")
+					(reference "#PWR0317")
 					(unit 1)
 				)
 			)
@@ -16635,7 +17328,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa9774d3-1b22-4ea1-b489-e3c1479b3113")
-		(property "Reference" "#PWR0310"
+		(property "Reference" "#PWR0307"
 			(at 69.85 233.68 0)
 			(effects
 				(font
@@ -16685,7 +17378,7 @@
 		(instances
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0310")
+					(reference "#PWR0307")
 					(unit 1)
 				)
 			)
@@ -16700,7 +17393,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fbf847b0-94f2-42ad-aaf2-4af69fe90b16")
-		(property "Reference" "IC303"
+		(property "Reference" "IC302"
 			(at 54.61 251.46 0)
 			(effects
 				(font
@@ -16809,7 +17502,7 @@
 		(instances
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "IC303")
+					(reference "IC302")
 					(unit 1)
 				)
 			)
@@ -16826,7 +17519,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "fe0b9f4d-cd73-429f-8726-cf2588428b7f")
-		(property "Reference" "R128"
+		(property "Reference" "R310"
 			(at 200.66 247.65 90)
 			(effects
 				(font
@@ -16914,7 +17607,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "R128")
+					(reference "R310")
 					(unit 1)
 				)
 			)
@@ -16930,7 +17623,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe84bc5a-08e6-4775-8ea6-715d070154ec")
-		(property "Reference" "#PWR0120"
+		(property "Reference" "#PWR0323"
 			(at 356.87 115.57 0)
 			(effects
 				(font
@@ -16980,7 +17673,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "#PWR0120")
+					(reference "#PWR0323")
 					(unit 1)
 				)
 			)
@@ -16997,7 +17690,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "feec54ed-30cb-4baa-8f0f-064a8d8b633e")
-		(property "Reference" "R129"
+		(property "Reference" "R311"
 			(at 200.66 260.35 90)
 			(effects
 				(font
@@ -17085,7 +17778,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "R129")
+					(reference "R311")
 					(unit 1)
 				)
 			)
@@ -17100,7 +17793,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ffc731a8-b733-42af-83bc-5fe747e3f89a")
-		(property "Reference" "X103"
+		(property "Reference" "X303"
 			(at 148.59 205.74 0)
 			(effects
 				(font
@@ -17257,7 +17950,7 @@
 		(instances
 			(project "Dev-Kit"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/8c9f2ee7-84da-4a9a-b0dc-117e0b0a9ea7"
-					(reference "X103")
+					(reference "X303")
 					(unit 1)
 				)
 			)
