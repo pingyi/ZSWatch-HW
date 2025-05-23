@@ -9876,7 +9876,7 @@
 	)
 	(global_label "DISPLAY-DATA"
 		(shape bidirectional)
-		(at 153.67 119.38 0)
+		(at 153.67 116.84 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9886,7 +9886,7 @@
 		)
 		(uuid "7316297c-4f07-4f69-8f00-7192c4370596")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 171.3133 119.38 0)
+			(at 171.3133 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9898,7 +9898,7 @@
 	)
 	(global_label "DISPLAY-DC"
 		(shape output)
-		(at 231.14 140.97 0)
+		(at 153.67 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9908,7 +9908,7 @@
 		)
 		(uuid "74f9efb7-c5ef-436d-92ce-0f5a9a5b2f9f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 245.7972 140.97 0)
+			(at 168.3272 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10096,7 +10096,7 @@
 	)
 	(global_label "DISPLAY-CLK"
 		(shape output)
-		(at 153.67 116.84 0)
+		(at 153.67 119.38 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10106,7 +10106,7 @@
 		)
 		(uuid "ac65dabd-da7f-4f8c-b4b3-8e8c9b65866c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 169.3553 116.84 0)
+			(at 169.3553 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10426,7 +10426,7 @@
 	)
 	(global_label "DISPLAY-CS"
 		(shape output)
-		(at 153.67 88.9 0)
+		(at 153.67 111.76 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10436,7 +10436,7 @@
 		)
 		(uuid "ea1323b9-7e39-419c-a52a-0a05d506d2c3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 168.2667 88.9 0)
+			(at 168.2667 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10536,7 +10536,7 @@
 	)
 	(global_label "DISPLAY-EN"
 		(shape output)
-		(at 153.67 111.76 0)
+		(at 153.67 88.9 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10546,7 +10546,7 @@
 		)
 		(uuid "f29c365c-040e-4277-b706-02108f87aa70")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 168.2667 111.76 0)
+			(at 168.2667 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10778,7 +10778,7 @@
 	)
 	(hierarchical_label "BMI270-INT"
 		(shape input)
-		(at 153.67 109.22 0)
+		(at 231.14 140.97 0)
 		(effects
 			(font
 				(size 1.27 1.27)
