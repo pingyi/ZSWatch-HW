@@ -1741,12 +1741,6 @@
 		(uuid "15bc8e99-ed47-4ad0-8ccf-ad31d432a44b")
 	)
 	(junction
-		(at 148.59 40.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "189345d2-29f4-4899-abe5-aa80f5a5d4c6")
-	)
-	(junction
 		(at 128.27 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1777,10 +1771,22 @@
 		(uuid "5d5cc1cd-2fa7-49b1-9bd0-5b96d533c496")
 	)
 	(junction
+		(at 152.4 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "65340127-85f1-4ddd-9b39-365e1843b89a")
+	)
+	(junction
 		(at 81.28 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "738b0e1f-81aa-4756-bea1-6f8c2aa5a7c6")
+	)
+	(junction
+		(at 146.05 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7d753fb8-9ff6-4e7a-9dac-5c6f68cf5c9d")
 	)
 	(junction
 		(at 200.66 105.41)
@@ -1989,7 +1995,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 39.37) (xy 148.59 40.64)
+			(xy 146.05 39.37) (xy 146.05 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2099,6 +2105,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 30.48) (xy 154.94 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e48a6ce-e97d-43fb-a6f2-692b4a2e5d2d")
+	)
+	(wire
+		(pts
 			(xy 93.98 77.47) (xy 99.06 77.47)
 		)
 		(stroke
@@ -2116,6 +2132,16 @@
 			(type default)
 		)
 		(uuid "33dade34-d146-4ff3-9209-f7637742be6c")
+	)
+	(wire
+		(pts
+			(xy 146.05 40.64) (xy 152.4 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34f73836-a4b2-446b-8967-206cbba32b74")
 	)
 	(wire
 		(pts
@@ -2439,6 +2465,16 @@
 	)
 	(wire
 		(pts
+			(xy 154.94 33.02) (xy 152.4 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77bed887-25bc-48e6-a541-cbb1c955cd1b")
+	)
+	(wire
+		(pts
 			(xy 179.07 50.8) (xy 182.88 50.8)
 		)
 		(stroke
@@ -2649,16 +2685,6 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 40.64) (xy 153.67 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a262c276-c904-4afe-b323-ed9b49a4a386")
-	)
-	(wire
-		(pts
 			(xy 115.57 36.83) (xy 115.57 40.64)
 		)
 		(stroke
@@ -2686,6 +2712,16 @@
 			(type default)
 		)
 		(uuid "adc520d0-5384-4f86-9d09-8ff6f84e0bde")
+	)
+	(wire
+		(pts
+			(xy 152.4 40.64) (xy 154.94 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "afa9be2e-84e9-45a7-b1f0-04353752af52")
 	)
 	(wire
 		(pts
@@ -2749,7 +2785,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 40.64) (xy 148.59 40.64)
+			(xy 140.97 40.64) (xy 146.05 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2836,6 +2872,16 @@
 			(type default)
 		)
 		(uuid "ce1e3a45-7233-4524-a02d-3ce432904a58")
+	)
+	(wire
+		(pts
+			(xy 152.4 33.02) (xy 152.4 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf56daa4-5d20-4f88-8935-09804628aaa8")
 	)
 	(wire
 		(pts
@@ -2979,7 +3025,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 43.18) (xy 152.4 43.18)
+			(xy 154.94 43.18) (xy 152.4 43.18)
 		)
 		(stroke
 			(width 0)
@@ -5297,7 +5343,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 158.75 40.64 0)
+		(at 160.02 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5306,7 +5352,7 @@
 		(fields_autoplaced yes)
 		(uuid "78e6b67a-c9a8-47f8-a05d-6dc74c691477")
 		(property "Reference" "X101"
-			(at 161.29 40.64 0)
+			(at 162.56 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5315,7 +5361,7 @@
 			)
 		)
 		(property "Value" "Battery"
-			(at 161.29 43.18 0)
+			(at 162.56 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5324,7 +5370,7 @@
 			)
 		)
 		(property "Footprint" "Molex:78171-0002"
-			(at 158.75 40.64 0)
+			(at 160.02 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5333,7 +5379,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.molex.com/en-us/products/part-detail/781710002?display=pdf"
-			(at 158.75 40.64 0)
+			(at 160.02 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5342,7 +5388,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 158.75 40.64 0)
+			(at 160.02 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5351,7 +5397,7 @@
 			)
 		)
 		(property "CONFIG" ""
-			(at 158.75 40.64 0)
+			(at 160.02 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5360,7 +5406,7 @@
 			)
 		)
 		(property "manf" "Molex"
-			(at 158.75 40.64 0)
+			(at 160.02 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5369,7 +5415,7 @@
 			)
 		)
 		(property "manf#" "78171-0002"
-			(at 158.75 40.64 0)
+			(at 160.02 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5378,7 +5424,7 @@
 			)
 		)
 		(property "mouser#" "538-78171-0002"
-			(at 158.75 40.64 0)
+			(at 160.02 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5815,6 +5861,112 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 160.02 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9123a28c-e3d6-4bc1-87b5-24048db740a3")
+		(property "Reference" "X1"
+			(at 162.56 30.4799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Battery"
+			(at 162.56 33.0199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 160.02 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/boardwiretoboard/bwb_econostik_254headers.pdf"
+			(at 160.02 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 160.02 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf" "Amphenol FCI"
+			(at 160.02 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "10129380-902001BLF"
+			(at 160.02 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" "649-1012938090201BLF"
+			(at 160.02 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CONFIG" ""
+			(at 160.02 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "19de8dc4-2b2a-4051-9a17-a57a537f73ca")
+		)
+		(pin "2"
+			(uuid "4e03834f-f635-41a4-ba8c-88b625cc786f")
+		)
+		(instances
+			(project "Dev-Kit"
+				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/cee9a3a2-28cd-4e6c-b23d-337f115f39e8"
+					(reference "X1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 140.97 44.45 0)
 		(mirror y)
@@ -6025,7 +6177,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 148.59 39.37 0)
+		(at 146.05 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -6033,7 +6185,7 @@
 		(dnp no)
 		(uuid "9eb533eb-c966-490d-8388-fd8377aec947")
 		(property "Reference" "TP107"
-			(at 151.13 35.433 0)
+			(at 139.446 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6042,7 +6194,7 @@
 			)
 		)
 		(property "Value" "VBAT"
-			(at 151.13 37.973 0)
+			(at 139.446 37.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6051,7 +6203,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 153.67 39.37 0)
+			(at 151.13 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6060,7 +6212,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 153.67 39.37 0)
+			(at 151.13 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6069,7 +6221,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 148.59 39.37 0)
+			(at 146.05 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6078,7 +6230,7 @@
 			)
 		)
 		(property "CONFIG" ""
-			(at 148.59 39.37 0)
+			(at 146.05 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6087,7 +6239,7 @@
 			)
 		)
 		(property "manf" ""
-			(at 148.59 39.37 0)
+			(at 146.05 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6096,7 +6248,7 @@
 			)
 		)
 		(property "manf#" ""
-			(at 148.59 39.37 0)
+			(at 146.05 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6105,7 +6257,7 @@
 			)
 		)
 		(property "mouser#" ""
-			(at 148.59 39.37 0)
+			(at 146.05 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6363,6 +6515,71 @@
 			(project "ZSWatch"
 				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/cee9a3a2-28cd-4e6c-b23d-337f115f39e8"
 					(reference "#PWR0118")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 149.86 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d5061211-b29e-4606-aa44-7b6b9a186d9c")
+		(property "Reference" "#PWR01"
+			(at 149.86 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 149.86 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 149.86 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 149.86 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 149.86 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "da2d3e13-eb59-4135-89f3-9cca5069f75e")
+		)
+		(instances
+			(project "Dev-Kit"
+				(path "/d5742f03-3b1a-42e5-a384-018bd4b919aa/cee9a3a2-28cd-4e6c-b23d-337f115f39e8"
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
