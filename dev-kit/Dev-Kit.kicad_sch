@@ -5,7 +5,7 @@
 	(uuid "d5742f03-3b1a-42e5-a384-018bd4b919aa")
 	(paper "A4")
 	(title_block
-		(title "ZSWatch v3 Dev-Kit")
+		(title "https://github.com/ZSWatch/Watch-HW")
 		(date "2025-05-09")
 		(rev "0")
 		(company "github.com/jakkra/ZSWatch-HW")
