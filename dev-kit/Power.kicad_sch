@@ -5,10 +5,10 @@
 	(uuid "9ea1b61d-5f7f-45f0-81ad-cc1dad603cf2")
 	(paper "A4")
 	(title_block
-		(title "https://github.com/ZSWatch/Watch-HW")
+		(title "Watch-HW")
 		(date "2025-05-09")
 		(rev "0")
-		(company "github.com/jakkra/ZSWatch-HW")
+		(company "https://github.com/ZSWatch/Watch-HW")
 	)
 	(lib_symbols
 		(symbol "Connector:TestPoint"

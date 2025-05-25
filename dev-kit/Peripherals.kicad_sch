@@ -5,10 +5,10 @@
 	(uuid "7f50151b-3eeb-4e85-a998-3a848990b0e8")
 	(paper "A3")
 	(title_block
-		(title "https://github.com/ZSWatch/Watch-HW")
+		(title "Watch-HW")
 		(date "2025-05-09")
 		(rev "0")
-		(company "github.com/jakkra/ZSWatch-HW")
+		(company "https://github.com/ZSWatch/Watch-HW")
 	)
 	(lib_symbols
 		(symbol "Bosch_Kampi:BMI270"

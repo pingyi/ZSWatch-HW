@@ -5,10 +5,10 @@
 	(uuid "ad9bb809-4253-41c5-916c-3ecd6d42abeb")
 	(paper "A3")
 	(title_block
-		(title "https://github.com/ZSWatch/Watch-HW")
+		(title "Watch-HW")
 		(date "2025-05-09")
 		(rev "0")
-		(company "github.com/jakkra/ZSWatch-HW")
+		(company "https://github.com/ZSWatch/Watch-HW")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_ARM_JTAG_SWD_10"
