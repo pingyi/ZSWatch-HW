@@ -11631,7 +11631,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RC0404FR-07150KL"
+		(property "manf#" "RC0402FR-07150KL"
 			(at 76.2 233.68 0)
 			(effects
 				(font
