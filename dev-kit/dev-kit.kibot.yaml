@@ -219,7 +219,7 @@ outputs:
           dest: other
         - source: ../dev-kit/print/devit-print_top.png
           dest: other
-        - source: ../dev-kit/print/devkit-print-bot.png
+        - source: ../dev-kit/print/devkit-print_bot.png
           dest: other
 
   - name: "BOM for PCBWay"
@@ -318,6 +318,17 @@ outputs:
       files:
         - source: centroid/**
       output: "Centroid_%D.%x"
+
+  - name: "ZIP Other"
+    comment: "ZIP Other"
+    type: compress
+    dir: .
+    category: "purchasing"
+    options:
+      format: ZIP
+      files:
+        - source: other/**
+      output: "Other_%D.%x"
 
   - name: "Step file"
     comment: "STEP file generation"
