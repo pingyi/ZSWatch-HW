@@ -18467,7 +18467,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "12401610E4-2A"
+		(property "manf#" "12401610E4#2A"
 			(at 156.21 234.95 0)
 			(effects
 				(font
