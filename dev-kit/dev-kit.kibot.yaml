@@ -222,6 +222,49 @@ outputs:
         - source: ../dev-kit/print/devkit-print-bot.png
           dest: other
 
+  - name: "BOM for PCBWay"
+    comment: "BOM for PCBWay"
+    type: bom
+    dir: docs
+    category: "purchasing"
+    options:
+      format: XLSX
+      count_smd_tht: true
+      output: "BOM_PCBWay.%x"
+      ref_separator: ','
+      columns:
+        - field: Row
+          name: Item
+        - field: References
+          name: Ref Des
+        - field: Build Quantity
+          name: Quantity
+        - field: manf
+          name: Manufacturer
+        - field: manf#
+          name: Mfg Part#
+        - field: Value
+          name: Description / Value
+        - field: Footprint
+          name: Package
+        - field: Footprint Type
+          name: Type
+        - field: Footprint Side
+          name: Side
+      distributors:
+        - Mouser
+      xlsx:
+        kicost: true
+        specs: true
+        kicost_config: kicost_config.yaml
+        kicost_api_disable:
+          # Don't use KitSpace, we have keys
+          - KitSpace
+        title: "%f BOM"
+        hide_stats_info: false
+        quote_all: true
+        logo_scale: 0.5
+
   - name: "BOM for Mouser"
     comment: "BOM for the Mouser BOM-Tool"
     type: bom
