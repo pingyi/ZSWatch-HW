@@ -276,17 +276,6 @@ outputs:
         - source: centroid/**
       output: "Centroid_%D.%x"
 
-  - name: "ZIP Other"
-    comment: "ZIP Other"
-    type: compress
-    dir: .
-    category: "purchasing"
-    options:
-      format: ZIP
-      files:
-        - source: other/**
-      output: "Other_%D.%x"
-
   - name: "Step file"
     comment: "STEP file generation"
     type: step
