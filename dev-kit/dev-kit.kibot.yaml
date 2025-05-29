@@ -16,7 +16,7 @@ global:
   date_format: "%Y-%m-%d"
 
 outputs:
-  - name: "Naviagation results"
+  - name: "Navigation results"
     comment: "Create navigation results page"
     type: navigate_results
     dir: overview
@@ -222,39 +222,37 @@ outputs:
         - source: ../dev-kit/print/devkit-print-bot.png
           dest: other
 
-  - name: "BOM for PCBWay"
-    comment: "BOM for PCBWay"
+  - name: "BOM for Mouser"
+    comment: "BOM for the Mouser BOM-Tool"
     type: bom
     dir: docs
     category: "purchasing"
     options:
       format: XLSX
       count_smd_tht: true
-      output: "BOM_PCBWay.%x"
+      output: "BOM_Mouser.%x"
       ref_separator: ','
       columns:
-        - field: Row
-          name: Item
-        - field: References
-          name: Ref Des
+        - field: manf#
+          name: Manufacturer Part Number
+        - field: mouser#
+          name: Mouser Part Number
+        - field: manf#
+          name: Manufacturer Name
+        - field: Value
+          name: Description
         - field: Build Quantity
           name: Quantity
-        - field: Mfr.
-          name: Manufacturer
-        - field: Mfr. No.
-          name: Mfg Part#
-        - field: Value
-          name: Description / Value
-        - field: Footprint
-          name: Package
-        - field: Footprint Type
-          name: Type
-        - field: Footprint Side
-          name: Side
       xlsx:
+        kicost: false
+        specs: false
         title: "%f BOM"
-        hide_stats_info: false
-        quote_all: true
+        hide_stats_info: true
+        hide_pcb_info: true
+        logo: false
+        col_colors: false
+        style: "classic"
+        title: ""
 
   - name: "ZIP Gerber"
     comment: "ZIP Gerber"
