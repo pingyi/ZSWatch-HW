@@ -15065,8 +15065,8 @@
 				)
 			)
 		)
-		(property "Value" "FAN5622SX"
-			(at 49.53 204.47 0)
+		(property "Value" "FAN5624UMPX"
+			(at 51.435 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)

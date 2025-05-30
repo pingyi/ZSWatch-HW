@@ -4269,7 +4269,7 @@
 				(hide yes)
 			)
 		)
-		(property "mouser#" "603-RC0402FR-07150KL"
+		(property "mouser#" "RC0402FR-07150KL"
 			(at 82.55 134.62 0)
 			(effects
 				(font
@@ -6544,7 +6544,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "04026D105MAT4A"
+		(property "manf#" "0402ZD225MAT2A"
 			(at 140.97 44.45 0)
 			(effects
 				(font
@@ -6553,7 +6553,7 @@
 				(hide yes)
 			)
 		)
-		(property "mouser#" "581-04026D105MAT4A"
+		(property "mouser#" "581-0402ZD225MAT2A"
 			(at 140.97 44.45 0)
 			(effects
 				(font
